@@ -1109,7 +1109,7 @@ the penalty for the first submission.
 with comments, questions, or corrections.</i></font>
 <p>
 
-<!--#include file="/analytics.html" -->
+<!--#include virtual="/analytics.html" -->
 
 </body>
 </html>

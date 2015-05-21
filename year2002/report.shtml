@@ -26,7 +26,7 @@ The <a href="standings.html">final standings</a> are available.
 <script language="JavaScript" src="../signature.js"></script>
 with comments, questions, or corrections.</i></font>
  
-<!--#include file="/analytics.html" -->
+<!--#include virtual="/analytics.html" -->
 
 </body>
 </html>

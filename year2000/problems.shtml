@@ -64,7 +64,7 @@ run. Netscape will simply display the file as text.
 with comments, questions, or corrections.</i></font>
 <p>
 
-<!--#include file="/analytics.html" -->
+<!--#include virtual="/analytics.html" -->
 
 </body>
 </html>

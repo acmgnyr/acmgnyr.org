@@ -22,7 +22,7 @@ Last modified 5 November 2002. Please email
 with comments, questions, or corrections.
 </i></font>
 
-<!--#include file="/analytics.html" -->
+<!--#include virtual="/analytics.html" -->
 
 </body>
 </html>

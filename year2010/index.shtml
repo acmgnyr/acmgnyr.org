@@ -141,7 +141,7 @@ Please email
 <SCRIPT LANGUAGE="JavaScript" SRC="/signature.js"></SCRIPT>
 with comments, questions, or corrections.
 </i></font>
-<!--#include file="/analytics.html" -->
+<!--#include virtual="/analytics.html" -->
 
 </body>
 </html>

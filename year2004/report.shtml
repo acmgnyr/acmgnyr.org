@@ -33,7 +33,7 @@ A link to the <a href="standings.shtml">standings</a>.
 with comments, questions, or corrections.</i></font>
 <p>
  
-<!--#include file="/analytics.html" -->
+<!--#include virtual="/analytics.html" -->
 
 </body>
 </html>

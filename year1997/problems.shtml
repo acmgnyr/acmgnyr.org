@@ -22,7 +22,7 @@ in Microsoft Word 97 format, all zipped together.
 with comments, questions, or corrections.</i></font>
 <p>
 
-<!--#include file="/analytics.html" -->
+<!--#include virtual="/analytics.html" -->
 
 </body>
 </html>

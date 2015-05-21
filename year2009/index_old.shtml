@@ -20,7 +20,7 @@ Last modified 19 August 2009. Please email
 with comments, questions, or corrections.
 </i></font>
 
-<!--#include file="/analytics.html" -->
+<!--#include virtual="/analytics.html" -->
 
 </body>
 </html>

@@ -50,9 +50,6 @@
     <center>
     <a href="http://www.developer.ibm.com/university/students/contests/acm">
       <img src="IBM-logo-white.png" height=100 alt="IBM" border=0></a>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    <a href="http://www.sjcny.edu/long-island">
-      <img src="/year2008/SJC_logo.jpg" height=100 alt="St. Joseph's College, New York" border=0></a>
     </center>
   </tr>
 </table>
@@ -146,10 +143,10 @@ contact the <b>Contest Director</b> <a href="mailto:smcintyre@acmgnyr.org">Sean 
 <hr>
 
 <font size=-1><i>
-Last modified <script . Please email <a href="mailto:director@acmgnyr.org">director@acmgnyr.org</a> with comments, questions, or corrections.
+Last modified <script src="lastmod.js"></script>. Please email <a href="mailto:director@acmgnyr.org">director@acmgnyr.org</a> with comments, questions, or corrections.
 </i></font>
 
-<!--#include file="/analytics.html" -->
+<!--#include virtual="/analytics.html" -->
 
 </body>
 </html>

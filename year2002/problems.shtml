@@ -88,7 +88,7 @@ Notes on several of the problems:
 <script language="JavaScript" src="../signature.js"></script>
 with comments, questions, or corrections.</i></font>
 
-<!--#include file="/analytics.html" -->
+<!--#include virtual="/analytics.html" -->
 
 </body>
 </html>

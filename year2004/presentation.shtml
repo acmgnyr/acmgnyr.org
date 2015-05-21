@@ -213,7 +213,7 @@ issue of communication between the sites.
 with comments, questions, or corrections.</i></font>
 <p>
  
-<!--#include file="/analytics.html" -->
+<!--#include virtual="/analytics.html" -->
 
 </body>
 </html>
