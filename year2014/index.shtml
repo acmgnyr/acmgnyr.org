@@ -1,22 +1,161 @@
 <html>
 <head>
 <title>2014 ACM ICPC Greater New York Region</title>
+<meta name="google-site-verification" content="dUFWn1xXlkSxFOu2R7z2_kn5rNexZJeSR0QIp5Xg6UY" />
 </head>
 
 <!--#include file="header.html" -->
 
-Welcome to home page of the ACM Regional Collegiate Programming
-Contest's Greater New York region. This region is home to schools from
-portions of New York, New Jersey, and Connecticut.
+<b><font color="#FF0000" size="+1">2014 General Contest Information</font></b>
+ 
+<ul>
+<li><b><a href="/year2014/rules.shtml">Contest rules</a></b>
+<li><b><a href="/year2014/standings.shtml">Final standings</a></b>
+<li><b><a href="/year2014/problems.shtml">Problems</a></b>
+<li><b>Hosted by:</b> <a href="http://sjcny.edu/long-island">St. Joseph's College</a>, Patchogue, NY
+  <ul>
+  <li> Campus map and Directions:
+       <tt><a href="http://www.sjcny.edu/long-island/about/campus-map">http://www.sjcny.edu/long-island/about/campus-map</a></tt>
+  </ul>
+<li><b>Date:</b> Sunday, November 16, 2014
+<li><b>Time:</b> 9 am to 6 pm. Approximate schedule:
+  <ul>
+  <li><b>9 am to 11 am:</b> Registration, practice, breakfast, IBM recruiting
+  <li><b>11 am to 12 noon:</b> Contestants' meeting
+  <li><b>12 noon to 5 pm:</b> Contest
+  <li><b>5:30 pm to 6 pm:</b> Awards presentation
+  </ul>
+<li><b>Cost:</b> $70 each team (including one coach per school), plus $30 per guest
+  <ul>
+  <li> Teams <b>must</b> register using the
+  <a href="http://icpc.baylor.edu/regionals/finder/greater-new-york-2014">ACM ICPC web site</a>.
+<!--  <li> Payment details:
+    <ul>
+    <li> Make checks payable to "ACM Greater NY Region" and mail to:<br>
+    &nbsp; &nbsp; Adam Florence<br>
+    &nbsp; &nbsp; 5058 Sirron Ct<br>
+    &nbsp; &nbsp; Dunwoody, GA 30338-5654<br>
+     <li> Credit card payments may be made through Google Checkout.
+     Email Adam Florence
+     (<tt><script language="JavaScript" src="/sig_adam.js"></script></tt>)
+     for instructions.
+     </ul>
+  <li> Acknowledgement of received payment will be sent by e-mail, and
+  hard-copy receipts will be provided at the contest.
+  -->
+  </ul>
+<li><b>Environment:</b> The contest will be run from a
+  bootable USB. You are encouraged to
+  <a href="http://eve.kean.edu/~leew/contest/downloads.html">download
+  the contest DVD</a> and use it in your training. You want the FC20
+  image, md5 checksum = <tt>d735e071eec28e3e069cfe90ec53281d</tt>.
+<li><b>Languages:</b> C/C++ and Java.
+</ul>
+ 
 <p>
 
-Please see <a href="http://acmgnyr.org">acmgnyr.org</a> .
+<b><font color="#FF0000" size="+1">Who Makes All This Possible?</font></b>
+
+<table>
+  <tr>
+    <center>
+    <a href="http://www.developer.ibm.com/university/students/contests/acm">
+      <img src="IBM-logo-white.png" height=100 alt="IBM" border=0></a>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <a href="http://www.sjcny.edu/long-island">
+      <img src="/year2008/SJC_logo.jpg" height=100 alt="St. Joseph's College, New York" border=0></a>
+    </center>
+  </tr>
+</table>
+
+<p>
+
+<b><font color="#FF0000" size="+1">Previous Years</font></b>
+<ul>
+  <li>2013 at Yale University:
+    <a href="year2013/standings.shtml">standings</a> or
+    <a href="year2013/problems.shtml">problems</a> or
+    <a href="year2013/rules.shtml">rules</a>
+  <li>2012 at Stony Brook University:
+    <a href="year2012/standings.shtml">standings</a> or
+    <a href="year2012/problems.shtml">problems</a> or
+    <a href="year2012/rules.shtml">rules</a>
+  <li>2011 at Adelphi University:
+    <a href="year2011/standings.shtml">standings</a> or
+    <a href="year2011/problems.shtml">problems</a>
+  <li>2010 at Rutgers University:
+    <a href="year2010/standings.shtml">standings</a> or
+    <a href="year2010/problems.shtml">problems</a>
+  <li>2009 at Hofstra University:
+    <a href="year2009/standings.shtml">standings</a> or
+    <a href="year2009/problems.shtml">problems</a>
+  <li>2008 at St. Joseph's College:
+    <a href="year2008/standings.shtml">standings</a> or
+    <a href="year2008/problems.shtml">problems</a>
+  <li>2007 at Kean University:
+    <a href="year2007/standings.shtml">standings</a> or
+    <a href="year2007/problems.shtml">problems</a>
+  <li>2006 at Nassau Community College:
+    <a href="year2006/standings.shtml">standings</a> or
+    <a href="year2006/problems.shtml">problems</a>
+  <li>2005 at Kean University:
+    <a href="year2005/standings.shtml">standings</a> or
+    <a href="year2005/problems.shtml">problems</a>
+  <li>2004 at Iona College and Stevens Tech:
+    <a href="year2004/standings.shtml">standings</a> or
+    <a href="year2004/problems.shtml">problems</a>
+  <li>2003 at New York Institute of Technology:
+    <a href="year2003/standings.shtml">standings</a> or
+    <a href="year2003/problems.shtml">problems</a>
+  <li>2002 at Columbia University:
+    <a href="year2002/standings.shtml">standings</a> or
+    <a href="year2002/problems.shtml">problems</a>
+  <li>2001 at Nassau Community College:
+    <a href="year2001/standings.shtml">standings</a> or
+    <a href="year2001/problems.shtml">problems</a>
+  <li>2000 at Kean University:
+    <a href="year2000/standings.shtml">standings</a> or
+    <a href="year2000/problems.shtml">problems</a>
+  <li>1999 at USMA:
+    <a href="year1999/standings.shtml">standings</a> or
+    <a href="year1999/problems.shtml">problems</a>
+  <li>1998 at Bloomfield College:
+    <a href="year1998/standings.shtml">standings</a> or
+    <a href="year1998/problems.shtml">problems</a>
+  <li>1997 at USMA:
+    <a href="year1997/problems.html">problems</a>
+</ul>
+
+<b><font color="#FF0000" size="+1">Other Useful Resources</font></b>
+
+<ul>
+<li><a href="http://acmicpc.org">ACM International Collegiate
+  Programming Contest</a>
+<li><a href="http://acm.uva.es/problemset">ACM International Collegiate
+  Programming Contest Problem Set Archive</a> at Universidad de Valladolid
+<li><u>Programming Challenges: The Programming Contest Training Manual</u>,
+  by Steve Skiena and Miguel Revilla, via
+  <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?isbn=0387001638">Barnes and Noble</a> or
+  <a href="http://www.amazon.com/exec/obidos/ASIN/0387001638/ref=nosim/thealgorithmrepo">Amazon</a>
+<li> Consortium for Computing Sciences in Colleges (CCSC) Programming
+  Contest, hosted by our very own
+  <a href="http://www.sjcny.edu/page.php/prmID/1723">St. Joseph's College</a>
+<li><a href="http://mathschallenge.net/index.php?section=project">Project
+    Euler</a>
+<li>ACM ICPC page on <a href="http://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest">Wikipedia</a>
+</ul>
+
+<p>
+
+<b><font color="#FF0000" size="+1">For More Information</font></b>
+contact the <b>Contest Co-Director</b> <a href="mailto:smcintyre@acmgnyr.org">Sean McIntyre</a><br>
 
 <hr>
 
 <font size=-1><i>
-Last modified 21 November 2014. Please email
-<script language="JavaScript" src="/signature.js"></script>
+Last modified 22 September 2014.
+Please email
+<SCRIPT LANGUAGE="JavaScript" SRC="/signature.js"></SCRIPT>
 with comments, questions, or corrections.
 </i></font>
 
