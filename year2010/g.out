@@ -1,0 +1,64 @@
+1 La[longst] night, we went to [longs]ee
+2 "[OE]dipus Rex" at the 
+3 [AE]gyptian's theater.
+4 The[longs]e programs are cro[longs]s-eyed.
+5 We want [longs]ucce[longs]s or my husband will ask for a transfer if [longs]ucce[longs]sful.
+6 A [longs]eam[longst]re[longs]s knows how to cro[longs]s[longst]ich and cro[longs]s[longst]a[ff] perfe[ct]ly.
+7 Some words. words, words: words-more words; words words$ hello
+8 programs
+9 [longs]ucce[longs]s
+10 cro[longs]s-eyed
+11 transfer
+12 husband
+13 ask
+14 [longs]ucce[longs]sful
+15 cro[longs]s[longst]itch
+16 cro[longs]s[longst]a[ff]
+17 pra[ct]ice
+18 G[ae]lic
+19 Sc[oe]nus
+20 [longsi]lence
+21 [longsh]ort
+22 [longsl]eep
+23 a[longss]es
+24 o[longssi]fy
+25 [fi]nd and o[ffl]oad o[ff]en[longsi]ve [fl]ags at the o[ffi]ce
+26 B(?) - Old Fa[longsh]ioned Type[longs]etting
+27 (tran[longsl]ated)
+28 In Olden Days, before digital type[longs]etting (before Babbage, even),
+29 type[longs]etting was an art, pra[ct]iced by highly-skilled craft[longs]men.
+30 Certain chara[ct]er combinations, [longs]uch as a-e or f-i were type[longs]et as
+31 a [longsi]ngle chara[ct]er, called a ligature, to [longs]ave [longs]pace and to make the
+32 chara[ct]ers look better together on the printed page (the ligatures for
+33 a-e and f-i were '[ae]' and '[fi]', re[longs]pe[ct]ively; the table, below,
+34 li[longst]s all po[longssi]ble ligature combinations).
+35 In addition (as you've probably already noticed), there were two
+36 di[ff]erent ver[longsi]ons of the lowerca[longs]e letter s:  the "long s" and the
+37 "[longsh]ort s".  Only the [longsh]ort s is u[longs]ed today.  The rules for when to
+38 u[longs]e which ver[longsi]on are odd, but [longst]raightforward:
+39 1.Short s is u[longs]ed at the end of a word, or before pun[ct]uation within
+40 a word, [longs]uch as a hyphen or apo[longst]rophe:  programs, [longs]ucce[longs]s, cro[longs]s-eyed.
+41 2.Short s is u[longs]ed before the letters 'f', 'b', or 'k':
+42 transfer, husband, ask, [longs]ucce[longs]sful.
+43 3.Long s is u[longs]ed everywhere el[longs]e, except...
+44 4.It is po[longssi]ble that a compound word con[longsi][longst]s of a word ending in a
+45 double s followed by a word beginning with s (this is the only [longsi]tuation
+46 where the [longs]equence "xxx" occurs in Engli[longsh] text).  In this ca[longs]e,
+47 the middle s is [longs]et [longsh]ort and the other two are [longs]et long:  cro[longs]s[longst]itch,
+48 cro[longs]s[longst]a[ff].
+49 Input
+50 The [fi]r[longst] line of input contains a [longsi]ngle integer P, (1 <= P <=
+51 1000), which is the number of data [longs]ets that follow.  Each data [longs]et
+52 con[longsi][longst]s of a [longsi]ngle line containing the data [longs]et number, followed by
+53 a [longs]pace, followed by a [longst]ring of no more than 1000 chara[ct]ers.
+54 Output
+55 For each data [longs]et, print the data [longs]et number, a [longs]pace, and the input
+56 [longst]ring, with the appropriate ligature and "long s" codes [longs]ub[longst]ituted
+57 into the [longst]ring.  The following table [longsh]ows the code [longst]rings to u[longs]e
+58 for each [longs]ymbol or ligature (note that the [longsh]ort s remains unchanged
+59 on output; note al[longs]o that '[AE]' and '[OE]' are the only upperca[longs]e
+60 ligatures):
+61 C[ae]n -- this line te[longst]s when a [longsi]mple ligature fails at the [longs]econd chara[ct]er
+62 This la[longst] line has exa[ct]ly 1000 chara[ct]ers on it.  It is u[longs]ed to te[longst] the input line re[longst]ri[ct]ions.  There [longsh]ould be enough [longst]u[ff] here to [fi]ll the line.  It ain't ea[longs]y to [fi]ll a thou[longs]and chara[ct]er line.  Let's try a few intere[longst]ing words with ligatures (from Shake[longs]peare):  can[longst], mo[longst], plea[longs]ant, [longsh]e, up[longsh]ot, [longs]oul, collu[longsi]on, di[ct]i[longsi]ma, prince[longs]s, prince[longss]e (olde [longs]pelling), a[ct]us prima, [longs]c[oe]na [longs]ecunda, Or[longsi]no, [fl]ouri[longsh], [longsh]rill-[longsh]riking, confus'd, me[longss]enger, [fi]ght, Ha[longst]ings, Ratcli[ff]e, ble[longss]ed, [longsi][longst]er.  I'm getting tired of this, [longs]o I gue[longs]s I'll ju[longst] ramble [longs]ome more, and hope that eventually I'll get to the end.  Not there yet, but I need to add encyclop[ae]dia, which really d[oe][longs]n't help anything.  How long is this going to go on?  I realize that I'm not u[longsi]ng a lot of ligatures here, but the purpo[longs]e of this line is for bounds checking, which is [longs]omething entirely di[ff]erent.  Wow!  I'm almo[longst] there.  Now there are le[longs]s than 80 chara[ct]ers to go.  Will I make it?  I certainly hope [longs]o. Yes! xx
+63 Ju[longst] One La[longst] Line -- to check over[fl]ow on the previous one
+64 headmi[longst]re[longs]s[longsh]ip

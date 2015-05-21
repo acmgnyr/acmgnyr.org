@@ -1,0 +1,101 @@
+33
+jd3s
+kh5s
+kdac2dqd  * SAMPLE
+2s3s
+2c3c
+4d5djhah  * SAMPLE
+4s7d
+khkd
+ahadkskc  * SAMPLE
+asad
+4s9c
+tcqckcjc  * Tests royal flushes vs. str. flush
+2s9s
+kd2c
+2d3d4d6d  * Tests tie with straight flush
+2s9s
+kc2c
+2d3d4d6d  * pair 9's but not 9D; that would make flush
+2s3d
+2c3h
+qsqdqcqh  * test 4 of a kind tie
+2s4d
+2c3h
+qsqdqcqh  * test 4 of a kind, need 3's for win
+7sqd
+kskd
+kcqcqhtc  * 3-kind vs 4-kind
+jsjc
+tdth
+tctsjhac  * 4-kind vs. 4-kind
+tdth
+jsjc
+tctsjhac  * 4-kind vs. 4-kind other way
+8c7s
+8d7c
+8h7d7h8s  * tie 2 pr
+3s3d
+acah
+6c6d6s3c  * fh, 6's over a's should win
+3s3d
+acah
+6c6s6das  * a's over 6's (14)
+adkc
+2dac
+5dtdjd3d  * flush, first guy always wins (15)
+3dkc
+4dac
+5dtdjd2d  * flush, second guys should always win (16)
+3dkc
+4dac
+8dtdjdkd  * flush, second guys should win unless diamond > 4 (17)
+5s6c
+2s3c
+8s7htc9d  * straight, no j's or 6's (18)
+5s6c
+2s6d
+tc9d8s7h  * straight, tie (19) any card
+4sjc
+6d7c
+9h8s5cqh  * inside bigger straight should win with T's (20)
+2s5d
+2c5h
+8c8d8sjc  * 3-kind tie (21)
+2s5d
+2c6h
+5cjs4d6c  * 3-kind 5's (22)
+ahad
+2c2s
+2dkh3c9s  * 3-kind aces beats 2s (23)
+5d5c
+3d3c
+8d2skh9s  * 2-pair 5's beat 3's  (any card but 3's)(24)
+jd7h
+4h4d
+jcah2d2s  * 2-pair j's/2's over 4's 2's (no 4's)(25)
+kd7h
+qhqd
+acah2d2s  * 2-pair ak's over a'qs (any k)(26)
+5d5c
+2s7c
+4djcah8d  * pair fives (no 7's) (27)
+2sah
+kdkh
+3cts6h4c  * any ace for pair or 5 for straight (28)
+2h2c
+2d2s
+7h3cjskh  * tie (29)
+5h8c
+5d3s
+9hjs5ckh  * any 8 for 2pr (30)
+5h8c
+5d3s
+9hjs5c2h  * any card <= 8 but not 2/3 (31)
+5h3c
+5d3s
+9hjs5c2h  * any card, tie (32)
+6has
+3d2h
+5s4cjskd  * high card A (an a/6 would give straight, 2/3 pair)(33)
+

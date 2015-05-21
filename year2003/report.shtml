@@ -1,0 +1,31 @@
+<!--#include file="header.html" -->
+
+<font size="+2"><b>Report</b></font>
+<p>
+
+The top two teams were:
+<ol>
+<li> Cornell 1: Pet Chean Ang, Bill Barksdale, Xin Qi, and
+  coach Martin Pal
+<li> Columbia 1: Jason Winokur, Bogdan Caprita, Payam Ahdout, and
+  coach Suhit Gupta
+</ol>
+
+The <a href="problems.html">problems</a> and
+<a href="standings.html">final standings</a> are also available.
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size="-1"><i>Last updated 10 November 2003. Please e-mail
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.</i></font>
+<p>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

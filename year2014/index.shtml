@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>2014 ACM ICPC Greater New York Region</title>
+</head>
+
+<!--#include file="header.html" -->
+
+Welcome to home page of the ACM Regional Collegiate Programming
+Contest's Greater New York region. This region is home to schools from
+portions of New York, New Jersey, and Connecticut.
+<p>
+
+Please see <a href="http://acmgnyr.org">acmgnyr.org</a> .
+
+<hr>
+
+<font size=-1><i>
+Last modified 21 November 2014. Please email
+<script language="JavaScript" src="/signature.js"></script>
+with comments, questions, or corrections.
+</i></font>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+r 47 4
+w 11 8
+w 0B 2/nostop
+r 1A 3/noack 0 20
+

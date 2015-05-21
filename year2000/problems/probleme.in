@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<acm-contest-problem>
+  <title>A Well-Formed Problem</title>
+    <text>XML, eXtensible Markup Language, is poised to become the lingua
+ franca of structured data communication for the foreseeable future.</text>
+  <input>probleme.in</input>
+  <output>probleme.out</output>
+</acm-contest-problem>
+
+<?xml version="1.0"?>
+<shopping-list>
+  <items>
+    <item quantity="1" quantity="1">Gallon of milk</item>
+    <item>Frozen pizza</items>
+</Shopping-list>
+<errand-list>
+  <errand>Get some cash at the ATM
+    <errand>Pick up dry cleaning</errand>
+  </errand>
+</errand-list>
+
+<?xml version="1.0"?>
+<a b="c"/>
+
+<?xml version="1.0"?>
+<a>A</a>
+
+<?xml version="1.0"?>
+<a></a>
+
+<?xml version="1.0"?>
+<a/>
+
+<?xml version="1.0"?>
+<a b="c">d<e b="c">f</e></a>
+
+<?xml version="1.0"?>
+<a><b>1</b><b>2</b><b>3</b><b last="yup!">4</b></a>
+
+<?xml version="1.0"?>
+<1>2<3>4</3></1>
+
+<?xml version="1.0"?>
+<DOC>
+<a><b><c><d><e><f><g><h><i><j><k><l><m><n><o><p><q><r><s><t><u><v><w><x><y><z>
+<a><b><c><d><e><f><g><h><i><j><k><l><m><n><o><p><q><r><s><t><u><v><w><x><y><z>
+<a><b><c><d><e><f><g><h><i><j><k><l><m><n><o><p><q><r><s><t><u><v><w><x><y><z>
+<a><b><c><d><e><f><g><h><i><j><k><l><m><n><o><p><q><r><s><t><u><v><w><x><y><z>
+<a><b><c><d><e><f><g><h><i><j><k><l><m><n><o><p><q><r><s><t><u><v><w><x><y><z>
+<a><b><c><d><e><f><g><h><i><j><k><l><m><n><o><p><q><r><s><t><u><v><w><x><y><z>
+<a><b><c><d><e><f><g><h><i><j><k><l><m><n><o><p><q><r><s><t><u><v><w><x><y><z>
+<a><b><c><d><e><f><g><h><i><j><k><l><m><n><o><p><q><r><s><t><u><v><w><x><y><z>
+<a><b><c><d><e><f><g><h><i><j><k><l><m><n><o><p><q><r><s><t><u><v><w><x><y><z>
+<a><b><c><d><e><f><g><h><i><j><k><l><m><n><o><p><q><r><s><t><u><v><w><x><y><z>
+</z></y></x></w></v></u></t></s></r></q></p></o></n></m></l></k></j></i></h></g></f></e></d></c></b></a>
+</z></y></x></w></v></u></t></s></r></q></p></o></n></m></l></k></j></i></h></g></f></e></d></c></b></a>
+</z></y></x></w></v></u></t></s></r></q></p></o></n></m></l></k></j></i></h></g></f></e></d></c></b></a>
+</z></y></x></w></v></u></t></s></r></q></p></o></n></m></l></k></j></i></h></g></f></e></d></c></b></a>
+</z></y></x></w></v></u></t></s></r></q></p></o></n></m></l></k></j></i></h></g></f></e></d></c></b></a>
+</z></y></x></w></v></u></t></s></r></q></p></o></n></m></l></k></j></i></h></g></f></e></d></c></b></a>
+</z></y></x></w></v></u></t></s></r></q></p></o></n></m></l></k></j></i></h></g></f></e></d></c></b></a>
+</z></y></x></w></v></u></t></s></r></q></p></o></n></m></l></k></j></i></h></g></f></e></d></c></b></a>
+</z></y></x></w></v></u></t></s></r></q></p></o></n></m></l></k></j></i></h></g></f></e></d></c></b></a>
+</z></y></x></w></v></u></t></s></r></q></p></o></n></m></l></k></j></i></h></g></f></e></d></c></b></a>
+</DOC>
+
+<?xml version="1.0"?>
+<end-of-well-formed/>
+
+<?xml version="1.0"?>
+<a><b><c></a></b></c>
+
+<?xml version="1.0"?>
+<a>
+
+<?xml version="1.0"?>
+<a>A<a/>
+
+<?xml version="1.0"?>
+</a>
+
+<?xml version="1.0"?>
+<a>b</A>
+
+<?xml version="1.0"?>
+<end-of-non-well-formed>
+
+<?end?>

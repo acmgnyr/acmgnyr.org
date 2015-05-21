@@ -1,0 +1,94 @@
+<!--#include file="header.html" -->
+
+<font size="+2"><b>Problems</b></font>
+<p>
+
+The problems are given as PDF documents. You can
+download <a href="problems.zip">all problems zipped together.</a>
+<p>
+
+The <a href="standings.html">standings and submission details</a>
+are also available.
+<p>
+
+<center><table border="1">
+<tr>
+  <td>Problem</td> <td>Judges' Input File</td> <td>Correct Output</td>
+  <td>Correct submissions</td> <td>Total submissions</td>
+</tr>
+<tr>
+  <td>
+  A - Four Quarters <br>
+  B - The Drunk Jailer <br>
+  C - Lingo <br>
+  D - Number Base Conversion <br>
+  E - Unimodal Palindromic Decompositions <br>
+  F - Extended Lights Out <br>
+  G - Dehuff <br>
+  H - Picture Puzzle <br>
+  I - Strictly Inscribed Similar Triangles</a>
+  </td><td>
+  (no input) <br>
+  <a href="problemb.in">problemb.in</a> <br>
+  <a href="problemc.in">problemc.in</a> <br>
+  <a href="problemd.in">problemd.in</a> <br>
+  <a href="probleme.in">probleme.in</a> <br>
+  <a href="problemf.in">problemf.in</a> <br>
+  <a href="problemg.in">problemg.in</a> <br>
+  <a href="problemh.in">problemh.in</a> <br>
+  <a href="problemi.in">problemi.in</a>
+  </td><td>
+  <a href="problema.out">problema.out</a> <br>
+  <a href="problemb.out">problemb.out</a> <br>
+  <a href="problemc.out">problemc.out</a> <br>
+  <a href="problemd.out">problemd.out</a> <br>
+  <a href="probleme.out">probleme.out</a> <br>
+  <a href="problemf.out">problemf.out</a> <br>
+  <a href="problemg.out">problemg.out</a> <br>
+  <a href="problemh.out">problemh.out</a> <br>
+  <a href="problemi.out">problemi.out</a>
+  </td><td align="right">
+  16 <br> 52 <br>  14 <br> 12 <br> 10 <br>  5 <br> 0 <br> 2 <br> 0
+  </td><td align="right">
+  28 <br> 75 <br> 154 <br> 25 <br> 23 <br> 12 <br> 8 <br> 4 <br> 0
+  </td>
+</tr>
+</table></center>
+<p>
+
+Notes on several of the problems:
+<ul>
+<li> <b>Problem B - The Drunk Jailer:</b>
+     This problem has a nice analytical solution. If there are
+     <i>n</i> cells, then exactly <i>floor( sqrt(n) )</i>
+     prisoners escape. I am quite embarassed to admit that I
+     wrote this problem, though I did not invent it, and I didn't
+     realize it had an analytic solution until three days after
+     the contest. See if you can derive the solution.
+<li> <b>Problem C - Lingo:</b>
+     Most of the incorrect submissions were either missing the initial
+     newline, or they forgot to read the initial newline in the dataset(s).
+     If the first line of the output is wrong, the problem is marked as wrong.
+<li> <b>Problem D - Number Base Conversion:</b>
+     Java does support arbitratry bases, but only up to base 36 (numbers and
+     one set of letters).
+<li> <b>All problems:</b>
+     All the judges' solutions were written in either C or C++ (strangely
+     enough, none of the judges' solutions used Java). None of the judges'
+     solutions used template libraries or "String" objects.
+</ul>
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size="-1"><i>Last updated 6 November 2002. Please e-mail
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.</i></font>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

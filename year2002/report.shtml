@@ -1,0 +1,32 @@
+<!--#include file="header.html" -->
+
+<font size="+2"><b>Report</b></font> <p>
+
+The winning team was from Cornell University. The team members were:
+
+<ul>
+<li> Lars Backstrom
+<li> Bill Barksdale
+<li> Michael Connor
+<li> Martin Pal and Hubie Chen, coaches
+</ul>
+
+The <a href="problems.html">problems</a> are available.
+<p>
+
+The <a href="standings.html">final standings</a> are available.
+<p>
+
+<hr>
+ 
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+ 
+<font size="-1"><i>Last updated 4 November 2002. Please e-mail
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.</i></font>
+ 
+ <!--#include file="piwik.html" -->
+
+</body>
+</html>

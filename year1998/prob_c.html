@@ -1,0 +1,77 @@
+<HTML>
+<HEAD>
+<TITLE>Problem C: Warning: May Cause Drowsiness [1998 GNY ACM contest]</TITLE>
+</HEAD>
+<BODY>
+
+<CENTER><H1>Problem C - Warning: May Cause Drowsiness</H1></CENTER>
+
+<P>Curez-R-Us pharmacy uses many informational or warning labels on
+the medications it dispenses, such as "Take with food", and "May cause
+drowsiness". To keep track of which labels should be used with which
+medications, Curez-R-Us maintains a text file. Each line of the file
+is 94 characters long. The first 55 characters of each line contain
+information about the medication, and the remaining 39 characters hold
+up to 13 three-lefter codes for the labels that must be affixed when
+that medication is dispensed. Specifically, the format of a line in
+this file is as follows:</P>
+
+<TABLE border=2 cellPadding=5 width="80%">
+  <TBODY>
+  <TR>
+    <TD>Characters 1-5</TD>
+    <TD>The Curez-R-Us unique 5-character identifier for the medication</TD></TR>
+  <TR>
+    <TD>Characters 6-25</TD>
+    <TD>The brand name for the medication, right-padded with spaces</TD></TR>
+  <TR>
+    <TD>Characters 26-55</TD>
+    <TD>The generic name for the medication, right-padded with spaces</TD></TR>
+  <TR>
+    <TD>Characters 56-94</TD>
+    <TD>Thirteen three-character fields, each containing either three blanks 
+      or a three-digit label code. If a medication requires N labels, then the 
+      codes for these labels fill the N leftmost label code fields. 
+  </TD></TR></TBODY></TABLE>
+<P>No medication currently requires more than thirteen informational or warning 
+labels.</P>
+<P>Although Curez-R-Us recently celebrated 27 years of faultless labeling, a 
+database engineer has informed the pharmacy that it should reorganize the way in 
+which its information is stored, and the pharmacy has reluctantly agreed to 
+allow the engineer to modify its file. The engineer says that the information 
+should be stored as follows: 
+<P><STRONG>First part of the file [Medications]:</STRONG><BR>A sequence of 
+55-character lines, the first 55 characters of each line of the original 
+file.</P>
+<P><STRONG>Second part of the file [What label goes where?]:</STRONG><BR>A 
+sequence of 8-character lines, each containing a 5-character medication code 
+xxxxx followed by a three-digit label code yyy, whenever yyy specifies a 
+required label for medication xxxxx.</P>
+<P><STRONG>INPUT:</STRONG> A file in the current Piliz-R-Us format.</P>
+<P><STRONG>OUTPUT:</STRONG> A file in the proposed Pillz-R-Us format providing 
+the same information. Within each part of the output file, the lines may be in 
+any order.</P>
+<HR>
+
+<H2>Example</H2>
+<H3>Input File</H3>[each line is right-padded with spaces to a length of 94 
+characters]: <PRE>HX87APaxil                 Paroxetine                     132439980
+87ECFSustiva               Efavirenz                      980302
+54JJMSurega                Placebo - Sugar Pill</PRE>
+<H3>Output File</H3>[The first three lines are padded with spaces to a length of 
+55 characters]: <PRE>HX87APaxil                 Paroxetine
+87ECFSustiva               Efavirenz
+54JJMSurega                Placebo - Sugar Pill
+HX87A132
+HX87A439
+HX87A980
+87ECF980
+87ECF302</PRE>
+
+<p></p>
+
+<hr>
+Scanned and beautified by onTy Toom,
+<a href="mailto:onty@acm.org">onty@acm.org</a>
+</BODY>
+</HTML>

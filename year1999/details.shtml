@@ -1,0 +1,143 @@
+<!--#include file="header.html" -->
+
+<font size="+2"><b>Details</b></font>
+<p>
+
+The <a href="standings.html">final standings</a> and
+<a href="problems.html">problems</a> are available. This page gives
+more detailed information about the submissions.
+<p>
+
+<ul>
+<li> 39 teams competed; last year, we had 31.
+<li> Only 3 teams didn't solve any problems; last year, 10 didn't.
+<li> There were 316 submissions, broken down as follows:
+<p>
+<center><table border="2" cellspacing="1" cellpadding="1">
+<tr>
+  <td></td> <td>Pascal</td> <td>C/C++</td> <td>ADA</td> <td>Total</td>
+</tr><tr>
+  <td>Correct<br>Incorrect</td> <td>0<br>0</td> <td>105<br>195</td>
+  <td>9<br>7</td> <td>114<br>202</td>
+</tr><tr>
+  <td>Total</td> <td>0</td> <td>300</td> <td>16</td> <td>316</td>
+</tr>
+</table></center>
+
+</ul>
+
+The following table lists the number of attempts for each problem, and
+whether or not that team eventually got the problem right. To find out
+your team number, check the <a href="standings.html">final
+standings</a>.
+<p>
+
+<pre>
+                 | A  | B  | C  | D  | E  | F  | G  | H  
+Team 01          |4/N |    |1/Y |    |    |    |    |    
+Team 02          |2/Y |1/Y |1/Y |    |    |    |    |    
+Team 03          |1/Y |1/Y |1/Y |1/N |1/Y |    |    |1/Y 
+Team 04          |2/Y |1/Y |4/Y |2/N |4/N |    |2/Y |    
+Team 05          |1/Y |2/Y |1/Y |    |1/Y |1/Y |3/N |1/N 
+Team 06          |3/Y |2/Y |3/Y |    |1/Y |1/Y |    |1/N 
+Team 07          |1/Y |1/Y |1/Y |5/N |1/Y |1/Y |1/Y |1/Y 
+Team 08          |3/Y |2/Y |1/Y |2/N |4/Y |1/Y |4/N |2/Y 
+Team 09          |1/N |    |2/Y |    |    |    |    |    
+Team 10          |3/Y |2/Y |3/Y |    |    |    |    |    
+Team 11          |1/N |    |    |    |    |    |    |    
+Team 12          |2/N |    |1/Y |    |    |    |    |2/N 
+Team 13          |10/N|1/N |1/Y |    |    |    |    |    
+Team 14          |2/N |    |1/N |    |    |    |    |    
+Team 15          |3/Y |    |1/Y |    |1/N |1/Y |    |    
+Team 16          |2/Y |    |1/Y |    |    |    |    |    
+Team 17          |13/N|    |1/Y |    |4/N |    |    |    
+Team 18          |3/N |    |1/Y |    |    |    |    |    
+Team 19          |2/Y |2/Y |1/Y |    |1/Y |1/Y |1/N |    
+Team 20          |3/Y |1/Y |4/Y |2/N |    |    |    |2/Y 
+Team 21          |4/Y |    |1/Y |    |1/Y |    |    |    
+Team 22          |3/Y |    |2/Y |    |1/N |    |    |    
+Team 23          |7/N |    |    |    |    |    |    |    
+Team 24          |8/Y |    |1/Y |    |    |    |    |    
+Team 25          |5/N |    |3/Y |    |    |    |    |    
+Team 26          |4/Y |    |1/Y |    |    |    |    |    
+Team 27          |2/Y |1/Y |1/Y |    |2/N |    |1/N |    
+Team 28          |2/N |2/Y |1/Y |    |1/N |1/Y |    |2/Y 
+Team 29          |3/Y |2/Y |1/Y |    |3/N |1/Y |    |    
+Team 30          |3/Y |1/Y |2/Y |    |1/Y |5/N |    |    
+Team 31          |5/Y |    |1/Y |    |    |    |    |7/N 
+Team 32          |8/Y |    |1/Y |    |    |1/Y |    |    
+Team 33          |1/Y |1/Y |1/Y |    |    |    |    |1/Y 
+Team 34          |4/Y |1/Y |1/Y |    |    |    |    |    
+Team 35          |4/Y |1/Y |1/Y |    |    |    |    |    
+Team 36          |1/Y |1/Y |2/Y |    |1/Y |1/Y |    |    
+Team 37          |2/Y |    |1/Y |    |    |    |    |    
+Team 38          |2/Y |1/Y |1/Y |    |1/Y |1/N |    |1/Y 
+Team 39          |3/Y |2/Y |1/Y |    |3/Y |    |    |    
+Total Solutions  |28  |20  |36  |0   |11  |10  |2   |7   
+</pre>
+<p>
+
+This table shows the time (in minutes after the contest started) when
+the team got the problem correct. If the entry is blank, then the team
+didn't get that problem correct. To find out your team number, check
+the <a href="standings.html">final standings</a>.
+<p>
+
+<pre>
+                 | A  | B  | C  | D  | E  | F  | G  | H  
+Team 01          |    |    |187 |    |    |    |    |    
+Team 02          |138 |186 |148 |    |    |    |    |    
+Team 03          |76  |90  |54  |    |168 |    |    |201 
+Team 04          |55  |129 |95  |    |    |    |264 |    
+Team 05          |47  |91  |25  |    |63  |152 |    |    
+Team 06          |102 |186 |209 |    |130 |75  |    |    
+Team 07          |24  |20  |26  |    |65  |64  |227 |274 
+Team 08          |112 |89  |31  |    |259 |81  |    |293 
+Team 09          |    |    |132 |    |    |    |    |    
+Team 10          |178 |249 |121 |    |    |    |    |    
+Team 11          |    |    |    |    |    |    |    |    
+Team 12          |    |    |92  |    |    |    |    |    
+Team 13          |    |    |120 |    |    |    |    |    
+Team 14          |    |    |    |    |    |    |    |    
+Team 15          |137 |    |141 |    |    |258 |    |    
+Team 16          |109 |    |39  |    |    |    |    |    
+Team 17          |    |    |45  |    |    |    |    |    
+Team 18          |    |    |30  |    |    |    |    |    
+Team 19          |77  |155 |37  |    |194 |267 |    |    
+Team 20          |71  |284 |108 |    |    |    |    |198 
+Team 21          |225 |    |57  |    |246 |    |    |    
+Team 22          |85  |    |100 |    |    |    |    |    
+Team 23          |    |    |    |    |    |    |    |    
+Team 24          |262 |    |154 |    |    |    |    |    
+Team 25          |    |    |184 |    |    |    |    |    
+Team 26          |177 |    |194 |    |    |    |    |    
+Team 27          |115 |113 |89  |    |    |    |    |    
+Team 28          |    |154 |19  |    |    |234 |    |255 
+Team 29          |164 |57  |68  |    |    |269 |    |    
+Team 30          |91  |285 |84  |    |115 |    |    |    
+Team 31          |126 |    |110 |    |    |    |    |    
+Team 32          |221 |    |48  |    |    |266 |    |    
+Team 33          |53  |182 |105 |    |    |    |    |287 
+Team 34          |156 |207 |127 |    |    |    |    |    
+Team 35          |171 |221 |55  |    |    |    |    |    
+Team 36          |79  |171 |90  |    |146 |227 |    |    
+Team 37          |131 |    |144 |    |    |    |    |    
+Team 38          |44  |128 |25  |    |205 |    |    |250 
+Team 39          |285 |260 |35  |    |278 |    |    |    
+Total Solutions  |28  |20  |36  |0   |11  |10  |2   |7   
+</pre>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size="-1"><i>Last updated 8 November 1999. Please e-mail
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.</i></font>
+<p>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

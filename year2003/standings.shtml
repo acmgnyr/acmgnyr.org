@@ -1,0 +1,1115 @@
+<!--#include file="header.html" -->
+
+<font size="+2"><b>Standings</b></font>
+<p>
+
+The top two teams were:
+<ol>
+<li> Cornell 1: Pet Chean Ang, Bill Barksdale, Xin Qi, and
+  coach Martin Pal
+<li> Columbia 1: Jason Winokur, Bogdan Caprita, Payam Ahdout, and
+  coach Suhit Gupta
+</ol>
+
+Special congratulations go to NYU team 2, the top team composed
+of only freshmen and sophomores. Great work, and we hope to see
+you again in the future.
+<p>
+
+The <a href="problems.html">problems are also available</a>.
+<p>
+
+You will notice that each team belongs to a set, <b>S1</b>, <b>S2</b>,
+or <b>S3</b>. <b>S1</b> are teams composed of only freshmen and
+sophomores; <b>S2</b> are teams composed of only undergraduates, minus
+S1; <b>S3</b> is teams with graduate students.
+<p>
+
+<table border=1>
+ <tr>
+  <td> <b><u>Rank</u></b> </td>
+  <td> <b><u>Name</u></b> </td>
+  <td> <b><u>Solved</u></b> </td>
+  <td> <b><u>Penalty</u></b> </td>
+  <td align=right> <b><u>A</u></b> </td>
+  <td align=right> <b><u>B</u></b> </td>
+  <td align=right> <b><u>C</u></b> </td>
+  <td align=right> <b><u>D</u></b> </td>
+  <td align=right> <b><u>E</u></b> </td>
+  <td align=right> <b><u>F</u></b> </td>
+  <td align=right> <b><u>G</u></b> </td>
+  <td align=right> <b><u>H</u></b> </td>
+  <td align=right> <b><u>I</u></b> </td>
+  <td align=right> <b><u>Total</u></b> </td>
+ </tr>
+ <tr>
+  <td align=right> 1 </td>
+  <td> Cornell 1 S3 </td>
+  <td align=right> 7 </td>
+  <td align=right> 804 </td>
+  <td align=right> 1/14 </td>
+  <td align=right> 1/24 </td>
+  <td align=right> 4/283 </td>
+  <td align=right> 1/-- </td>
+  <td align=right> 1/181 </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/59 </td>
+  <td align=right> 4/71 </td>
+  <td align=right> 1/112 </td>
+  <td align=right> 7/14 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 2 </td>
+  <td> Columbia 1 S3 </td>
+  <td align=right> 6 </td>
+  <td align=right> 1004 </td>
+  <td align=right> 1/22 </td>
+  <td align=right> 1/37 </td>
+  <td align=right> 7/257 </td>
+  <td align=right> 2/242 </td>
+  <td align=right> 1/-- </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/69 </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/197 </td>
+  <td align=right> 6/16 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 3 </td>
+  <td> NYU 1 S2 </td>
+  <td align=right> 5 </td>
+  <td align=right> 503 </td>
+  <td align=right> 1/36 </td>
+  <td align=right> 1/20 </td>
+  <td> &nbsp; </td>
+  <td align=right> 4/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/70 </td>
+  <td align=right> 3/205 </td>
+  <td align=right> 1/132 </td>
+  <td align=right> 5/11 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 4 </td>
+  <td> SUNY-SB 1 S3 </td>
+  <td align=right> 5 </td>
+  <td align=right> 944 </td>
+  <td align=right> 1/19 </td>
+  <td align=right> 3/45 </td>
+  <td align=right> 4/296 </td>
+  <td> &nbsp; </td>
+  <td align=right> 4/-- </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/130 </td>
+  <td> &nbsp; </td>
+  <td align=right> 4/274 </td>
+  <td align=right> 5/18 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 5 </td>
+  <td> NYU 3 S2 </td>
+  <td align=right> 4 </td>
+  <td align=right> 267 </td>
+  <td align=right> 1/13 </td>
+  <td align=right> 1/104 </td>
+  <td align=right> 1/55 </td>
+  <td> &nbsp; </td>
+  <td align=right> 3/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/95 </td>
+  <td align=right> 4/7 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 6 </td>
+  <td> Yale 2 S2 </td>
+  <td align=right> 4 </td>
+  <td align=right> 378 </td>
+  <td align=right> 1/16 </td>
+  <td align=right> 1/42 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/-- </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/-- </td>
+  <td align=right> 2/193 </td>
+  <td align=right> 1/107 </td>
+  <td align=right> 4/9 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 7 </td>
+  <td> Dowling 2 S2 </td>
+  <td align=right> 4 </td>
+  <td align=right> 538 </td>
+  <td align=right> 2/29 </td>
+  <td align=right> 2/60 </td>
+  <td align=right> 1/211 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/198 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 4/6 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 8 </td>
+  <td> Brooklyn 2 S3 </td>
+  <td align=right> 4 </td>
+  <td align=right> 556 </td>
+  <td align=right> 1/23 </td>
+  <td align=right> 4/65 </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/144 </td>
+  <td align=right> 1/264 </td>
+  <td> &nbsp; </td>
+  <td align=right> 4/9 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 9 </td>
+  <td> Cooper 1 S2 </td>
+  <td align=right> 4 </td>
+  <td align=right> 564 </td>
+  <td align=right> 3/35 </td>
+  <td align=right> 1/54 </td>
+  <td align=right> 2/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/293 </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/122 </td>
+  <td align=right> 4/9 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 10 </td>
+  <td> Stevens 1 S2 </td>
+  <td align=right> 4 </td>
+  <td align=right> 597 </td>
+  <td align=right> 3/22 </td>
+  <td align=right> 1/25 </td>
+  <td align=right> 4/-- </td>
+  <td> &nbsp; </td>
+  <td align=right> 3/294 </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/156 </td>
+  <td align=right> 2/-- </td>
+  <td> &nbsp; </td>
+  <td align=right> 4/15 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 11 </td>
+  <td> Hofstra 1 S2 </td>
+  <td align=right> 4 </td>
+  <td align=right> 615 </td>
+  <td align=right> 1/55 </td>
+  <td align=right> 1/115 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/114 </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/291 </td>
+  <td align=right> 4/6 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 12 </td>
+  <td> Cornell 2 S2 </td>
+  <td align=right> 4 </td>
+  <td align=right> 661 </td>
+  <td align=right> 1/19 </td>
+  <td align=right> 1/40 </td>
+  <td align=right> 1/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 3/243 </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/299 </td>
+  <td align=right> 4/8 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 13 </td>
+  <td> Cooper 2 S2 </td>
+  <td align=right> 4 </td>
+  <td align=right> 691 </td>
+  <td align=right> 1/30 </td>
+  <td align=right> 2/227 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/163 </td>
+  <td align=right> 1/251 </td>
+  <td align=right> 4/-- </td>
+  <td align=right> 4/9 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 14 </td>
+  <td> Yeshiva 1 S2 </td>
+  <td align=right> 3 </td>
+  <td align=right> 266 </td>
+  <td align=right> 1/14 </td>
+  <td align=right> 1/28 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 4/-- </td>
+  <td align=right> 1/224 </td>
+  <td> &nbsp; </td>
+  <td align=right> 8/-- </td>
+  <td align=right> 3/15 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 15 </td>
+  <td> Yale 1 S2 </td>
+  <td align=right> 3 </td>
+  <td align=right> 296 </td>
+  <td align=right> 1/19 </td>
+  <td align=right> 1/22 </td>
+  <td> &nbsp; </td>
+  <td align=right> 3/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/235 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 3/7 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 16 </td>
+  <td> Yeshiva 2 S2 </td>
+  <td align=right> 3 </td>
+  <td align=right> 323 </td>
+  <td align=right> 1/26 </td>
+  <td align=right> 1/27 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 5/-- </td>
+  <td align=right> 2/250 </td>
+  <td align=right> 4/-- </td>
+  <td align=right> 3/13 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 17 </td>
+  <td> NYU 2 S1 </td>
+  <td align=right> 3 </td>
+  <td align=right> 344 </td>
+  <td align=right> 1/30 </td>
+  <td align=right> 1/42 </td>
+  <td align=right> 1/272 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 3/3 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 18 </td>
+  <td> Ramapo 1 S2 </td>
+  <td align=right> 3 </td>
+  <td align=right> 403 </td>
+  <td align=right> 1/12 </td>
+  <td align=right> 1/29 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 4/302 </td>
+  <td align=right> 3/6 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 19 </td>
+  <td> Yale 3 S2 </td>
+  <td align=right> 3 </td>
+  <td align=right> 404 </td>
+  <td align=right> 2/95 </td>
+  <td align=right> 1/64 </td>
+  <td align=right> 5/-- </td>
+  <td align=right> 6/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/225 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 3/15 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 20 </td>
+  <td> SUNY-SB 2 S3 </td>
+  <td align=right> 3 </td>
+  <td align=right> 455 </td>
+  <td align=right> 2/56 </td>
+  <td align=right> 2/89 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 4/-- </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/270 </td>
+  <td align=right> 3/9 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 21 </td>
+  <td> Brooklyn 1 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 58 </td>
+  <td align=right> 1/34 </td>
+  <td align=right> 1/24 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/3 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 22 </td>
+  <td> NYIT 2 S? </td>
+  <td align=right> 2 </td>
+  <td align=right> 62 </td>
+  <td align=right> 1/20 </td>
+  <td align=right> 1/42 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/-- </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/5 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 23 </td>
+  <td> Columbia 2 S3 </td>
+  <td align=right> 2 </td>
+  <td align=right> 65 </td>
+  <td align=right> 1/17 </td>
+  <td align=right> 1/48 </td>
+  <td align=right> 3/-- </td>
+  <td align=right> 5/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 3/-- </td>
+  <td align=right> 2/13 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 24 </td>
+  <td> Stevens 3 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 88 </td>
+  <td align=right> 1/36 </td>
+  <td align=right> 1/52 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/3 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 25 </td>
+  <td> Columbia 3 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 92 </td>
+  <td align=right> 1/21 </td>
+  <td align=right> 2/51 </td>
+  <td align=right> 2/-- </td>
+  <td align=right> 7/-- </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/13 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 26 </td>
+  <td> Pace 1 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 93 </td>
+  <td align=right> 1/32 </td>
+  <td align=right> 1/61 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/2 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 27 </td>
+  <td> Stevens 2 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 98 </td>
+  <td align=right> 1/19 </td>
+  <td align=right> 1/79 </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/3 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 28 </td>
+  <td> NYIT 1 S? </td>
+  <td align=right> 2 </td>
+  <td align=right> 117 </td>
+  <td align=right> 1/62 </td>
+  <td align=right> 1/55 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/2 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 29 </td>
+  <td> Yeshiva 3 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 135 </td>
+  <td align=right> 1/37 </td>
+  <td align=right> 1/98 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 4/-- </td>
+  <td align=right> 2/6 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 30 </td>
+  <td> TCNJ 2 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 143 </td>
+  <td align=right> 1/81 </td>
+  <td align=right> 1/62 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 3/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/5 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 31 </td>
+  <td> NJIT 2 S3 </td>
+  <td align=right> 2 </td>
+  <td align=right> 152 </td>
+  <td align=right> 1/33 </td>
+  <td align=right> 1/119 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/4 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 32 </td>
+  <td> USMA 1 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 153 </td>
+  <td align=right> 1/59 </td>
+  <td align=right> 1/94 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/2 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 33 </td>
+  <td> Iona 1 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 160 </td>
+  <td align=right> 1/59 </td>
+  <td align=right> 2/81 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/3 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 34 </td>
+  <td> NJIT 1 S3 </td>
+  <td align=right> 2 </td>
+  <td align=right> 171 </td>
+  <td align=right> 1/62 </td>
+  <td align=right> 1/109 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/2 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 35 </td>
+  <td> USMA 2 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 177 </td>
+  <td align=right> 1/39 </td>
+  <td align=right> 1/138 </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/4 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 36 </td>
+  <td> NCC 1 S1 </td>
+  <td align=right> 2 </td>
+  <td align=right> 180 </td>
+  <td align=right> 1/50 </td>
+  <td align=right> 1/130 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/2 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 37 </td>
+  <td> Hofstra 2 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 186 </td>
+  <td align=right> 1/36 </td>
+  <td align=right> 1/150 </td>
+  <td> &nbsp; </td>
+  <td align=right> 3/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/5 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 38 </td>
+  <td> Dowling 3 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 189 </td>
+  <td align=right> 2/49 </td>
+  <td align=right> 1/120 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/3 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 39 </td>
+  <td> Vassar 1 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 198 </td>
+  <td align=right> 1/42 </td>
+  <td align=right> 1/156 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/2 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 40 </td>
+  <td> Cooper 3 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 202 </td>
+  <td align=right> 3/67 </td>
+  <td align=right> 1/95 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/4 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 41 </td>
+  <td> Kean 1 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 202 </td>
+  <td align=right> 1/20 </td>
+  <td align=right> 3/142 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/4 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 42 </td>
+  <td> Rutgers 1 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 205 </td>
+  <td align=right> 1/46 </td>
+  <td align=right> 1/159 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/3 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 43 </td>
+  <td> Fordham 2 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 208 </td>
+  <td align=right> 1/65 </td>
+  <td align=right> 1/143 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/2 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 44 </td>
+  <td> TCNJ 1 S1 </td>
+  <td align=right> 2 </td>
+  <td align=right> 249 </td>
+  <td align=right> 1/42 </td>
+  <td align=right> 4/147 </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/-- </td>
+  <td align=right> 2/8 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 45 </td>
+  <td> CCNY 1 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 250 </td>
+  <td align=right> 3/112 </td>
+  <td align=right> 1/98 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/4 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 46 </td>
+  <td> SUNY-OW 3 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 260 </td>
+  <td align=right> 2/101 </td>
+  <td align=right> 2/119 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/4 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 47 </td>
+  <td> CCNY 2 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 276 </td>
+  <td align=right> 4/119 </td>
+  <td align=right> 1/97 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/5 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 48 </td>
+  <td> TCNJ 3 S1 </td>
+  <td align=right> 2 </td>
+  <td align=right> 294 </td>
+  <td align=right> 1/63 </td>
+  <td align=right> 1/231 </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/4 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 49 </td>
+  <td> SUNY-OW 2 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 352 </td>
+  <td align=right> 1/61 </td>
+  <td align=right> 1/291 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/2 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 50 </td>
+  <td> SUNY-SB 3 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 355 </td>
+  <td align=right> 5/235 </td>
+  <td align=right> 1/40 </td>
+  <td align=right> 2/-- </td>
+  <td align=right> 4/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/12 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 51 </td>
+  <td> Fairfield 1 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 429 </td>
+  <td align=right> 5/180 </td>
+  <td align=right> 1/169 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/6 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 52 </td>
+  <td> Queens 1 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 436 </td>
+  <td align=right> 2/74 </td>
+  <td align=right> 2/-- </td>
+  <td align=right> 1/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 4/282 </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/-- </td>
+  <td align=right> 2/10 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 53 </td>
+  <td> Dowling 1 S2 </td>
+  <td align=right> 2 </td>
+  <td align=right> 461 </td>
+  <td align=right> 1/147 </td>
+  <td align=right> 3/274 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/-- </td>
+  <td align=right> 2/5 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 54 </td>
+  <td> Fairfield 2 S3 </td>
+  <td align=right> 2 </td>
+  <td align=right> 513 </td>
+  <td align=right> 1/157 </td>
+  <td align=right> 4/296 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 2/5 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 55 </td>
+  <td> Adelphi 1 S1 </td>
+  <td align=right> 1 </td>
+  <td align=right> 25 </td>
+  <td align=right> 1/25 </td>
+  <td align=right> 4/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/5 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 56 </td>
+  <td> Fordham 1 S3 </td>
+  <td align=right> 1 </td>
+  <td align=right> 40 </td>
+  <td align=right> 1/40 </td>
+  <td align=right> 4/-- </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/5 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 57 </td>
+  <td> SUNY-OW 1 S2 </td>
+  <td align=right> 1 </td>
+  <td align=right> 51 </td>
+  <td align=right> 1/51 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/1 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 58 </td>
+  <td> NCC 2 S1 </td>
+  <td align=right> 1 </td>
+  <td align=right> 111 </td>
+  <td align=right> 2/91 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 1/2 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 59 </td>
+  <td> NCC 3 S1 </td>
+  <td align=right> 0 </td>
+  <td align=right> 0 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 0/0 </td>
+ </tr>
+
+ <tr>
+  <td align=right> 60 </td>
+  <td> Rutgers 2 S? </td>
+  <td align=right> 0 </td>
+  <td align=right> 0 </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td align=right> 0/0 </td>
+ </tr>
+
+ <tr>
+  <td> &nbsp; </td>
+  <td> <b>Summary</b> </td>
+  <td> &nbsp; </td>
+  <td> &nbsp; </td>
+  <td> 84/58/12 </td>
+  <td> 84/53/20 </td>
+  <td> 38/6/55 </td>
+  <td> 43/1/242 </td>
+  <td> 19/2/181 </td>
+  <td> 8/0/-- </td>
+  <td> 40/15/59 </td>
+  <td> 15/6/71 </td>
+  <td> 47/11/95 </td>
+  <td> 378/152 </td>
+</table>
+
+How to read the table:
+<p>
+
+In columns <b><u>A</u></b> through <b><u>I</u></b>, the entries look
+like <b>number / time</b>. The <b>number</b> is the number of submissions;
+the <b>time</b> is the total time penalty for that problem. If the <b>time</b>
+is <b>--</b>, it means that the team did not solve that problem.
+<p>
+
+In the <b><u>Total</u></b> column, the entries look like
+<b> correct / total</b>. The <b>correct</b> is the number of correct
+submissions, and <b>total</b> is the total number of submissions.
+<p>
+
+In the last row, the entries look like <b>attempt / correct / time</b>.
+The <b>attempt</b> is the number of submissions for that problem;
+<b>correct</b> is the number of correct submissions. The <b>time</b> is
+the penalty for the first submission.
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size="-1"><i>Last updated 13 November 2003. Please e-mail
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.</i></font>
+<p>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

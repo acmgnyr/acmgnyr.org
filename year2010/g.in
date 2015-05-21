@@ -1,0 +1,65 @@
+64
+1 Last night, we went to see
+2 "Oedipus Rex" at the 
+3 AEgyptian's theater.
+4 These programs are cross-eyed.
+5 We want success or my husband will ask for a transfer if successful.
+6 A seamstress knows how to crossstich and crossstaff perfectly.
+7 Some words. words, words: words-more words; words words$ hello
+8 programs
+9 success
+10 cross-eyed
+11 transfer
+12 husband
+13 ask
+14 successful
+15 crossstitch
+16 crossstaff
+17 practice
+18 Gaelic
+19 Scoenus
+20 silence
+21 short
+22 sleep
+23 asses
+24 ossify
+25 find and offload offensive flags at the office
+26 B(?) - Old Fashioned Typesetting
+27 (translated)
+28 In Olden Days, before digital typesetting (before Babbage, even),
+29 typesetting was an art, practiced by highly-skilled craftsmen.
+30 Certain character combinations, such as a-e or f-i were typeset as
+31 a single character, called a ligature, to save space and to make the
+32 characters look better together on the printed page (the ligatures for
+33 a-e and f-i were 'ae' and 'fi', respectively; the table, below,
+34 lists all possible ligature combinations).
+35 In addition (as you've probably already noticed), there were two
+36 different versions of the lowercase letter s:  the "long s" and the
+37 "short s".  Only the short s is used today.  The rules for when to
+38 use which version are odd, but straightforward:
+39 1.Short s is used at the end of a word, or before punctuation within
+40 a word, such as a hyphen or apostrophe:  programs, success, cross-eyed.
+41 2.Short s is used before the letters 'f', 'b', or 'k':
+42 transfer, husband, ask, successful.
+43 3.Long s is used everywhere else, except...
+44 4.It is possible that a compound word consists of a word ending in a
+45 double s followed by a word beginning with s (this is the only situation
+46 where the sequence "xxx" occurs in English text).  In this case,
+47 the middle s is set short and the other two are set long:  crossstitch,
+48 crossstaff.
+49 Input
+50 The first line of input contains a single integer P, (1 <= P <=
+51 1000), which is the number of data sets that follow.  Each data set
+52 consists of a single line containing the data set number, followed by
+53 a space, followed by a string of no more than 1000 characters.
+54 Output
+55 For each data set, print the data set number, a space, and the input
+56 string, with the appropriate ligature and "long s" codes substituted
+57 into the string.  The following table shows the code strings to use
+58 for each symbol or ligature (note that the short s remains unchanged
+59 on output; note also that 'AE' and 'OE' are the only uppercase
+60 ligatures):
+61 Caen -- this line tests when a simple ligature fails at the second character
+62 This last line has exactly 1000 characters on it.  It is used to test the input line restrictions.  There should be enough stuff here to fill the line.  It ain't easy to fill a thousand character line.  Let's try a few interesting words with ligatures (from Shakespeare):  canst, most, pleasant, she, upshot, soul, collusion, dictisima, princess, princesse (olde spelling), actus prima, scoena secunda, Orsino, flourish, shrill-shriking, confus'd, messenger, fight, Hastings, Ratcliffe, blessed, sister.  I'm getting tired of this, so I guess I'll just ramble some more, and hope that eventually I'll get to the end.  Not there yet, but I need to add encyclopaedia, which really doesn't help anything.  How long is this going to go on?  I realize that I'm not using a lot of ligatures here, but the purpose of this line is for bounds checking, which is something entirely different.  Wow!  I'm almost there.  Now there are less than 80 characters to go.  Will I make it?  I certainly hope so. Yes! xx
+63 Just One Last Line -- to check overflow on the previous one
+64 headmistressship

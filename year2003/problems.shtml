@@ -1,0 +1,84 @@
+<!--#include file="header.html" -->
+
+<font size="+2"><b>Problems</b></font>
+<p>
+
+The problems are given as PDF documents. You can
+download <a href="problems.zip">all problems zipped together.</a>
+<p>
+
+The <a href="standings.html">standings and submission details</a>
+are also available.
+<p>
+
+<center><table border="1">
+<tr>
+  <td>Problem</td> <td>Judges' Solution</td> <td>Judges' Input File</td>
+  <td>Correct Output</td> <td>Correct submissions</td>
+  <td>Total submissions</td>
+</tr>
+<tr>
+  <td>
+  <a href="a.pdf">A - Biker's Trip Odometer</a> <br>
+  <a href="b.pdf">B - Candy Sharing Game</a> <br>
+  <a href="c.pdf">C - Peg Game</a> <br>
+  <a href="d.pdf">D - Taxation With Representation Overdone</a> <br>
+  <a href="e.pdf">E - It's Logical</a> <br>
+  <a href="f.pdf">F - Obstructed Rook Circuits</a> <br>
+  <a href="g.pdf">G - Rhyme Schemes</a> <br>
+  <a href="h.pdf">H - Fully Diversified Sequences of Sets</a> <br>
+  <a href="i.pdf">I - Exocenter of a Triangle </a>
+  </td><td>
+  <a href="a.cpp">a.cpp</a> <br>
+  <a href="b.cpp">b.cpp</a> <br>
+  <a href="c.cpp">c.cpp</a> <br>
+  <a href="d.cpp">d.cpp</a> <br>
+  <a href="e.cpp">e.cpp</a> <br>
+  <a href="f.cpp">f.cpp</a> <br>
+  <a href="g.cpp">g.cpp</a> <br>
+  <a href="h.cpp">h.cpp</a> <br>
+  <a href="i.cpp">i.cpp</a>
+  </td><td>
+  <a href="a.in">a.in</a> <br>
+  <a href="b.in">b.in</a> <br>
+  <a href="c.in">c.in</a> <br>
+  <a href="d.in">d.in</a> <br>
+  <a href="e.in">e.in</a> <br>
+  <a href="f.in">f.in</a> <br>
+  <a href="g.in">g.in</a> <br>
+  <a href="h.in">h.in</a> <br>
+  <a href="i.in">i.in</a>
+  </td><td>
+  <a href="a.out">a.out</a> <br>
+  <a href="b.out">b.out</a> <br>
+  <a href="c.out">c.out</a> <br>
+  <a href="d.out">d.out</a> <br>
+  <a href="e.out">e.out</a> <br>
+  <a href="f.out">f.out</a> <br>
+  <a href="g.out">g.out</a> <br>
+  <a href="h.out">h.out</a> <br>
+  <a href="i.out">i.out</a>
+  </td><td align="right">
+  58 <br> 53 <br>  6 <br>  1 <br>  2 <br> 0 <br> 15 <br> 6 <br> 11
+  </td><td align="right">
+  84 <br> 84 <br> 35 <br> 41 <br> 16 <br> 6 <br> 37 <br> 9 <br> 38
+  </td>
+</tr>
+</table></center>
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size="-1"><i>Last updated 11 November 2003. Please e-mail
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.</i></font>
+<p>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>
+

@@ -1,0 +1,16 @@
+        &TRIM = 1
+        PAT = LEN(1) . HEAD LEN(2) . TAIL
+*
+        P = +INPUT
+READ    P = GT(P, 0) P - 1                             :F(END)
+        C = +INPUT
+        LINE = INPUT                                    :F(ERROR)
+        MTAB = TABLE()
+MATCH   LINE PAT = TAIL                                 :F(PRINT)
+        MTAB<HEAD TAIL> = MTAB<HEAD TAIL> + 1           :(MATCH)
+PRINT   OUTPUT = C ' ' +MTAB<'TTT'> ' ' +MTAB<'TTH'>
++                  ' ' +MTAB<'THT'> ' ' +MTAB<'THH'>
++                  ' ' +MTAB<'HTT'> ' ' +MTAB<'HTH'>
++                  ' ' +MTAB<'HHT'> ' ' +MTAB<'HHH'>    :(READ)
+ERROR   OUTPUT = 'INPUT ERROR: SHOULD NOT HAPPEN'       :(END)
+END

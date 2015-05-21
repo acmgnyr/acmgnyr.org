@@ -1,0 +1,66 @@
+<HTML>
+<HEAD>
+<TITLE>Problem D: Cryptoquivalence Classes [1998 GNY ACM contest]</TITLE>
+</HEAD>
+<BODY>
+
+<CENTER><H1>Problem D - Cryptoquivalence Classes</H1></CENTER>
+
+<P>We create a cryptogram of some text if we replace each occurence of
+the letter <TT>A</TT> by one letter of the alphabet, each occurence of
+the letter <TT>B</TT> by some other letter of the alphabet, and so
+on. For example, one cryptogram of <TT>"TO BE OR NOT TO BE"</TT> is
+<TT>"ZX OI XR AXZ ZX OI"</TT>. Another cryptogram of the same phrase
+is <TT>"AB CD BE FBA AB CD"</TT>. More precisely, a cryptogram of some
+text is the result of applying a function <I>f</I> to each letter of
+the text, where <I>f</I> is a one-to-one function with domain and
+range the 26 letters of the (English) alphabet. Let us call two words
+"cryptoquivalent" if one is a cryptogram of the other. For example,
+the words <TT>moon</TT> and <TT>iffy</TT> are cryptoquivalent, as are
+<TT>space</TT> and any five-letter word with distinct letters. The
+words <TT>all</TT> and <TT>cat</TT>, however, are not
+cryptoquivalent. <P>The object of this problem is to find the groups
+of cryptoquivalent words in a text.</P>
+
+<P><STRONG>INPUT:</STRONG> Text containing words separated by single spaces or 
+carriage returns, using only upper case English letters.</P>
+<P><STRONG>OUTPUT:</STRONG> The same words, organized by placing cryptoquivalent 
+words on the same line of output. The lines of output may be in any order, but 
+the words within a line must appear in the order in which they appear in the 
+input. Each word should appear in the output exactly as many times as it appears 
+in the input. Your output should have no extra lines or spaces.</P>
+<HR>
+
+<UL>
+  <LI>
+  <H2>Example 1</H2>
+  <H3>Input File:</H3><PRE>FOUR SCORE AND SEVEN YEARS AGO OUR FATHERS BROUGHT FORTH UNTO THIS CONTINENT
+A NATION CONCEIVED IN LIBERTY</PRE>
+  <H3>Output File:</H3><PRE>A
+IN
+AND AGO OUR
+FOUR UNTO THIS
+SCORE YEARS FORTH
+SEVEN
+NATION
+FATHERS BROUGHT LIBERTY
+CONTINENT
+CONCEIVED</PRE><BR><BR>
+  <LI>
+  <H2>Example 2</H2>
+  <H3>Input File:</H3><PRE>YABBA DABBA DABBA DOO SAID FRED AND ALL WAS WELL AFTER THAT</PRE>
+  <H3>Output File:</H3><PRE>DOO ALL
+AND WAS
+SAID FRED
+WELL
+THAT
+YABBA DABBA DABBA
+AFTER</PRE></LI></UL>
+
+<p></p>
+
+<hr>
+Scanned and beautified by onTy Toom,
+<a href="mailto:onty@acm.org">onty@acm.org</a>
+</BODY>
+</HTML>

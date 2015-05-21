@@ -1,0 +1,96 @@
+<HTML>
+<HEAD>
+<TITLE>Problem B: You called where? [1998 GNY ACM contest]</TITLE>
+</HEAD>
+<BODY>
+
+<CENTER><H1>Problem B - You called <I>where</I>?</H1></CENTER>
+
+<P>A text file contains location information about international phone numbers.
+Each piece of information in the file spans two consecutive lines, a 
+<TT>CODE</TT> line (maximum length 6 characters) and a <TT>NAME</TT> line 
+(maximum length 20 characters). Here's an example.</P><PRE>32
+BELGIUM
+33
+FRANCE
+331
+PARIS
+34
+CANARY ISLANDS
+509
+HAITI
+51
+PERU
+680
+PALAU
+686
+KIRIBATI
+81
+JAPAN</PRE>
+<P>Using this file, the location of an international phone number can be found. 
+The location of an international phone number is the <TT>NAME</TT> that follows 
+the <STRONG>longest</STRONG> <TT>CODE</TT> in the file that is a prefix of the 
+phone number. Note that more than one <TT>CODE</TT> in the file can be a prefix 
+of a given number, such as is the case with the codes <TT>33</TT> and 
+<TT>331</TT> here.</P>
+<P>Using the above example, we would identify <TT>349875750</TT> to be in the 
+Canary Islands, <TT>3387657462</TT> in France, <TT>3314534383</TT> in Paris, 
+etc.</P>
+<P><STRONG>INPUT:</STRONG></P>
+<TABLE border=2 cellPadding=5 width="80%">
+  <TBODY>
+  <TR>
+    <TD>Line 1</TD>
+    <TD>An integer <B>N</B>, representing the number of <TT>CODE,NAME</TT> 
+      pairs to follow. This number will not exceed 200.</TD></TR>
+  <TR>
+    <TD>Lines 2 to 2<B>N</B>+l</TD>
+    <TD><B>N</B> <TT>CODE,NAME</TT> pairs as described above</TD></TR>
+  <TR>
+    <TD>Line 2<B>N</B>+2</TD>
+    <TD>An integer <B>M</B>, representing the number of phone numbers you must 
+      look up. This number will not exceed 10.</TD></TR>
+  <TR>
+    <TD>Last <B>M</B> lines</TD>
+    <TD>Phone numbers for which you must find locations.</TD></TR></TBODY></TABLE>
+<P><STRONG>OUTPUT:</STRONG></P>
+<TABLE border=2 cellPadding=5 width="80%">
+  <TBODY>
+  <TR>
+    <TD><B>M</B> lines</TD>
+    <TD>The <B>M</B> locations of the phone numbers in the last <B>M</B> lines 
+      of the input file, in the same order as the numbers appeared. You may 
+      <STRONG>not</STRONG> assume that the location of each number can be found 
+      in the input file. If, for some phone number, there is no prefix of the 
+      number as a <TT>CODE</TT>, put <TT>UNKNOWN</TT> as the location in your 
+      output.</TD></TR></TBODY></TABLE>
+<P></P>
+<HR>
+
+<H2>Example</H2>
+<H3>Input File:</H3><PRE>4
+32
+BELGIUM
+33
+FRANCE
+331
+PARIS
+34
+CANARY ISLANDS
+4
+33245758584
+5884739
+34098767
+331199888</PRE>
+<H3>Output File:</H3><PRE>FRANCE
+UNKNOWN
+CANARY ISLANDS
+PARIS</PRE>
+
+<p></p>
+
+<hr>
+Scanned and beautified by onTy Toom,
+<a href="mailto:onty@acm.org">onty@acm.org</a>
+</BODY>
+</HTML>

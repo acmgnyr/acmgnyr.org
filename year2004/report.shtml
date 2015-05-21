@@ -1,0 +1,39 @@
+<!--#include file="header.html" -->
+
+<h2>Report</h2>
+
+The first place team was from New York University:<br>
+Chien-I Liao<br>
+Michael Kim<br>
+Yu Tung Cheng<br>
+Robert B.K. Dewar, coach
+<p>
+
+The second place team was from Rutgers University:<br>
+Jun Dai<br>
+Robert Renaud<br>
+Christopher Ross<br>
+Xiaomen Chen, coach<br>
+Bin Tian, secondary coach
+<p>
+
+A link to the <a href="problems.shtml">problems</a>.
+<p>
+
+A link to the <a href="standings.shtml">standings</a>.
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size="-1"><i>Last updated 1 December 2004. Please e-mail
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.</i></font>
+<p>
+ 
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

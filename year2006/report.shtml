@@ -1,0 +1,41 @@
+<!--#include file="header.html" -->
+
+<h2>Report</h2>
+
+The first place team was from <b>Rutgers University</b>:<br>
+Marla Slusky<br>
+Joseph Crobak<br>
+Adam Gashlin<br>
+Bin Tian, coach
+<p>
+
+The second place team was from <b>Cornell University</b>:<br>
+Nitin Gupta<br>
+Anand Bhaskar<br>
+Yu Tung Cheng<br>
+Lars Backstrom, coach
+<p>
+
+A link to the <a href="problems.shtml">problems</a>.
+<p>
+
+A link to the <a href="standings.shtml">standings</a>.
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size=-1><i>
+Last modified
+<SCRIPT SRC="../lastmod.js" LANGUAGE="JavaScript"></SCRIPT>.
+Please email
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.
+</i></font>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

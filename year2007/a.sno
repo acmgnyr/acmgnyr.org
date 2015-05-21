@@ -1,0 +1,11 @@
+#!/usr/local/bin/snobol4 -b
+# vi:ts=8:wm=0
+	&TRIM = 1
+	DIGITS = '0123456789'
+	N = +INPUT
+LOOP	I = LT(I, N) I + 1					:F(END)
+	DATA = INPUT
+	DATA BREAK(DIGITS) SPAN(DIGITS) . M ' ' REM . WORD
+	WORD POS(M - 1) LEN(1) = 
+	OUTPUT = I ' ' WORD					:(LOOP)
+END

@@ -1,0 +1,35 @@
+r 47 4
+w 11 8
+w 0B 2/nostop
+r 1A 3/noack 0 20
+r 12 1/delay 0 10
+r 12 4/delay 0 10
+r 12 4/delay 1 10
+r 12 4/delay 0,2 10
+r 12 4/delay 0,1,2,3 20
+r 12 4/delay 3 20
+r 12 5/delay 0 10
+r 12 5/delay 1 10
+r 12 5/delay 0,2 10
+r 12 5/delay 0,1,2,3 20
+r 12 5/delay 3 20
+w 33 8/idle 5/delay 0,2 5
+w 22 5/idle 6
+w 22 5/idle 6/delay 0,2,4 4/nostop
+w 22 5/idle 6/delay 0,1 5/noack 3 7
+w 22 5/idle 6/delay 0 30/noack 3 7
+r 77 61/idle 9/delay 0,10,20,56 7
+w 61 1/idle 1117
+r 62 2/idle 1/delay 0,1 549
+r 62 1/idle 1/delay 0 1116
+w 01 1
+w 01 1/noack 0 1
+w 01 1/nostop
+r 01 1/ones 1
+r 01 1/ones 2
+r 01 1/ones 3
+r 01 1/ones 1161
+r 01 1/zeroes 1
+r 01 1/zeroes 2
+r 01 1/zeroes 3
+r 01 1/zeroes 1161

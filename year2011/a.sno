@@ -1,0 +1,14 @@
+#!/usr/local/bin/snobol4 -b
+# vi:ts=8:wm=0
+	&TRIM = 1
+	DIGITS = '0123456789'
+	P = +INPUT
+READ	I = LT(I, P) I + 1					:F(END)
+	LINE = INPUT
+	LINE SPAN(DIGITS) . N ' ' SPAN(DIGITS) . R ' ' REM . S	:F(ERROR)
+	S.OUT =
+LOOP	S LEN(1) . CH =						:F(PRINT)
+	S.OUT = S.OUT DUPL(CH,R)				:(LOOP)
+PRINT	OUTPUT = N ' ' S.OUT					:(READ)
+ERROR	OUTPUT = "CAN'T HAPPEN:  " LINE
+END

@@ -1,0 +1,47 @@
+	define('shuffle(s1,s2)a,b')
+
+		n = input
+
+			i = 0
+
+
+
+			aloop	i = lt(i, n) i + 1					:f(end)
+
+				size = input
+
+					s.1 = input; s.1.orig = s.1
+
+						s.2 = input; s.2.orig = s.2
+
+							goal = input
+
+								j = 1
+
+
+
+								bloop	s.12 = shuffle(s.1, s.2)
+
+									s.12 pos(0) goal rpos(0)				:s(result)
+
+										s.12 len(size) . s.1 len(size) . s.2
+
+											j = differ(s.12, s.1.orig s.2.orig) j + 1		:s(bloop)
+
+
+
+												j = -1
+
+												result	output = i ' ' j					:(aloop)
+
+
+
+												shuffle	s2 len(1) . a =						:f(return)
+
+													s1 len(1) . b =
+
+														shuffle = shuffle a b					:(shuffle)
+
+														end
+
+

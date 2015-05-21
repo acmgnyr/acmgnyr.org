@@ -1,0 +1,33 @@
+<!--#include file="header.html" -->
+
+<h2>Directions</h2>
+
+The contest will be held in <b>Building B</b>. You should park in
+Parking Lot <b>East 5A</b>.
+<p>
+
+A campus map:<br>
+<a href="http://www.ncc.edu/admissions/campus_map/map.html">http://www.ncc.edu/admissions/campus_map/map.html</a>
+<p>
+
+Directions to NCC can be found here:<br>
+<a href="http://turing.matcmp.ncc.edu/~cmerlo/directions.php">http://turing.matcmp.ncc.edu/~cmerlo/directions.php</a>
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size=-1><i>
+Last modified
+<SCRIPT SRC="../lastmod.js" LANGUAGE="JavaScript"></SCRIPT>.
+Please email
+<SCRIPT LANGUAGE="JavaScript" SRC="signature.js"></SCRIPT>
+with comments, questions, or corrections.
+</i></font>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

@@ -1,0 +1,69 @@
+<!--#include file="header.html" -->
+
+<font size="+2"><b>Standings</b></font>
+<p>
+
+These are the final standings from the 1999 Regional Contest. 39 teams
+competed. The <a href="problems.html">problems</a> and
+<a href="details.html">more detailed information about submissions</a>
+are available.
+<p>
+
+<pre>
+Rank   Num   Team                                          Solved    Penalty
+1      07    Cornell Big Red 1                             7         700
+2      08    Cornell Big Red 2                             6         1005
+3      05    Concordia X                                   5         398
+4      03    Columbia 1                                    5         589
+5      38    Yeshiva 1                                     5         672
+6      36    Vassar 2                                      5         733
+7      19    NYU 1                                         5         770
+8      06    Concordia Y                                   5         802
+9      30    Cooper Union 1                                4         615
+10     29    SUNY Stony Brook C                            4         618
+11     33    USMA 2                                        4         627
+12     04    Columbia 2                                    4         643
+13     28    SUNY Stony Brook B                            4         702
+14     20    Polytechnic Fatal Exception                   4         781
+15     39    Yeshiva 2                                     4         958
+16     27    SUNY Stony Brook A                            3         337
+17     02    Bloomfield Deacons                            3         492
+18     35    Vassar 1                                      3         507
+19     34    USMA 3                                        3         550
+20     15    Nassau CC Blue                                3         576
+21     21    Polytechnic Got Shell?                        3         588
+22     10    Kean 1                                        3         648
+23     32    USMA 1                                        3         675
+24     16    NJIT Alpha Squad                              2         168
+25     22    Queens CINY Queens 1                          2         245
+26     37    Vassar 3                                      2         295
+27     31    Cooper Union 2                                2         316
+28     26    SUNY Old Westbury 3                           2         431
+29     24    SUNY Old Westbury 1                           2         556
+30     18    NJIT Delta Squad                              1         30
+31     17    NJIT Beta Squad                               1         45
+32     12    Manhattan Jaspers 1                           1         92
+33     13    Manhattan Jaspers 2                           1         120
+34     09    Dowling Lions                                 1         152
+35     01    Adelphi 1                                     1         187
+36     25    SUNY Old Westbury 2                           1         224
+37     11    Kean 2                                        0         0
+37     14    Nassau CC Yellow                              0         0
+37     23    Stern College                                 0         0
+</pre>
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size="-1"><i>Last updated 12 November 1999. Please e-mail
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.</i></font>
+<p>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

@@ -1,0 +1,59 @@
+<HTML>
+<HEAD>
+<TITLE>Problem G: Together to the End [1998 GNY ACM contest]</TITLE>
+</HEAD>
+<BODY>
+
+<CENTER><H1>Problem G - Together to the End</H1></CENTER>
+
+<P>Define a <I>merge</I> of two strings to be any string formed from
+all the characters in both strings, interspersed, but in their
+original order. For example, for the strings <I>chocolate</I> and
+<I>chips</I>, <I>cchocholaiptes</I> is a merge, but
+<I>chocochilatspe</I> or <I>bananasplit</I> are not. This problem
+requires writing a program that can tell if a given string is a merge
+of two other given strings. For the purposes of this problem, the
+input strings will contain only lowercase alphabetic characters.</P>
+
+<P>The input file consists of three strings <I>A</I>, <I>B</I>, and
+<I>C</I>, in that order, one string per line. The file contains no
+blank lines, and the end of the input is marked by the end of the
+file. The strings <I>A</I> and <I>B</I> will not exceed 1000
+characters, and <I>C</I> will not exceed 2000 characters (rest assured
+that input cases of this length <I>will</I> be tested).</P>
+
+<P>If <I>C</I> is not a merge of <I>A</I> and <I>B</I>, write a single
+line to the output file that reads <TT>"*** NOT A MERGE ***"</TT>. If
+<I>C</I> is a merge, write to the output file the string <I>C</I>
+rewriften with the characters from <I>A</I> in uppercase. If more than
+one merge is possible, string <I>C</I> should be wriften with each
+character of <I>A</I> occurring as early as possible (examine the
+sample input below for such examples).</P>
+
+<HR>
+
+<H2>Examples</H2>
+<OL>
+  <LI>
+  <H3>INPUT FILE:</H3><PRE>chocolate
+chips
+cchocholaiptes</PRE>
+  <H3>OUTPUT FILE:</H3><PRE>CcHOChOLAipTEs cchocholaiptes</PRE><BR><BR>
+  <LI>
+  <H3>INPUT FILE:</H3><PRE>chocolate
+chips
+bananasplit</PRE>
+  <H3>OUTPUT FILE:</H3><PRE>*** NOT A MERGE ***</PRE><BR><BR>
+  <LI>
+  <H3>INPUT FILE:</H3><PRE>abac
+bad
+ababacd</PRE>
+  <H3>OUTPUT FILE:</H3><PRE>ABAbaCd</PRE></LI></OL>
+
+<p></p>
+
+<hr>
+Scanned and beautified by onTy Toom,
+<a href="mailto:onty@acm.org">onty@acm.org</a>
+</BODY>
+</HTML>

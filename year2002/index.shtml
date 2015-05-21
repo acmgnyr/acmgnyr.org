@@ -1,0 +1,28 @@
+<!--#include file="header.html" -->
+
+Welcome to home page of the ACM Regional Collegiate Programming
+Contest's Greater New York region. This region is home to schools from
+portions of New York, New Jersey, and Connecticut.
+<p>
+ 
+<b><font color="#FF0000" size="+1">Index:</font></b>
+<ul>
+<li><a href="standings.shtml">Final standings</a>
+<li><a href="problems.shtml">Problems</a>
+</ul>
+ 
+For more information, contact the <b>Contest Director</b> at
+<tt><script language="JavaScript" src="../signature.js"></script></tt><br>.
+
+<hr>
+
+<font size=-1><i>
+Last modified 5 November 2002. Please email
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.
+</i></font>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

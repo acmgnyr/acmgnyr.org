@@ -1,0 +1,74 @@
+<!--#include file="header.html" -->
+
+<font size="+2"><b>Standings</b></font>
+<p>
+
+These are the final standings from the 2000 Regional Contest. 41 teams
+competed. The <a href="problems.html">problems</a> are available.
+<p>
+
+The top team composed of only freshmen and sophomores was
+<b>Cooper Pioneers 3</b>. Congratulations! We hope to see you at
+future contests.
+<p>
+
+<pre>
+Rank    Set Team                    Solved  Penalty
+1       2   Poly Gone               6       677
+2       3   Cornell GJM             6       842
+3       2   Cooper Union 1          5       475
+4       2   Cornell JJJ             5       631
+5       2   Yeshiva Hitch           4       443
+6       2   Columbia Lions          4       459
+7       2   NYU 1                   4       577
+8       2   SUNY OW2                4       597
+9       2   Yale Bulldogs           3       230
+10      2   Brooklyn A              3       325
+11      2   Vassar One              3       394
+12      3   Stony Brook Senior      3       476
+13      1   Cooper Union 3          3       485
+14      2   Cooper Union 2          3       535
+15      2   Iona Gaels              3       598
+16      3   Brooklyn B              3       600
+17      1   Stony Brook F-S         2        72
+18      3   NYU 2                   2       130
+19      2   Columbia Lions 2        2       140
+20      2   Stony Brook Advanced UG 2       160
+21      2   USMA 1                  2       161
+22      1   Dowling 1               2       167
+23      2   SUNY OW1                2       190
+24      1   Nassau r3w7             2       193
+25      2   USMA 2                  2       198
+26      1   Yeshiva 2               2       241
+27      3   Adelphi Panthers        2       282
+28      1   Manhattan Jaspers 2     2       318
+29      2   Hofstra Pride           2       355
+30      2   Stony Brook Training    2       389
+31      ?   Hofstra Flying          1        16
+32      ?   NJIT 1                  1        20
+33      2   Post Pioneers           1        35
+34      2   Vassar Two              1        44
+35      2   Poly Grams              1        48
+36      2   Kean Cougars 2          1        56
+37      2   Kean Cougars 1          1        59
+38      2   Manhattan Jaspers 1     1        99
+39      2   Bloomfield              1       208
+40      1   Nassau /dev/null        1       217
+41      2   SUNY OW3                0         0
+</pre>
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size="-1"><i>Last updated 9 November 2000. Please e-mail
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.</i></font>
+<p>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

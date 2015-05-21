@@ -1,0 +1,21 @@
+20
+4 24 [jl2]MESSAGE[nl][jl3]MESSAGE[nl][jl4]MESSAGE
+2 24 This[jl3]is a[jl4]message
+2 24 This is a very long message which will not fit
+4 24 This[nl]message[nl]has[nl]too[nl]many[nl]lines
+2 32 [jl3]This message has a [[ and a ]]
+2 32 This is a bad tag[xy34]
+2 32 [jl3]This message [jl5] has a tag conflict.
+1 24 [jl2]MESSAGE
+1 24 [jl3]MESSAGE
+1 24 [jl4]MESSAGE
+1 24 [jl2][sc2]MESSAGE
+1 24 [jl5]MESSAGE
+1 24 [jl2]THIS[jl3]IS A[jl4]MESSAGE
+2 24 TWO LINE[nL]MESSAGE[Nl][JL2]
+2 24 [JL3][SC3]WIDE [/sC]TEXT[NL]MESSAGE
+1 24 [jL2]Many[Jl3]Type[JL4]Message
+1 24 Unmatched '['
+1 24 Unmatched ']'
+2 24 [jl5][sc2]FU[JL5]LL[NL][JL3]MESSAGE
+1 24 [jl2]out[jl4][Sc2][jl3]of[/Sc][jl4]order

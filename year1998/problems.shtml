@@ -1,0 +1,35 @@
+<!--#include file="header.html" -->
+
+<font size="+2"><b>Problems</b></font>
+<p>
+
+Here are the contest problems. Many thanks to
+<a href="mailto:onty@acm.org">onTy Toom</a>
+for transcribing them.
+<p>
+
+The <a href="standings.html">final standings</a> are also available.
+
+<ul>
+<li> <a href="prob_a.html">Problem A</a>
+<li> <a href="prob_b.html">Problem B</a>
+<li> <a href="prob_c.html">Problem C</a>
+<li> <a href="prob_d.html">Problem D</a>
+<li> <a href="prob_e.html">Problem E</a>
+<li> <a href="prob_f.html">Problem F</a>
+<li> <a href="prob_g.html">Problem G</a>
+</ul>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size="-1"><i>Last updated 29 February 2000. Please e-mail
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.</i></font>
+<p>
+
+<!--#include file="piwik.html" -->
+</body>
+</html>

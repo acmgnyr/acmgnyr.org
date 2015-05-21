@@ -1,0 +1,220 @@
+<!--#include file="header.html" -->
+
+<h2>Presentation</h2>
+
+Here is my presentation in postscript format:
+<a href="presentation.ps">presentation.ps</a>.
+Below is my commentary page-by-page, then a list of questions
+that I would like your feedback on.
+<p>
+
+<h3>Presentation commentary</h3>
+
+<b>Page 2</b><br>
+This is a look at how we've grown over the past 7 years.
+A correction needs to be made to the 2004 data: there was
+one no-show, so there were only 64 teams and 28 schools.
+<p>
+
+<b>Page 3</b><br>
+We had 3 new schools this year, and I hope they'll be with
+us for many years. We also had an import from the Mid-Atlantic
+region, due to a conflict with the GRE. Ursinus College will
+participate with us this year only.
+<p>
+
+<b>Page 4</b><br>
+The date and location has not yet been decided. I would like
+everyone to consider whether they're willing and able to host
+the contest. If you're interested, I will send you a document
+I have describing what it takes to host.
+<p>
+
+This year, we held the contest on the last allowed weekend, and
+I would like to make it earlier next year than it was this year.
+We will avoid Sunday Nov. 6 due to the Marathon, so perhaps it
+will be held on Oct. 16, 23, or 30.
+<p>
+
+The fee may increase next year. I warned you last year that it
+might go up, and it didn't, so nothing has been decided yet. It
+depends on how much funding we get from IBM.
+<p>
+
+It also depends on whether we have a single site or multiple
+sites next year. The food is always the largest expense, by far,
+and food this year was more than $1000 more than last year, even
+though we had about the same number of people, and the food last
+year was much better. The reason it was so much more expensive is
+the food charge is always a fixed cost plus a cost per person.
+Because the food had to be served at two locations, we paid the
+fixed cost twice.
+<p>
+
+<b>Page 5</b><br>
+Everyone should already be aware that a new elibility rule went
+into effect this year. The rule can be summarized as "5-4-2".
+<p>
+
+<b>Page 6</b><br>
+5 means that it must be fewer than 5 years since the student
+started their undergraduate program.
+<p>
+
+4 means that a student can compete in at most 4 Regional contests.
+<p>
+
+2 means that a student can compete in at most 2 Finals contests.
+<p>
+
+<b>Page 7</b><br>
+The 5 rule has several exceptions. Email me with the student's
+specific details, and I will forward to the committee. This year
+we saw compulsary military service and severe illness.
+<p>
+
+One of the coaches at Stevens asked if there were any requests for
+an exception that were rejected. There was a student who graduated
+from their undergrad program many years ago in an unrelated field,
+and was starting a CS maters program, and taking undergrad level
+courses. The committee decided this student was not eligible.
+<p>
+
+<b>Page 8</b><br>
+A few other rules went into effect this year.
+<p>
+
+The 3 bodies that participated in the Regional contest must be the
+same 3 bodies that are at Finals. There are no exceptions. According
+to the new rules, if one team member cannot attend (say, gets ill)
+then the entire team cannot compete. Personally, I disagree with this
+rule -- why not let the partial team compete?
+<p>
+
+You received several emails from both me and the main contest people
+asking you to fully register your teams. The main contest people have
+started cracking down on this. I've always been rather liberal, letting
+you specify your team at the contest itself, but it looks like now
+you'll have to specify your team before the contest, using the online
+registration system.
+<p>
+
+At Finals, no books are allowed. Teams submit (in advance) a 25 page
+document of notes. The notes are inspected, and print-outs are provided
+to the teams. We will have no such rule in our Region. Any hard-copy
+material (books, notes, etc) are allowed.
+<p>
+
+<b>Page 9</b><br>
+We have been using the same t-shirt design for at least 6 years now,
+and I'd like a new design. I have no artistic ability, and would like
+someone's help. If you, or your students, or anyone you know has some
+artistic skill, please ask them to email me.
+<p>
+
+<b>Pages 11 to 13</b><br>
+These pages contain data on past participation in the US and Canadian
+regions, specifically as it relates to getting a second slot at Finals.
+<p>
+
+The single most important factor is the number of schools. This year
+we had 64 teams and 28 schools. You can see that there are three
+regions with fewer teams and schools than us, and two of these
+regions got a second slot last year. Therefore I am very hopeful that
+we will get a second slot this year.
+<p>
+
+There are serveral secondary factors: the number of teams that got
+at least one problem correct, the performance of schools from that
+region in the previous year's Finals, difficulty of the Region's
+problems, and accumulation of "close to qualifying for an additional
+slot" in the preceeding years.
+<p>
+
+The number of slots each region gets is supposed to be announced by
+December 1.
+<p>
+
+<b>One machine per team</b><br>
+This was not part of my presentation, but I would like to let you know
+why we were forced to use only one machine per team.
+<p>
+
+There was a major miscommunication between one of the sites, and me
+and John Buck (the Head Judge). I have no idea how the miscommunication
+could possibly have occurred.
+<p>
+
+On May 24 I emailed both sites a document describing the requirements
+to host a site. The very first paragraph says, in part, "Each team gets
+2 computers." It is reiterated several times throughout the document.
+<p>
+
+A couple months ago John Buck visited both sites, had a tour, and
+counted up their capacity. He used 2 computers per team in his
+calculations, to arrive at the published capacities.
+<p>
+
+I have no idea how, after all this, one site thought there was only
+one computer per team.
+<p>
+
+At any rate, when this was discovered about noon on Saturday. I made
+the decision to reduce both sites to one machine, and informed all of
+you. I apologize again for this being sprung on you at the last minute,
+and I greatly appreciate everyone's flexibility.
+<p>
+
+<h3>Questions for the coaches</h3>
+
+I would like each coach to give me their responses to these
+questions.
+<p>
+
+<b>Boot from CD</b><br>
+I very much want your students' feedback on the CD. I know
+that it ran fairly slowly, and not everybody is familiar with
+the Unix-like environment. Besides these issues, what did the
+students think?
+<p>
+
+Using boot-from-CD has a lot of administrative advantages. We
+can ensure that all sites have the identical environment. We
+can turn off USB dirves and floppy drives, and prevent the CD
+from being ejected, which helps with security.
+<p>
+
+One student at Stevens pointed out that if they cannot eject the
+CD, then they ought to be allowed to bring in audio CDs. I would
+definitely allow audio CDs and portable CD players, but I would
+aggressively enforce a very low volume requirement.
+<p>
+
+<b>Multiple site contest</b><br>
+What did you think about having the contest at multiple sites?
+We did not use multiple sites voluntarily; nobody wanted to host
+that could handle all 65 teams, so we were forced to use two
+locations.
+<p>
+
+Coaches at Stevens thought a single site is a far more pleasant
+experience, because all the coaches get to talk with each other.
+It is also easier from a systems standpoint, because there is no
+issue of communication between the sites.
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size="-1"><i>Last updated 16 November 2004. Please e-mail
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.</i></font>
+<p>
+ 
+<!--#include file="piwik.html" -->
+
+</body>
+</html>
+

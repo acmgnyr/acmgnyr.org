@@ -1,0 +1,70 @@
+<!--#include file="header.html" -->
+
+<font size="+2"><b>Problems</b></font>
+<p>
+
+The problems are available in PDF format. The
+<a href="standings.html">standings</a> are also available.
+<p>
+
+Internet Explorer users will have trouble seeing the test input for
+Problem E. That test input contains XML-like code, which IE tries to
+run. Netscape will simply display the file as text.
+<p>
+
+<center><table border="1">
+<tr>
+  <td>Problem</td> <td>Judges' Input File</td> <td>Correct Output</td>
+  <td>Correct submissions</td> <td>Total submissions</td>
+</tr>
+<tr>
+  <td>
+  <a href="problems/problema.pdf">A - <i>u</i> Calculate <i>e</i></a> <br>
+  <a href="problems/problemb.pdf">B - Problem Bee</a> <br>
+  <a href="problems/problemc.pdf">C - Digital Roots</a> <br>
+  <a href="problems/problemd.pdf">D - Scramble Sort</a> <br>
+  <a href="problems/probleme.pdf">E - A Well-Formed Problem</a> <br>
+  <a href="problems/problemf.pdf">F - Entropy</a> <br>
+  <a href="problems/problemg.pdf">G - N-Credible Mazes</a> <br>
+  <a href="problems/problemh.pdf">H - SPF</a>
+  </td><td>
+  (no input file) <br>
+  <a href="problems/problemb.in">ProblemB.in</a> <br>
+  <a href="problems/problemc.in">ProblemC.in</a> <br>
+  <a href="problems/problemd.in">ProblemD.in</a> <br>
+  <a href="problems/probleme.in">ProblemE.in</a> <br>
+  <a href="problems/problemf.in">ProblemF.in</a> <br>
+  <a href="problems/problemg.in">ProblemG.in</a> <br>
+  <a href="problems/problemh.in">ProblemH.in</a>
+  </td><td>
+  <a href="problems/problema.out">ProblemA.out</a> <br>
+  <a href="problems/problemb.out">ProblemB.out</a> <br>
+  <a href="problems/problemc.out">ProblemC.out</a> <br>
+  <a href="problems/problemd.out">ProblemD.out</a> <br>
+  <a href="problems/probleme.out">ProblemE.out</a> <br>
+  <a href="problems/problemf.out">ProblemF.out</a> <br>
+  <a href="problems/problemg.out">ProblemG.out</a> <br>
+  <a href="problems/problemh.out">ProblemH.out</a>
+  </td><td align="right">
+  40<br> 0<br> 26<br> 17<br> 0<br> 7<br> 9<br> 4
+  </td><td align="right">
+  56<br> 31<br> 164<br> 43<br> 38<br> 38<br> 21<br> 7
+  </td>
+</tr>
+</table></center>
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size="-1"><i>Last updated 9 November 2000. Please e-mail
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.</i></font>
+<p>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

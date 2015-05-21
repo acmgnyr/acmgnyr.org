@@ -1,0 +1,220 @@
+<!--#include file="header.html" -->
+
+<h2>Results</h2>
+
+Of the 316 runs submitted in total:<br>
+  2    were submitted in "Ada"<br>
+ 44    were written in "C"<br>
+125    were written in "Java"<br>
+153    were written in "C++"
+<p>
+
+Of the 129 correct submissions:<br>
+ 0     were submitted in "Ada" (0%)<br>
+13     were submitted in "C" (30% of "C" submissions)<br>
+50     were submitted in "Java" (40% of "Java" submissions)<br>
+66     were submitted in "C++" (43% of "C++" submissions)
+<p>
+
+You will notice that each team belongs to a set, <b>S1</b>, <b>S2</b>,
+or <b>S3</b>. <b>S1</b> are teams composed of only freshmen and
+sophomores; <b>S2</b> are teams composed of only undergraduates, minus
+S1; <b>S3</b> are teams with graduate students.
+<p>
+
+We were granted two slots at Finals this year, so both NYU and Rutgers
+will be sending a teams to Shanghai!
+<p>
+
+Special congratulations for Yale 2, the top team composed of Freshmen
+and Sophomores. Great work, and we hope to see you again in the future.
+<p>
+
+<table border=1>
+
+<tr>
+  <th><u>Rank</u></th>
+  <th><u>Name</u></th>
+  <th><u>Solved</u></th>
+  <th><u>Time</u></th>
+  <th><u>A</u></th>
+  <th><u>B</u></th>
+  <th><u>C</u></th>
+  <th><u>D</u></th>
+  <th><u>E</u></th>
+  <th><u>F</u></th>
+  <th><u>G</u></th>
+  <th><u>H</u></th>
+  <th><u>I</u></th>
+  <th><u>Total att/solv</u></th>
+</tr>
+
+<tr><td>1</td><td>NYU 3 (I) (S3)</td><td>6</td><td>1087</td><td>1/52</td><td>1/114</td><td>4/104</td><td>1/276</td><td>2/261</td><td>1/200</td><td>0/--</td><td>0/--</td><td>0/--</td><td>10/6</td></tr>
+
+<tr><td>2</td><td>Rutgers 2 (S) (S2)</td><td>5</td><td>588</td><td>1/10</td><td>1/68</td><td>4/185</td><td>1/39</td><td>1/226</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>8/5</td></tr>
+
+<tr><td>3</td><td>Columbia 1 (S) (S2)</td><td>5</td><td>644</td><td>2/66</td><td>1/63</td><td>4/--</td><td>1/74</td><td>1/260</td><td>1/161</td><td>0/--</td><td>0/--</td><td>0/--</td><td>10/5</td></tr>
+
+<tr><td>4</td><td>Stevens 1 (S) (S2)</td><td>5</td><td>797</td><td>1/24</td><td>1/63</td><td>3/136</td><td>1/224</td><td>0/--</td><td>0/--</td><td>4/250</td><td>0/--</td><td>0/--</td><td>10/5</td></tr>
+
+<tr><td>5</td><td>Brooklyn 1 (I) (S2)</td><td>5</td><td>843</td><td>2/24</td><td>1/56</td><td>5/293</td><td>1/140</td><td>1/230</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>10/5</td></tr>
+
+<tr><td>6</td><td>SUNY SB 1 (S) (S3)</td><td>5</td><td>1139</td><td>7/282</td><td>1/78</td><td>1/264</td><td>0/--</td><td>1/287</td><td>1/108</td><td>0/--</td><td>0/--</td><td>0/--</td><td>11/5</td></tr>
+
+<tr><td>7</td><td>Cornell 1 (I) (S2)</td><td>4</td><td>236</td><td>1/22</td><td>1/46</td><td>1/65</td><td>5/--</td><td>1/103</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>9/4</td></tr>
+
+<tr><td>8</td><td>Rutgers 1 (S) (S2)</td><td>4</td><td>408</td><td>1/9</td><td>1/38</td><td>2/86</td><td>1/255</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>5/4</td></tr>
+
+<tr><td>9</td><td>SUNY SB 2 (S) (S2)</td><td>4</td><td>696</td><td>1/20</td><td>3/--</td><td>1/237</td><td>2/170</td><td>0/--</td><td>1/249</td><td>0/--</td><td>0/--</td><td>0/--</td><td>8/4</td></tr>
+
+<tr><td>10</td><td>Yeshiva 1 (S) (S2)</td><td>4</td><td>827</td><td>4/161</td><td>1/42</td><td>7/279</td><td>3/125</td><td>0/--</td><td>0/--</td><td>4/--</td><td>0/--</td><td>0/--</td><td>19/4</td></tr>
+
+<tr><td>11</td><td>Dowling 1 (I) (S2)</td><td>3</td><td>338</td><td>1/40</td><td>2/215</td><td>1/--</td><td>1/63</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>5/3</td></tr>
+
+<tr><td>12</td><td>NYU 1 (I) (S2)</td><td>3</td><td>384</td><td>1/51</td><td>1/113</td><td>4/--</td><td>2/200</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>8/3</td></tr>
+
+<tr><td>13</td><td>Yale 2 (I) (S1)</td><td>3</td><td>394</td><td>1/30</td><td>1/90</td><td>1/--</td><td>1/--</td><td>1/274</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>5/3</td></tr>
+
+<tr><td>14</td><td>SUNY SB 4 (S) (S1)</td><td>3</td><td>399</td><td>1/33</td><td>1/110</td><td>0/--</td><td>1/256</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>3/3</td></tr>
+
+<tr><td>15</td><td>Ramapo 1 (I) (S2)</td><td>3</td><td>407</td><td>1/29</td><td>1/111</td><td>1/--</td><td>1/267</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>4/3</td></tr>
+
+<tr><td>16</td><td>Rutgers 3 (S) (S2)</td><td>3</td><td>431</td><td>2/97</td><td>1/105</td><td>3/--</td><td>2/--</td><td>1/209</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>9/3</td></tr>
+
+<tr><td>17</td><td>Yale 1 (I) (S1)</td><td>3</td><td>476</td><td>2/106</td><td>1/78</td><td>1/--</td><td>1/272</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>5/3</td></tr>
+
+<tr><td>18</td><td>NYIT 1 (S) (S2)</td><td>3</td><td>495</td><td>3/88</td><td>1/115</td><td>1/252</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>5/3</td></tr>
+
+<tr><td>19</td><td>Yeshiva 2 (S) (S2)</td><td>3</td><td>500</td><td>2/122</td><td>1/56</td><td>2/--</td><td>2/282</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>7/3</td></tr>
+
+<tr><td>20</td><td>Cornell 2 (I) (S1)</td><td>3</td><td>534</td><td>2/166</td><td>1/85</td><td>3/--</td><td>2/243</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>8/3</td></tr>
+
+<tr><td>21</td><td>TCNJ 1 (S) (S2)</td><td>3</td><td>560</td><td>1/20</td><td>0/--</td><td>5/--</td><td>3/254</td><td>1/246</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>10/3</td></tr>
+
+<tr><td>22</td><td>Columbia 2 (S) (S2)</td><td>3</td><td>622</td><td>1/53</td><td>1/233</td><td>5/256</td><td>0/--</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>8/3</td></tr>
+
+<tr><td>23</td><td>Stevens 2 (S) (S2)</td><td>2</td><td>131</td><td>1/12</td><td>1/119</td><td>1/--</td><td>2/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>5/2</td></tr>
+
+<tr><td>24</td><td>SUNY SB 3 (S) (S2)</td><td>2</td><td>134</td><td>1/18</td><td>1/116</td><td>0/--</td><td>2/--</td><td>0/--</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>5/2</td></tr>
+
+<tr><td>25</td><td>Dowling 3 (I) (S1)</td><td>2</td><td>181</td><td>1/42</td><td>1/139</td><td>0/--</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>3/2</td></tr>
+
+<tr><td>26</td><td>St. Joe's 2 (I) (S1)</td><td>2</td><td>214</td><td>1/122</td><td>1/92</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>3/2</td></tr>
+
+<tr><td>27</td><td>Yale 4 (I) (S2)</td><td>2</td><td>218</td><td>1/87</td><td>1/131</td><td>5/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>7/2</td></tr>
+
+<tr><td>28</td><td>NYU 2 (I) (S1)</td><td>2</td><td>220</td><td>3/73</td><td>1/107</td><td>2/--</td><td>1/--</td><td>0/--</td><td>1/--</td><td>1/--</td><td>0/--</td><td>0/--</td><td>9/2</td></tr>
+
+<tr><td>29</td><td>Yale 3 (I) (S2)</td><td>2</td><td>221</td><td>2/83</td><td>1/118</td><td>3/--</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>7/2</td></tr>
+
+<tr><td>30</td><td>Iona 1 (I) (S2)</td><td>2</td><td>229</td><td>2/78</td><td>1/131</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>4/2</td></tr>
+
+<tr><td>31</td><td>Queens 1 (I)</td><td>2</td><td>271</td><td>1/85</td><td>1/186</td><td>4/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>6/2</td></tr>
+
+<tr><td>32</td><td>Poly 1 (S) (S2)</td><td>2</td><td>282</td><td>1/80</td><td>1/202</td><td>0/--</td><td>2/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>4/2</td></tr>
+
+<tr><td>33</td><td>Manhattan 1 (I) (S2)</td><td>2</td><td>297</td><td>1/34</td><td>0/--</td><td>0/--</td><td>1/263</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>2/2</td></tr>
+
+<tr><td>34</td><td>NYU 5 (I) (S3)</td><td>2</td><td>305</td><td>2/53</td><td>1/232</td><td>0/--</td><td>4/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>7/2</td></tr>
+
+<tr><td>35</td><td>Brooklyn 2 (I) (S2)</td><td>2</td><td>367</td><td>1/188</td><td>1/179</td><td>3/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>5/2</td></tr>
+
+<tr><td>36</td><td>Cooper 3 (I)</td><td>2</td><td>372</td><td>1/78</td><td>1/294</td><td>0/--</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>3/2</td></tr>
+
+<tr><td>37</td><td>Hofstra 1 (I)</td><td>1</td><td>28</td><td>1/28</td><td>2/--</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>2/--</td><td>0/--</td><td>0/--</td><td>6/1</td></tr>
+
+<tr><td>38</td><td>Poly 2 (S) (S2)</td><td>1</td><td>40</td><td>1/40</td><td>1/--</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>3/1</td></tr>
+
+<tr><td>39</td><td>Fairfield 1 (I) (S2)</td><td>1</td><td>41</td><td>1/41</td><td>0/--</td><td>0/--</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>2/1</td></tr>
+
+<tr><td>40</td><td>Cooper 1 (I)</td><td>1</td><td>69</td><td>1/69</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>2/1</td></tr>
+
+<tr><td>40</td><td>Yeshiva 3 (S) (S2)</td><td>1</td><td>69</td><td>1/69</td><td>1/--</td><td>11/--</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>14/1</td></tr>
+
+<tr><td>42</td><td>SUNY OW 1 (S) (S2)</td><td>1</td><td>71</td><td>1/71</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>1/1</td></tr>
+
+<tr><td>43</td><td>TCNJ 2 (S) (S1)</td><td>1</td><td>89</td><td>1/89</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>2/1</td></tr>
+
+<tr><td>44</td><td>NCC 1 (S)</td><td>1</td><td>93</td><td>2/73</td><td>0/--</td><td>2/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>4/1</td></tr>
+
+<tr><td>45</td><td>Dowling 2 (I) (S2)</td><td>1</td><td>114</td><td>2/94</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>2/1</td></tr>
+
+<tr><td>46</td><td>Ursinus 1 (S) (S2)</td><td>1</td><td>126</td><td>1/126</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>2/1</td></tr>
+
+<tr><td>47</td><td>Westchester 1 (I) (S1)</td><td>1</td><td>128</td><td>1/128</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>1/1</td></tr>
+
+<tr><td>48</td><td>St. Joe's 1 (I) (S1)</td><td>1</td><td>129</td><td>2/109</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>2/1</td></tr>
+
+<tr><td>49</td><td>Fordham 1 (I) (S2)</td><td>1</td><td>130</td><td>1/130</td><td>1/--</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>3/1</td></tr>
+
+<tr><td>50</td><td>Fordham 3 (I) (S1)</td><td>1</td><td>132</td><td>1/132</td><td>0/--</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>2/1</td></tr>
+
+<tr><td>51</td><td>NYU 4 (I) (S2)</td><td>1</td><td>139</td><td>1/139</td><td>0/--</td><td>2/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>3/1</td></tr>
+
+<tr><td>52</td><td>Brooklyn 3 (I) (S3)</td><td>1</td><td>169</td><td>2/149</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>2/1</td></tr>
+
+<tr><td>53</td><td>TCNJ 3 (S) (S1)</td><td>1</td><td>171</td><td>1/171</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>2/1</td></tr>
+
+<tr><td>54</td><td>Fordham 2 (I) (S2)</td><td>1</td><td>201</td><td>3/161</td><td>0/--</td><td>2/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>5/1</td></tr>
+
+<tr><td>55</td><td>Kean 2 (S) (S2)</td><td>1</td><td>271</td><td>3/231</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>3/1</td></tr>
+
+<tr><td>56</td><td>Adelphi 1 (I)</td><td>0</td><td>0</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/0</td></tr>
+
+<tr><td>56</td><td>Cooper 2 (I)</td><td>0</td><td>0</td><td>0/--</td><td>0/--</td><td>2/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>2/0</td></tr>
+
+<tr><td>56</td><td>Iona 2 (I) (S2)</td><td>0</td><td>0</td><td>3/--</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>4/0</td></tr>
+
+<tr><td>56</td><td>Kean 1 (S) (S3)</td><td>0</td><td>0</td><td>4/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>4/0</td></tr>
+
+<tr><td>56</td><td>NCC 2 (S)</td><td>0</td><td>0</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/0</td></tr>
+
+<tr><td>56</td><td>NCC 3 (S)</td><td>0</td><td>0</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/0</td></tr>
+
+<tr><td>56</td><td>NYIT 2 (S) (S3)</td><td>0</td><td>0</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/0</td></tr>
+
+<tr><td>56</td><td>Pace 1 (I)</td><td>0</td><td>0</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/0</td></tr>
+
+<tr><td>56</td><td>SUNY OW 2 (S) (S2)</td><td>0</td><td>0</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/0</td></tr>
+
+<tr><td>56</td><td>SUNY OW 3 (S) (S2)</td><td>0</td><td>0</td><td>1/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>1/0</td></tr>
+
+<tr><td>56</td><td>USMA 1 (I) (S2)</td><td>0</td><td>0</td><td>2/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>0/--</td><td>2/0</td></tr>
+
+<tr><td></td><td>Summary</td><td></td><td></td><td>95/9/55</td><td>47/38/33</td><td>102/65/11</td><td>49/39/17</td><td>11/103/9</td><td>6/108/4</td><td>11/250/1</td><td>0/--/0</td><td>0/--/0</td><td>321/130</td></tr>
+
+</table>
+<p>
+
+In columns <b><u>A</u></b> through <b><u>I</u></b>, the entries look
+like <b>number / time</b>. The <b>number</b> is the number of
+submissions; the <b>time</b> is the total time penalty for that
+problem. If the <b>time</b> is <b>--</b>, it means that the team did
+not solve the problem.
+<p>
+
+In the <b><u>Total att/solve</u></b> column, the entries look like
+<b>correct / total</b>. The <b>correct</b> is the number of correct
+submissions, and <b>total</b> is the total number of submissions.
+<p>
+
+In the last row, the entries look like <b>attempt / correct / time</b>.
+The <b>attempt</b> is the number of submissions for that problem;
+<b>correct</b> is the number of correct submissions; <b>time</b> is
+the penalty for the first correct submission.
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size="-1"><i>Last updated 1 December 2004. Please e-mail
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.</i></font>
+<p>
+ 
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

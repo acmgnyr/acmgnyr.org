@@ -1,0 +1,53 @@
+<!--#include file="header.html" -->
+
+<font size="+2"><b>Problems</b></font>
+<p>
+
+The problems are available in Microsoft Word format. The
+<a href="standings.html">standings</a> and
+<a href="details.html">more detailed information about the submissions</a>
+are available.
+<p>
+
+<center><table border="1">
+<tr>
+  <td>Problem</td> <td>Judges' Input File</td>
+</tr>
+<tr>
+  <td>
+  <a href="problems/problema.doc">A - Polynomial Showdown</a> <br>
+  <a href="problems/problemb.doc">B - Knight's Charge</a> <br>
+  <a href="problems/problemc.doc">C - Mirrored Bytes</a> <br>
+  <a href="problems/problemd.doc">D - Ant in a Box</a> <br>
+  <a href="problems/probleme.doc">E - Polish Calculator</a> <br>
+  <a href="problems/problemf.doc">F - Semigroups</a> <br>
+  <a href="problems/problemg.doc">G - Cribbage Scoring</a> <br>
+  <a href="problems/problemh.doc">H - Rubik Rotation</a>
+  </td><td>
+  <a href="problems/problema.in">ProblemA.in</a> <br>
+  <a href="problems/problemb.in">ProblemB.in</a> <br>
+  <a href="problems/problemc.in">ProblemC.in</a> <br>
+  <a href="problems/problemd.in">ProblemD.in</a> <br>
+  <a href="problems/probleme.in">ProblemE.in</a> <br>
+  <a href="problems/problemf.in">ProblemF.in</a> <br>
+  <a href="problems/problemg.in">ProblemG.in</a> <br>
+  <a href="problems/problemh.in">ProblemH.in</a>
+  </td>
+</tr>
+</table></center>
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size="-1"><i>Last updated 12 November 1999. Please e-mail
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.</i></font>
+<p>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

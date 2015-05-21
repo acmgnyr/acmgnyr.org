@@ -1,0 +1,112 @@
+<html>
+<head>
+<title>Problem A: Little Boxes [1998 GNY ACM contest]</title>
+</head>
+<body>
+
+<center><h1>Problem A - Little Boxes</h1></center>
+
+<p>Call a rectangular parallelepiped in 3-space a
+<strong>regular box</strong> if its edges are parallel to the
+coordinate axes.  A regular box can be
+specified by giving the coordinates of the two points at the ends of
+one main diagonal (a diagonal that does not lie within any face).</p>
+
+<p>In this problem, you will be given some regular boxes and some
+points, about which you will compile some information.</p>
+
+<p><strong>INPUT:</strong> Specifies <b>N</b> regular boxes and
+<b>M</b> points:</p>
+
+<table border="2" width="80%" cellpadding="5">
+  <tr>
+    <td>Line 1</td>
+    <td>An integer <b>N</b>, representing the number of regular boxes
+        subsequently specified.</td>
+  </tr>
+  <tr>
+    <td>Next <b>N</b> lines</td>
+    <td>Six integers per line, the x, y and z coordinates of one point,
+        followed by the x, y and z coordinates of a second point, these
+        points specifying a regular box.</td>
+  </tr>
+  <tr>
+    <td>Next line</td>
+    <td>An integer <b>M</b>, representing the number of points
+	    subsequently specified.</td>
+  </tr>
+  <tr>
+    <td>Next (final) <b>M</b> lines</td>
+    <td>Three integers per line, the x, y and z coordinates of a point.</td>
+  </tr>
+</table>
+
+
+<p>All numbers within a line will be separated by a single space, and
+there will be no spaces after the last number in a line.  All the
+coordinates given will be between -30,000 and 30,000, each box will have
+positive volume, and there will be no duplicate boxes or duplicate points
+specified.</p>
+
+<p>In the output specifications, the words <strong>point(s)</strong>
+and <strong>box(es)</strong> refer to the points and regular boxes
+specified in the input.</p>
+
+
+<p><strong>OUTPUT:</strong> Reports statistics about the relationships
+between the points and the boxes, as follows:</p>
+
+<table border="2" width="80%" cellpadding="5">
+  <tr>
+    <td>Line 1</td>
+    <td>The greatest number of points lying within a single box.</td>
+  </tr>
+  <tr>
+    <td>Line 2</td>
+    <td>The greatest number of boxes within which a single point
+        lies.</td>
+  </tr>
+  <tr>
+    <td>Line 3</td>
+    <td>The number of boxes that contain no point.</td>
+  </tr>
+  <tr>
+    <td>Line 4</td>
+    <td>The number of points that lie within no box.</td>
+  </tr>
+</table>
+
+
+<p>Your output should contain numbers only, without explanatory words
+or space characters.  You should consider a point lying on a face or
+edge of a box <strong>not</strong> to be contained within that box.</p>
+
+
+<hr>
+
+<h2>Example</h2>
+
+
+<h3>Input File:</h3>
+<pre>2
+0 0 0 9 9 9
+-1 2 4 5 -3 11
+3
+2 2 2
+0 1 9
+0 0 0</pre>
+
+
+<h3>Output File:</h3>
+<pre>1
+1
+0
+1</pre>
+
+<p></p>
+
+<hr>
+Scanned and beautified by onTy Toom,
+<a href="mailto:onty@acm.org">onty@acm.org</a>
+</body>
+</html>

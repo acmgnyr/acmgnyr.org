@@ -1,0 +1,67 @@
+<HTML>
+<HEAD>
+<TITLE>Problem F: Clean up that Web Page! [1998 GNY ACM contest]</TITLE>
+</HEAD>
+<BODY>
+
+<CENTER><H1>Problem F - Clean up that Web Page!</H1></CENTER>
+
+<P>Many <U>markup languages</U> are in use for text formatting today,
+among them HTML and T<SUB>E</SUB>X. A markup language provides a way
+to define formatted text in a readable ASCII file using <B>tags</B>,
+or codes, to denote formatting. In this problem, assume that our
+markup language, ACMML, uses tags in pairs, of the form
+<TT>&lt;XXX+&gt;</TT> and <TT>&lt;XXX&gt;</TT>, in that order, to
+surround text. When these tags surround text, they represent text
+formatted with whatever aftribute <TT>XXX</TT> indicates. For
+example, if <TT>BOL</TT> indicates bold and <TT>ITA</TT> indicates
+italic, the ACMML source text</P>
+
+<PRE>
+This is how ACMML
+encodes &lt;BOL+&gt;bol&lt;ITA+&gt;d&lt;BOL&gt;
+ a&lt;ITA&gt;nd &lt;ITA+&gt;italic&lt;ITA&gt; text.
+</PRE>
+
+<P>represents the formatted text</P>
+
+<PRE>
+This is how ACMML
+encodes <B>bol<I>d</B>
+ a</I>nd <I>italic</I> text.
+</PRE>
+
+<P>The same formatted text can also be represented by this longer ACMML source 
+text:</P><PRE>This is how ACM&lt;BOL+&gt;&lt;BOL&gt;ML
+encodes &lt;BOL+&gt;bol&lt;ITA+&gt;d
+&lt;ITA&gt;&lt;ITA+&gt;&lt;BOL&gt; a&lt;ITA&gt;nd &lt;ITA+&gt;&lt;ITA+&gt;ita&lt;ITA&gt;lic&lt;ITA&gt; text.</PRE>
+<P>You will need to write a program to optimize ACMML source text.</P>
+<P><STRONG>INPUT:</STRONG> ACMML source text defining some formatted text.</P>
+<P><STRONG>OUPUT:</STRONG> ACMML source text defining the same formatted text, 
+but containing the smallest possible number of pairs of tags.</P>
+<UL>
+  <LI>The codes (<TT>XXX</TT> above) within the tags are always three-letter 
+  sequences. 
+  <LI>The characters <TT>&lt;</TT> and <TT>&gt;</TT> appear in the input only as 
+  parts of tags. Those two characters cannot appear in formatted text. 
+  <LI>Format aftributes <B>do</B> modify white space, so that, for example, the 
+  source text <BR><TT>&lt;ITA+&gt;i &lt;ITA&gt;A</TT> 
+  <BR>and<BR><TT>&lt;ITA+&gt;i&lt;ITA&gt; A</TT> <BR>do not define the same 
+  formatted text. </LI></UL>
+<HR>
+
+<H2>Example:</H2>
+<H3>Input File:</H3><PRE>This is how ACM&lt;BOL+&gt;&lt;MXY+&gt;&lt;BOL&gt;&lt;MXY&gt;ML
+encodes &lt;BOL+&gt;bol&lt;ITA+&gt;d
+&lt;ITA&gt;&lt;ITA+&gt;&lt;BOL&gt; a&lt;ITA&gt;nd &lt;ITA+&gt;&lt;ITA+&gt;ita&lt;ITA&gt;lic&lt;ITA&gt; text.</PRE>
+<H3>Output File:</H3><PRE>This is how ACMML
+encodes &lt;BOL+&gt;bol&lt;ITA+&gt;d&lt;BOL&gt;
+ a&lt;ITA&gt;nd &lt;ITA+&gt;italic&lt;ITA&gt; text.</PRE>
+
+<p></p>
+
+<hr>
+Scanned and beautified by onTy Toom,
+<a href="mailto:onty@acm.org">onty@acm.org</a>
+</BODY>
+</HTML>

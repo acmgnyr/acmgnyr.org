@@ -1,0 +1,37 @@
+<!--#include file="header.html" -->
+
+<h2>Menu</h2>
+
+<b>Breakfast:</b><br>
+Bread, muffins, danish, bagels, rolls<br>
+Coffee, tea, juice 
+<p>
+
+<b>Lunch:</b><br>
+Sandwiches - turkey, ham, roast beef, vegetarian<br>
+Pasta salad<br>
+Garden salad<br>
+Cookies<br>
+Soda
+<p>
+
+Individuals with dietary restrictions (allergies, kosher, vegetarian,
+etc.) should bring their own meals.
+<p>
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size=-1><i>
+Last modified
+<SCRIPT SRC="../lastmod.js" LANGUAGE="JavaScript"></SCRIPT>.
+Please email
+<SCRIPT LANGUAGE="JavaScript" SRC="signature.js"></SCRIPT>
+with comments, questions, or corrections.
+</i></font>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

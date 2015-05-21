@@ -1,0 +1,412 @@
+<html>
+<head>
+<title>2013 ACM ICPC Greater New York Region: Rules</title>
+</head>
+
+<!--#include file="header.html" -->
+
+<font size="+2"><b>Index:</b></font> <br>
+<a href="#highlights">Highlights</a> <br>
+<a href="#general">General Regional Contest Rules</a> <br>
+    <a href="#eligibility">Eligibility</a> <br>
+<a href="#specific">Region Specific Contest Rules</a> <br>
+    <a href="#datetime">Date, Time, and Environment</a> <br>
+    <a href="#registration">Registration</a> <br>
+    <a href="#prizes">Prizes</a> <br>
+    <a href="#personnel">Personnel</a> <br>
+    <a href="#conduct">Conduct of the Regional Contest</a> <br>
+    <a href="#pc2">Electronic Submission with PC^2</a> <br>
+    <a href="#judging">Judging the Regional Contest</a> <br>
+<p>
+<br>
+
+<hr width="50%">
+ 
+<a name="highlights">
+<font size="+2"><b>Highlights</b></font>
+</a>
+<p>
+
+Here are the major differences between this and last year's contest:
+
+<ol>
+ 
+<li>
+<font color="#ff0000">
+The Contest will be held on Sunday, October 27, 2013, at
+<a href="http://www.yale.edu">Yale University</a>,
+New Haven, CT.
+</font>
+
+<li>
+We will have cash prizes for teams that do very well but do not win
+the contest. See the <a href="#prizes">full rules below</a>.
+
+<li>
+<font color="#ff0000">
+The programming languages and compilers used will be:
+C/C++, gcc/g++ 4.7.2; Java, Sun JDK 1.7.0_25.
+</font>
+
+<li>
+<font color="#ff0000">
+Editors available will include: ed 1.6, emacs 24.2, gedit 3.6.2,
+nedit 5.5, nano 2.3.1, vim 7.4, xemacs 21.5.33.
+Eclipse 4.4.2 will be available.
+</font>
+
+<li>
+Team coaches must register the team contestants using the
+<a href="http://www.acmicpc.org">ACM ICPC web site</a>.
+by September 29 (4 weeks before the Contest).
+Contact the Contest Director
+immediately if there are any problems registering. Coaches may
+register as many teams as they wish; however, not all teams may be
+invited to participate.
+
+<li> See the <a href="#registration">full rules below about
+registering guests</a>.
+Note that the contest no longer recongizes reserves. Do not register
+them.
+
+<li> By September 29 (approx. 4 weeks prior to the contest), the
+Contest Director will e-mail the coaches, telling them how
+many of their registered teams will be invited to participate.
+ 
+<li>
+Payment of $70 per team plus $30 per guest must be received by October 15
+(approx. 2 weeks before the contest). Checks should be made out to "ACM Greater
+NY Region" and mailed to:<br>
+    Adam Florence<br>
+    5058 Sirron Ct<br>
+    Dunwoody, GA 30338-5654<br>
+Teams may also pay by Google Checkout.
+Please email Adam Florence for instructions.
+
+<li>
+Teams may bring any printed material they wish, including books,
+language reference manuals, code printouts, contest problems and
+their solutions.
+
+<li>
+No electronic devices or media of any kind are permitted, including
+floppy disks, CDs, DVDs, calculators, pagers, pagers, PDAs,
+memory sticks, mp3 players, and CD players.
+
+<li>
+Teams may withdraw from the contest at any time. Teams withdraw by
+notifying the Contest Director. However, refunds will
+be given only to teams who withdraw on or before
+<font color="#ff0000">
+October 6, 2013
+</font>
+(3 weeks prior to the contest).
+
+</ol>
+ 
+<hr width="50%">
+ 
+<a name="general">
+<font size="+2"><b>General Regional Contest Rules</b></font>
+</a><p>
+
+Please read the
+<a href="http://icpc.baylor.edu/icpc/regionals/About.htm">rules
+that apply to every region</a>. Please pay special attention to
+the new rules, which are in red.
+<p>
+ 
+In addition to the general rules, there are additional rules specific
+to the Greater New York Regional contest. In cases where the specific
+rules disagree with the general rules, the specific rules take
+precedence.
+<p>
+
+These rules may be changed at any time and without notice. Changes in
+the rules does not entitle any team to a refund.
+<p>
+
+<a name="eligibility">
+<b>Eligibility</b></a><p>
+
+Please see the official rules here: <a href="http://icpc.baylor.edu/regionals/rules">http://icpc.baylor.edu/regionals/rule</a> <br>
+The official rules can be difficult to parse. They can be summarized as:
+<font color="#ff0000">
+Students who began their
+undergraduate study in the Spring of 2009 or later, or who were born
+in 1990 or later, are most likely eligible.
+</font>
+<p>
+
+If you have any questions, or would like to ask for an exception,
+email the Contest Director.
+Note that all exceptions must be requested by
+<font color="#ff0000">
+October 13, 2013
+</font>
+(4 weeks before the contest).
+<p>
+
+<hr width="50%">
+
+<a name="specific">
+<font size="+2"><b>Region Specific Contest Rules</b></font>
+</a><p>
+
+<a name="datetime"><b>Date, Time, and Environment</b></a>
+
+<ol>
+<li>
+The ACM Greater New York Regional Programming Contest will be held from
+9 am to 6 pm on Sunday, October 27, 2013 at
+<a href="http://www.yale.edu">Yale University</a> in New Haven, CT.
+Contestants will have five hours to solve the six or more posed
+programming problems.
+ 
+<li>
+Contestants are drawn from the greater New York metropolitan area,
+including areas of New York, New Jersey, and Connecticut. The portion
+of New Jersey in this Region is all schools north of I-195. There is
+no strict definition for the portion of New York or Connecticut
+included.
+ 
+<li>
+The site has a capacity of 53 teams.
+ 
+<li>
+The languages used are: C/C++, Java.
+ 
+<li>
+Each team will be provided with two computers and access to all
+compilers and editors used in the contest. All teams will have
+comparable computing equipment.
+ 
+<li>
+The contest site will provide a printing facility that will be shared among
+the contestants. Printing will be done through the use of networked printing
+facilities shared by all teams.
+</ol>
+
+<a name="registration"><b>Registration</b></a>
+
+<ol>
+<li>
+Team coaches must register the team contestants using the
+<a href="http://www.acmicpc.org">ACM
+ICPC web site</a> at least four (4) weeks prior to the Contest.
+Contact the Contest Director
+immediately if there are any problems registering. Coaches may
+register as many teams as they wish; however, not all teams may be
+invited to participate. <br>
+ 
+Each school is allowed to register one coach. Each team is allowed to
+register three contestants. This means that if a school sends <i>n</i>
+teams, it registers a total of 3<i>n</i>+1 people. <br>
+ 
+Schools may register additional people at a cost of $30 per
+person. This charge includes a t-shirt and food.
+ 
+<li>
+Four (4) weeks less one day prior to the Contest, the Contest Director
+will invite registered teams to participate in the
+Contest. This will be done by sending e-mail to the coaches.
+ 
+<li>
+Invited teams will be determined as follows: Of the teams registered
+by the deadline, teams will be invited in the order in which they
+registered, subject to the constraint that one team is invited from
+all schools before two teams are invited from any school, two teams
+are invited from all schools before three teams are invited from any
+school, etc. As many teams will be invited as possible, subject to the
+capacity of the site.
+ 
+<li>
+Coaches must send the registration fee of $70 per invited team plus
+$30 per guest to the Contest Director.
+
+  <ul>
+  <li> Checks should be made payable to "ACM Greater NY Region" and sent to:<br>
+    Adam Florence<br>
+    5058 Sirron Ct<br>
+    Dunwoody, GA 30338-5654
+  <li> Credit card payment can be made through Google Checkout. Email Adam
+  Florence for instructions.
+  </ul>
+ 
+<li>
+Any team whose fee is not received at least three (3) weeks prior to the
+contest may be disqualified and lose their invitation.
+
+<li>
+Teams may, at any time, have their invitation revoked. Such teams will,
+of course, receive a full refund. This will only be done to make room
+for a school to send a team that previously did not have any invitations.
+
+<li>
+<font color="#ff0000">
+Team members not specified by three (3) weeks before
+the contest will receive the default t-shirt size of Large.
+</font>
+ 
+<li>
+All teams must complete the required registration forms on the day of the
+contest. Teams that fail to complete the forms will be disqualified.
+ 
+<li>
+If any space remains after all teams which registered by the deadline
+have been invited, teams which registered late may be invited. Such
+teams must pay a penalty.
+ 
+<li>
+Teams may withdraw from the contest at any time. Teams withdraw by
+notifying the Contest Director. However, refunds will
+be given only to teams who withdraw at least three (3) weeks before the
+contest.
+</ol>
+ 
+<a name="prizes"><b>Prizes</b></a>
+<p>
+
+We will likely change how cash prizes are awarded. The exact
+scheme has not been finalized.
+
+<a name="personnel"><b>Contest Personnel</b></a>
+
+<ol>
+<li>
+The <i>Contest Director</i> is responsible for appointing a
+<i>Site Director</i> and <i>Head Judge</i> for the contest, and is
+ultimately responsible for all aspects of the contest.
+ 
+<li>
+The <i>Site Director</i> is responsible for all local contest
+arrangements, including the solicitation of on-site volunteers,
+procurement of rooms and equipment (including backup systems), and so
+forth. The <i>Site Director</i> will conduct a meeting with the
+contestants prior to the start of the contest to reiterate the contest
+procedures and explain any site-specific policies, and will distribute
+the official contest results to all teams that participate in the contest.
+ 
+<li>
+The <i>Head Judge</i> is responsible for coordinating all aspects
+of the judging effort. The <i>Head Judge</i> will explain the judging
+procedures and work with the other judges to distribute the contest
+judging and record-keeping responsibilities.
+</ol>
+
+<a name="conduct"><b>Conduct of the Regional Contest</b></a>
+
+<ol>
+<li>
+At least six problems will be posed.
+ 
+<li>
+Each team must have a faculty advisor and a coach, who may or may not
+be the same person. The coach need not be a member of the faculty. The
+faculty advisor needs to be able to verify the eligibility of the
+contestants on the team. The coach must accompany the team to the contest.
+ 
+<li>
+Coaches and guests will have no contact with their teams during
+the contest. The penalty for contact is immediate disqualification of
+all teams from that school.
+ 
+<li>
+Coaches will receive a copy of the problems once the contest has
+begun. If a coach suspects any ambiguity in the problem statements,
+he or she must report this to the Contest Director for
+an immediate ruling.
+ 
+<li>
+If the Contest Director or Head Judge decides that a clarification is
+necessary, the Site Director will disseminate this information to all teams.
+ 
+<li>
+The Contest Director, Site Director(s), the Head Judge, and the
+pool of team coaches present serve as the final authority for
+resolving all local contest matters.
+ 
+<li>
+No penalties will be assessed for obtaining printed listings during the
+contest. Local procedures for obtaining a listing will be explained by
+the Site Coordinator during the meeting of the contestants.
+ 
+<li>
+Everyone who attends the contest gives permission to the Region and
+any organization it designates to use their likenesses in electronic and
+physical publications.
+ 
+</ol>
+
+<a name="pc2"><b>Electronic Submission with PC^2</b></a>
+
+<ol>
+
+<li>
+Submission of problems will be electronic, with
+<a href="http://www.ecs.csus.edu/pc2">PC^2 version 9</a>.
+Please read the
+<a href="http://www.ecs.csus.edu/pc2/pc2docs.html">Contestant's Guide</a>.
+ 
+</ol>
+ 
+<a name="judging"><b>Judging the Regional Contest</b></a>
+
+<ol>
+<li>
+Teams will not be given the test input files that the judges will use
+to determine program correctness.
+ 
+<li>
+Solutions to problems submitted for judging are called
+<i>runs</i>. Each run is judged as <i>correct</i> or
+incorrect, and the team is notified of the results.
+Incorrect runs will be marked with one of the following comments. They
+are listed in decreasing order of severity.
+
+<ol>
+<li> <i>file naming error</i>: The file naming convention was not
+  followed. Either the submission was incorrectly named, or the
+  program did not read from / write to the correctly named file.
+<li> <i>compile error</i>: The program did not compile.
+<li> <i>run-time error</i>: The program did not run to completion.
+<li> <i>wrong answer</i>: This means that the program compiled and
+  ran, but produced incorrect output.
+<li> <i>time limit exceeded</i>: The program did not finish executing
+  within the 2 minute time limit.
+<li> <i>presentation error</i>: The output was nominally correct, but
+  was not in the correct format.
+</ol>
+
+<li>
+The Contest Judges are solely responsible for determining the correctness
+of submitted runs. In consultation with the Contest Judges, the Chief Judge
+is responsible for determining the winners of the contest. They
+are empowered to adjust for or adjudicate unforeseen events and conditions.
+Their decisions are final.
+
+<li> The final contest results will be announced following the contest by the
+Contest Director, Site Director, or Head Judge.
+
+<li> Although they are unlikely, the Contest Director will resolve
+ties by examining the quality of submitted solutions and number of
+incorrect submissions.
+
+</ol>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size=-1><i>
+Last modified 21 October 2013.
+Please email
+<SCRIPT LANGUAGE="JavaScript" SRC="../signature.js"></SCRIPT>
+with comments, questions, or corrections.
+</i></font>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

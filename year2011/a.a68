@@ -1,0 +1,13 @@
+BEGIN
+    INT p, n, r, i, j;
+    STRING s, result;
+    read((p,newline));
+    FOR i TO p DO
+        read((n, r, s,newline));
+		result := "";
+		FOR j FROM 2 TO UPB s DO
+			result +:= s[j] * r
+		OD;
+	printf(($g(0)xgl$, n, result))
+    OD
+END

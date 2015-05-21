@@ -1,0 +1,93 @@
+<!--#include file="header.html" -->
+
+<font size="+2"><b>Final Standings</b></font> <p>
+
+Congratulations to the winning team from <b>Cornell University</b>:
+Lars Backstrom, Michael Connor, Jeffrey Hoy, and coaches
+David Kempe and Martin Pal.
+<p>
+
+I would like to especially congratulate <b>Stevens Institute of
+Technology team 1</b>, the Top Freshman-Sophomore Team. They came
+in fifth place overall, an incredible accomplishment. We hope to
+see them again next year.
+<p>
+
+The head judge, Ron Pacheco, decided to name award the
+<b>Brooklyn College B</b> team third place, along with the
+<b>NYU 1</b> team. The two teams solved the same number of problems,
+and their times were separated by just one minute. We are adding a
+new rule, which will go into effect next year: teams that solve the
+same number of problems, and whose times are separated by 3 minutes
+or less, will tie.
+<p>
+
+The <a href="problems.html">problems</a> are also available.
+<p>
+
+<pre>
+Rank    Team                                     Solved    Penalty   Set
+1       10 - Cornell Big Red JLM                 7         993       3
+2       5 - Columbia Lions A                     7         1204      2
+3       24 - NYU 1                               6         816       2
+3       4 - Brooklyn College B                   6         817       2
+5       29 - Stevens Techies 1                   6         1236      1
+6       8 - Cooper Pioneers 2                    6         1325      2
+7       26 - Poly 1                              5         516       3
+8       25 - NYU 2                               5         860       1
+9       42 - Yeshiva Iterators                   4         424       2
+10      11 - Cornell Big Red BFJ                 4         502       2
+11      31 - SUNY Old Westbury 1                 4         592       2
+12      41 - Yale Bulldogs                       4         630       2
+13      18 - Manhattan Jaspers 1                 4         717       2
+14      23 - NYIT                                4         755       3
+15      34 - SUNY Stony Brook Seawolves 1        4         866       2
+16      37 - Swarthmore GoodThymes               3         289       2
+17      7 - Cooper Pioneers 1                    3         343       2
+18      6 - Columbia Lions B                     3         372       3
+19      9 - Cooper Pioneers 3                    3         496       1
+20      40 - Vassar                              3         502       2
+21      12 - Dowling Golden Lions 1              3         543       2
+22      35 - SUNY Stony Brook Seawolves 2        2         198       2
+23      36 - Swarthmore Spices                   2         253       2
+24      44 - Yeshiva Matrix                      2         285       2
+25      3 - Brooklyn College A                   2         317       2
+26      14 - Fairfield Stags                     2         363       2
+27      38 - USMA 1                              2         430       2
+28      13 - Dowling Golden Lions 2              2         430       ?
+29      30 - Stevens Techies 2                   2         490       1
+30      39 - USMA 2                              2         500       2
+31      16 - Iona Gaels                          2         527       2
+32      27 - Poly 2                              2         555       2
+33      43 - Yeshiva Geeks                       1         107       2
+34      33 - SUNY Old Westbury 3                 1         121       2
+35      15 - Hofstra Pride                       1         123       2
+36      32 - SUNY Old Westbury 2                 1         185       2
+37      22 - NCC Lions                           1         255       1
+38      21 - NCC Code Warriors                   1         261       1
+39      17 - Kean Cougars                        1         265       2
+</pre>
+
+Honorable Mention:
+<pre>
+Adelphi Grey Panthers
+Adelphi Panthers
+Manhattan Jaspers 2
+Manhattan Jaspers 3
+</pre>
+<p>
+ 
+<hr>
+ 
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+ 
+<font size="-1"><i>Last updated 4 November 2001. Please e-mail
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.</i></font>
+<p>
+ 
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

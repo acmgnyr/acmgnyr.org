@@ -1,0 +1,85 @@
+<html>
+<head>
+<title>2009 ACM ICPC Greater New York Region: Problems</title>
+</head>
+
+<!--#include file="header.html" -->
+
+<h2>Problems</h2>
+
+The problems are given as PDF documents. You can download
+<a href="problems.zip">all problems zipped together</a>.
+<p>
+
+The <a href="standings.shtml">standings</a> are also available.
+<p>
+
+<center><table border="1">
+<tr>
+  <td>Problem</td> <td>Judges' Solution</td> <td>Judges' Input File</td>
+  <td>Correct Output</td>
+</tr>
+<tr>
+  <td>
+  <a href="a.pdf">A - Nth Largest Value</a> <br>
+  <a href="b.pdf">B - Equal Sum Partitions</a> <br>
+  <a href="c.pdf">C - Balls</a> <br>
+  <a href="d.pdf">D - Running Median</a> <br>
+  <a href="e.pdf">E - The Next Permutation</a> <br>
+  <a href="f.pdf">F - Adjacent Bit Counts</a> <br>
+  <a href="g.pdf">G - Convex Hull of Lattice Points</a> <br>
+  <a href="h.pdf">H - Interior Points of Lattice Polygons</a> <br>
+  <a href="i.pdf">I - Theta Puzzle</a>
+  </td><td>
+  <a href="a.cpp">a.cpp</a> <br>
+  <a href="b.cpp">b.cpp</a> <br>
+  <a href="c.cpp">c.cpp</a> or <a href="c.java">c.java</a> <br>
+  <a href="d.c">d.c</a> <br>
+  <a href="e.cpp">e.cpp</a> or <a href="e.java">e.java</a> <br>
+  <a href="f.cpp">f.cpp</a> or <a href="f.java">f.java</a> <br>
+  <a href="g.cpp">g.cpp</a> <br>
+  <a href="h.cpp">h.cpp</a> <br>
+  <a href="i.cpp">i.cpp</a>
+  </td><td>
+  <a href="a.in">a.in</a> <br>
+  <a href="b.in">b.in</a> <br>
+  <a href="c.in">c.in</a> <br>
+  <a href="d.in">d.in</a> <br>
+  <a href="e.in">e.in</a> <br>
+  <a href="f.in">f.in</a> <br>
+  <a href="g.in">g.in</a> <br>
+  <a href="h.in">h.in</a> <br>
+  <a href="i.in">i.in</a>
+  </td><td>
+  <a href="a.out">a.out</a> <br>
+  <a href="b.out">b.out</a> <br>
+  <a href="c.out">c.out</a> <br>
+  <a href="d.out">d.out</a> <br>
+  <a href="e.out">e.out</a> <br>
+  <a href="f.out">f.out</a> <br>
+  <a href="g.out">g.out</a> <br>
+  <a href="h.out">h.out</a> <br>
+  <a href="i.out">i.out</a> (*)
+  </td>
+</tr>
+</table></center>
+<b>*</b> Note:
+Problem I has multiple correct solutions. One such solution is shown.
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size=-1><i>
+Last modified 27 October 2009.
+Please email
+<SCRIPT LANGUAGE="JavaScript" SRC="/signature.js"></SCRIPT>
+with comments, questions, or corrections.
+</i></font>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

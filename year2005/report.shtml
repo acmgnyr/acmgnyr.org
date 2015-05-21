@@ -1,0 +1,39 @@
+<!--#include file="header.html" -->
+
+<h2>Report</h2>
+
+The first place team was from <b>Stony Brook University</b>:<br>
+Mikhail Bautin<br>
+Mohammad Sajjad Hossain<br>
+Justin Seyster<br>
+Steven Skiena, coach
+<p>
+
+The second place team was from <b>Princeton University</b>:<br>
+David Costanzo<br>
+Paul Nelson<br>
+Amirali Shanechi<br>
+Miroslav Dudik, coach
+<p>
+
+A link to the <a href="problems.shtml">problems</a>.
+<p>
+
+A link to the <a href="standings.shtml">standings</a>.
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size=-1><i>
+Last modified 22 November 2005. Please email
+<script language="JavaScript" src="../signature.js"></script>
+with comments, questions, or corrections.
+</i></font>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

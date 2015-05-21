@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>2007 ACM ICPC Greater New York Region: Standings</title>
+</head>
+
+<!--#include file="header.html" -->
+
+<h2>Results</h2>
+
+The <a href="problems.shtml">problems</a> are also available.
+<p>
+
+<!--#include file="summary.html" -->
+<p>
+
+In columns <b><u>A</u></b> through <b><u>I</u></b>, the entries look
+like <b>number / time</b>. The <b>number</b> is the number of
+submissions; the <b>time</b> is the total time penalty for that
+problem. If the <b>time</b> is <b>--</b>, it means that the team did
+not solve the problem.
+<p>
+
+In the <b><u>Total att/solve</u></b> column, the entries look like
+<b>correct / total</b>. The <b>correct</b> is the number of correct
+submissions, and <b>total</b> is the total number of submissions.
+<p>
+
+In the last row, the entries look like <b>attempt / correct / time</b>.
+The <b>attempt</b> is the number of submissions for that problem;
+<b>correct</b> is the number of correct submissions; <b>time</b> is
+the penalty for the first correct submission.
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size=-1><i>
+Last modified 11 October 2007.
+Please email
+<SCRIPT LANGUAGE="JavaScript" SRC="../signature.js"></SCRIPT>
+with comments, questions, or corrections.
+</i></font>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

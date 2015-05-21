@@ -1,0 +1,1209 @@
+1:
+   PL      KR      CL   
+BR 1 CR CL 2 PR PL 6 KR 
+   KR      CR      BR   
+
+   KL      CL      BL   
+PL 5 BR BL 7 KR KL 8 CR 
+   CR      PL      KL   
+
+   CL      PR      KR   
+KR 3 BR BL 4 CR CL 9 PL 
+   PR      KR      BR   
+
+2:
+No Solution
+
+3:
+   CL      CL      CR   
+KL 6 BR BL 4 PR PL 9 KL 
+   PR      KR      BL   
+
+   PL      KL      BR   
+KL 8 PR PL 5 CL CR 3 PR 
+   CR      BR      KR   
+
+   CL      BL      KL   
+PR 2 BL BR 7 PR PL 1 BR 
+   KL      KL      CL   
+
+4:
+No Solution
+
+5:
+   PL      KL      CL   
+KL 5 BL BR 2 PL PR 9 KR 
+   CR      CR      BL   
+
+   CL      CL      BR   
+PL 6 BR BL 4 PR PL 7 KL 
+   KL      KL      CR   
+
+   KR      KR      CL   
+PL 8 CL CR 3 BR BL 1 PL 
+   BR      PL      KR   
+
+6:
+   BR      PR      CR   
+PR 4 CL CR 9 BL BR 8 PR 
+   KL      KL      KR   
+
+   KR      KR      KL   
+BL 2 CR CL 6 PL PR 1 CR 
+   PR      BL      BR   
+
+   PL      BR      BL   
+CR 3 KR KL 5 PR PL 7 KL 
+   BL      CR      CR   
+
+7:
+   BR      CR      KL   
+KL 7 PR PL 4 BL BR 9 PR 
+   CR      KL      CL   
+
+   CL      KR      CR   
+KR 1 CR CL 2 PR PL 6 BL 
+   BL      BR      KR   
+
+   BR      BL      KL   
+PL 8 KL KR 3 CL CR 5 PL 
+   CL      PL      BR   
+
+8:
+   CL      CR      BL   
+KL 3 BL BR 8 KL KR 6 CR 
+   PL      PR      PL   
+
+   PR      PL      PR   
+BL 5 CL CR 4 KR KL 7 BL 
+   KR      BR      CL   
+
+   KL      BL      CR   
+BL 2 CL CR 9 PL PR 1 KL 
+   PL      KR      BR   
+
+9:
+   BL      CL      BR   
+PL 2 KR KL 4 PR PL 3 CL 
+   CL      PR      KR   
+
+   CR      PL      KL   
+PR 9 BL BR 1 CR CL 5 KL 
+   KL      KR      BR   
+
+   KR      KL      BL   
+BR 6 CR CL 8 PR PL 7 CL 
+   PL      BR      KR   
+
+10:
+   BR      BR      PL   
+CR 9 KR KL 4 CL CR 2 KR 
+   PR      PR      BR   
+
+   PL      PL      BL   
+KR 3 BL BR 1 CL CR 7 PR 
+   CR      KL      KR   
+
+   CL      KR      KL   
+BR 5 PR PL 6 BL BR 8 PL 
+   KL      CR      CR   
+
+11:
+No Solution
+
+12:
+   CL      PL      PR   
+BL 6 KR KL 7 BL BR 3 KL 
+   BL      CL      CR   
+
+   BR      CR      CL   
+CL 2 PR PL 1 KR KL 5 BR 
+   KL      BR      PR   
+
+   KR      BL      PL   
+PL 9 CR CL 4 KL KR 8 CR 
+   BL      PL      BL   
+
+13:
+   KR      PL      PL   
+PR 4 CL CR 6 BR BL 7 CL 
+   BR      KR      KR   
+
+   BL      KL      KL   
+KL 5 CR CL 1 BR BL 8 CR 
+   PR      PR      PR   
+
+   PL      PL      PL   
+BL 2 KL KR 3 BR BL 9 KR 
+   CR      CR      CR   
+
+14:
+   PR      BL      BR   
+BR 2 CL CR 9 PL PR 3 KL 
+   KR      KR      CL   
+
+   KL      KL      CR   
+PL 8 BL BR 6 CL CR 7 PR 
+   CL      PL      BR   
+
+   CR      PR      BL   
+PL 5 BR BL 1 KL KR 4 CR 
+   KL      CR      PL   
+
+15:
+   KR      KR      KR   
+PR 5 CR CL 1 BL BR 7 CL 
+   BR      CR      PL   
+
+   BL      CL      PR   
+KR 2 PR PL 8 KR KL 9 CL 
+   CR      BL      BL   
+
+   CL      BR      BR   
+BR 3 PL PR 4 KR KL 6 CL 
+   KR      CR      PR   
+
+16:
+   BR      BL      BR   
+CL 6 PL PR 8 CL CR 5 PR 
+   KL      PR      KL   
+
+   KR      PL      KR   
+PL 2 CL CR 3 BR BL 7 CR 
+   BL      KL      PR   
+
+   BR      KR      PL   
+KL 1 PL PR 4 BL BR 9 KL 
+   CL      CL      CR   
+
+17:
+   PL      PR      KL   
+KL 5 BR BL 2 CL CR 6 PR 
+   CR      KR      BR   
+
+   CL      KL      BL   
+KR 7 BL BR 1 CR CL 3 PL 
+   PR      PL      KR   
+
+   PL      PR      KL   
+CR 8 BR BL 4 CR CL 9 PL 
+   KL      KR      BR   
+
+18:
+No Solution
+
+19:
+   BR      CL      KL   
+CL 5 PL PR 1 BL BR 3 CL 
+   KL      KL      PR   
+
+   KR      KR      PL   
+BR 8 CR CL 6 PR PL 4 CL 
+   PR      BR      KR   
+
+   PL      BL      KL   
+BL 9 CR CL 2 PR PL 7 BL 
+   KR      KR      CL   
+
+20:
+   CL      CL      CL   
+PR 5 BL BR 8 PL PR 4 KL 
+   KR      KR      BL   
+
+   KL      KL      BR   
+BR 1 CL CR 7 PL PR 6 KR 
+   PR      BR      CR   
+
+   PL      BL      CL   
+CL 2 BR BL 3 KR KL 9 PR 
+   KL      PR      BL   
+
+21:
+   KR      CL      PL   
+CL 7 BL BR 6 KR KL 4 BL 
+   PL      PR      CL   
+
+   PR      PL      CR   
+CR 5 BR BL 3 CR CL 8 KL 
+   KR      KL      PL   
+
+   KL      KR      PR   
+BR 1 CR CL 2 BR BL 9 CR 
+   PL      PL      KL   
+
+22:
+   CL      KR      PL   
+KR 7 BR BL 4 CR CL 8 BR 
+   PR      PL      KL   
+
+   PL      PR      KR   
+KL 1 CR CL 5 BL BR 3 CR 
+   BR      KL      PL   
+
+   BL      KR      PR   
+CL 6 PR PL 2 BL BR 9 KL 
+   KR      CL      CL   
+
+23:
+   PL      CR      PR   
+BR 9 KR KL 8 BR BL 3 CL 
+   CR      PL      KL   
+
+   CL      PR      KR   
+PL 4 KL KR 5 CR CL 6 BL 
+   BR      BR      PL   
+
+   BL      BL      PR   
+KL 7 PR PL 2 CR CL 1 KL 
+   CL      KR      BL   
+
+24:
+No Solution
+
+25:
+No Solution
+
+26:
+   CR      CL      CL   
+KL 8 BR BL 2 PR PL 7 BL 
+   BR      KR      KL   
+
+   BL      KL      KR   
+KL 6 PR PL 4 BR BL 3 PR 
+   CR      CL      CR   
+
+   CL      CR      CL   
+BR 9 PR PL 5 KL KR 1 PR 
+   KR      BR      BR   
+
+27:
+   CR      CR      CL   
+KL 6 BL BR 2 KR KL 7 BL 
+   BR      PR      PL   
+
+   BL      PL      PR   
+PL 9 CR CL 8 KR KL 1 CL 
+   KL      BR      BR   
+
+   KR      BL      BL   
+BL 3 CR CL 5 KR KL 4 PL 
+   PR      PL      CL   
+
+28:
+   BL      CL      KL   
+PL 1 KL KR 6 BR BL 3 CL 
+   CL      PR      PL   
+
+   CR      PL      PR   
+PR 8 CL CR 5 BL BR 7 KR 
+   BL      KL      CR   
+
+   BR      KR      CL   
+PL 2 CR CL 9 PR PL 4 BR 
+   KL      BR      KR   
+
+29:
+No Solution
+
+30:
+   KL      BR      CR   
+PL 9 CR CL 3 PR PL 7 KL 
+   BL      KR      BL   
+
+   BR      KL      BR   
+CR 6 KL KR 2 CR CL 8 KR 
+   PL      PR      PR   
+
+   PR      PL      PL   
+BL 4 KL KR 1 CL CR 5 KR 
+   BL      BL      BL   
+
+31:
+   PL      PR      PL   
+BR 8 CL CR 2 BL BR 6 CR 
+   KL      KL      KL   
+
+   KR      KR      KR   
+PR 9 BL BR 4 PL PR 1 CR 
+   CR      CL      BR   
+
+   CL      CR      BL   
+KR 3 PL PR 7 KR KL 5 PL 
+   BR      BR      CR   
+
+32:
+No Solution
+
+33:
+   PL      PL      KR   
+BR 7 KR KL 4 BR BL 2 CL 
+   CR      CL      PR   
+
+   CL      CR      PL   
+KL 8 PL PR 5 BR BL 6 KL 
+   BL      KL      CR   
+
+   BR      KR      CL   
+KL 3 CR CL 9 PR PL 1 KL 
+   PL      BL      BR   
+
+34:
+   KL      PR      PL   
+PL 3 BR BL 9 KR KL 5 BR 
+   CR      KL      CR   
+
+   CL      KR      CL   
+KL 7 BL BR 1 PR PL 2 BL 
+   PR      CR      KR   
+
+   PL      CL      KL   
+BL 8 KR KL 6 BL BR 4 CR 
+   CR      PL      PR   
+
+35:
+   KR      PL      CL   
+PR 8 CR CL 4 BR BL 3 PR 
+   BL      KL      KR   
+
+   BR      KR      KL   
+BR 7 PR PL 2 CL CR 1 BR 
+   KR      BL      PL   
+
+   KL      BR      PR   
+BR 5 PL PR 9 KR KL 6 BL 
+   CL      CL      CL   
+
+36:
+   KL      CL      KL   
+PR 7 CR CL 1 PR PL 9 BL 
+   BL      KR      PL   
+
+   BR      KL      PR   
+CR 2 PL PR 3 CL CR 4 BL 
+   KL      BR      KR   
+
+   KR      BL      KL   
+BR 5 CL CR 6 PL PR 8 BL 
+   PR      KR      CR   
+
+37:
+   BL      BR      CL   
+PR 2 KL KR 6 PR PL 3 BR 
+   CR      PL      KR   
+
+   CL      PR      KL   
+PR 1 BL BR 8 CL CR 9 PL 
+   KL      KR      BL   
+
+   KR      KL      BR   
+BR 4 CR CL 5 PR PL 7 CL 
+   PR      BL      KL   
+
+38:
+   KL      BL      BR   
+BL 1 PL PR 2 KR KL 7 CR 
+   CL      CR      PR   
+
+   CR      CL      PL   
+BL 9 PR PL 6 BR BL 5 CR 
+   KR      KL      KL   
+
+   KL      KR      KR   
+PR 8 CL CR 3 PR PL 4 BR 
+   BL      BL      CL   
+
+39:
+   CR      CL      BR   
+PR 9 BR BL 2 PL PR 4 CR 
+   KR      KL      KL   
+
+   KL      KR      KR   
+CR 5 BR BL 3 CR CL 1 PL 
+   PR      PL      CL   
+
+   PL      PR      CR   
+KL 8 BR BL 6 KL KR 7 BL 
+   CR      CL      PL   
+
+40:
+   KL      KR      CR   
+PL 7 CR CL 4 BL BR 3 PL 
+   BL      PL      KR   
+
+   BR      PR      KL   
+CL 6 KR KL 2 CR CL 8 PR 
+   PL      BL      BL   
+
+   PR      BR      BR   
+BL 1 KR KL 9 CR CL 5 PR 
+   CR      PR      KL   
+
+41:
+   BR      BL      KR   
+PL 3 KR KL 2 CR CL 5 PL 
+   CR      PL      BR   
+
+   CL      PR      BL   
+BL 6 CR CL 1 BL BR 9 CL 
+   KR      KR      KL   
+
+   KL      KL      KR   
+PR 7 CR CL 4 BR BL 8 CL 
+   BR      PL      PL   
+
+42:
+   BL      BR      BR   
+PL 6 KL KR 3 PL PR 7 KL 
+   CL      CR      CR   
+
+   CR      CL      CL   
+PL 1 BL BR 8 KR KL 2 BL 
+   KR      PR      PR   
+
+   KL      PL      PL   
+PR 4 BR BL 5 KR KL 9 CR 
+   CR      CR      BL   
+
+43:
+   CL      PR      BR   
+BR 4 KR KL 3 CR CL 9 PR 
+   PR      BR      KR   
+
+   PL      BL      KL   
+BR 8 KR KL 6 PR PL 7 CL 
+   CR      CL      PL   
+
+   CL      CR      PR   
+KL 2 PR PL 1 BL BR 5 CL 
+   BR      KL      KR   
+
+44:
+   PR      KL      KR   
+KR 8 CR CL 7 BL BR 4 PR 
+   BR      PL      CL   
+
+   BL      PR      CR   
+CR 2 KR KL 1 BR BL 6 KL 
+   PL      CL      PR   
+
+   PR      CR      PL   
+BL 3 PR PL 9 CL CR 5 BR 
+   KR      BL      KR   
+
+45:
+   BL      PR      KL   
+CL 3 KR KL 1 CL CR 2 PR 
+   PR      BL      BL   
+
+   PL      BR      BR   
+BL 8 CR CL 5 PL PR 6 KR 
+   KR      KR      CL   
+
+   KL      KL      CR   
+CL 7 BR BL 4 PR PL 9 BR 
+   PR      CR      KL   
+
+46:
+   CL      BR      BL   
+KL 1 PR PL 8 CR CL 9 PL 
+   BL      KL      KL   
+
+   BR      KR      KR   
+KL 3 PL PR 2 CR CL 7 BL 
+   CL      BL      PR   
+
+   CR      BR      PL   
+PR 6 KL KR 5 CL CR 4 KL 
+   BR      PR      BR   
+
+47:
+   CR      PR      KR   
+PL 4 KR KL 7 BL BR 9 PL 
+   BR      CL      CR   
+
+   BL      CR      CL   
+CL 3 PR PL 5 BL BR 8 KL 
+   KR      KL      PL   
+
+   KL      KR      PR   
+PL 6 CL CR 2 BL BR 1 CR 
+   BL      PL      KR   
+
+48:
+   CL      PR      KL   
+PL 1 BL BR 6 CL CR 4 PL 
+   KR      KR      BL   
+
+   KL      KL      BR   
+BL 7 CL CR 3 PL PR 8 CR 
+   PL      BR      KL   
+
+   PR      BL      KR   
+BL 5 KR KL 9 BL BR 2 PL 
+   CL      CR      CR   
+
+49:
+   CR      CL      KR   
+BR 9 KR KL 2 PL PR 3 BL 
+   PR      BR      CL   
+
+   PL      BL      CR   
+BR 7 CL CR 6 KR KL 8 CL 
+   KL      PR      PR   
+
+   KR      PL      PL   
+PL 1 CR CL 5 BL BR 4 KL 
+   BL      KL      CR   
+
+50:
+   CL      CL      PR   
+BL 2 PL PR 8 KR KL 1 CL 
+   KL      BR      BR   
+
+   KR      BL      BL   
+BR 7 CR CL 6 PL PR 3 CL 
+   PR      KR      KR   
+
+   PL      KL      KL   
+KL 9 BL BR 4 PR PL 5 BR 
+   CR      CL      CR   
+
+51:
+No Solution
+
+52:
+   PL      KR      BL   
+KL 4 BR BL 8 PR PL 9 CL 
+   CR      CR      KL   
+
+   CL      CL      KR   
+BR 7 PR PL 1 KR KL 5 BL 
+   KR      BR      PL   
+
+   KL      BL      PR   
+CR 3 BL BR 6 PL PR 2 CL 
+   PL      KR      KL   
+
+53:
+   PR      CL      CL   
+KR 2 BR BL 8 PL PR 6 BL 
+   CL      KR      KR   
+
+   CR      KL      KL   
+PR 3 BL BR 4 PR PL 1 CL 
+   KR      CR      BL   
+
+   KL      CL      BR   
+BR 5 PL PR 9 BL BR 7 CL 
+   CL      KR      KL   
+
+54:
+No Solution
+
+55:
+   KL      KR      KR   
+BR 3 CL CR 7 PR PL 9 BL 
+   PR      PR      CR   
+
+   PL      PL      CL   
+KR 4 CL CR 5 KR KL 2 BL 
+   BL      BR      PR   
+
+   BR      BL      PL   
+PL 8 CL CR 1 KL KR 6 BR 
+   KR      PR      CR   
+
+56:
+   CL      CR      PR   
+BL 5 PR PL 4 KR KL 9 CL 
+   KR      BL      BL   
+
+   KL      BR      BR   
+BR 1 CR CL 6 PL PR 8 CL 
+   PR      KR      KR   
+
+   PL      KL      KL   
+BL 2 CL CR 7 BL BR 3 PR 
+   KL      PL      CL   
+
+57:
+   CR      KL      CL   
+KR 1 BR BL 5 PR PL 3 KL 
+   PR      PL      BL   
+
+   PL      PR      BR   
+BL 7 CR CL 4 KL KR 2 CL 
+   KL      BL      PR   
+
+   KR      BR      PL   
+BR 9 PL PR 6 BR BL 8 CL 
+   CR      CL      KL   
+
+58:
+   CL      BR      KL   
+PL 1 KL KR 6 PR PL 2 CL 
+   BR      PR      BL   
+
+   BL      PL      BR   
+CL 7 KR KL 8 CR CL 3 PL 
+   PR      BL      KL   
+
+   PL      BR      KR   
+CR 4 KR KL 5 PR PL 9 BL 
+   BR      CL      CR   
+
+59:
+   CL      CR      KR   
+BR 2 KL KR 1 BL BR 7 PL 
+   PR      PL      CL   
+
+   PL      PR      CR   
+CR 4 BL BR 9 KL KR 5 BR 
+   KL      CL      PR   
+
+   KR      CR      PL   
+BR 8 CL CR 6 KL KR 3 CR 
+   PL      BR      BL   
+
+60:
+   PR      KR      KR   
+KR 7 CL CR 3 BL BR 5 PR 
+   BR      PR      CR   
+
+   BL      PL      CL   
+PL 9 KL KR 1 BR BL 6 KR 
+   CR      CR      PL   
+
+   CL      CL      PR   
+BR 2 KL KR 4 BL BR 8 PL 
+   PL      PR      KL   
+
+61:
+No Solution
+
+62:
+   PR      KL      CR   
+KR 4 CR CL 7 BL BR 8 KL 
+   BR      BR      PL   
+
+   BL      BL      PR   
+PR 5 KR KL 6 CR CL 1 BL 
+   CR      PL      KL   
+
+   CL      PR      KR   
+BL 3 KL KR 2 BR BL 9 PL 
+   PR      CL      CL   
+
+63:
+   KL      CR      KR   
+CL 9 BR BL 7 PL PR 6 BL 
+   PL      PL      CL   
+
+   PR      PR      CR   
+CL 3 KL KR 2 BL BR 1 KL 
+   KL      CL      PR   
+
+   KR      CR      PL   
+PR 8 BL BR 5 KL KR 4 BL 
+   CL      PR      CR   
+
+64:
+   BL      PL      KR   
+CL 1 KL KR 7 CR CL 8 PL 
+   PL      BR      BL   
+
+   PR      BL      BR   
+CR 6 KL KR 2 CR CL 4 KL 
+   BR      PL      PR   
+
+   BL      PR      PL   
+KR 3 CR CL 9 KR KL 5 BL 
+   PL      BR      CL   
+
+65:
+   CR      BR      BR   
+BR 3 PR PL 1 CL CR 6 KL 
+   KR      KL      PL   
+
+   KL      KR      PR   
+BL 8 PL PR 2 BL BR 9 KR 
+   CL      CL      CR   
+
+   CR      CR      CL   
+BL 7 PL PR 5 BL BR 4 KL 
+   KL      KL      PL   
+
+66:
+   CL      CL      CL   
+BR 1 PL PR 4 KR KL 2 PL 
+   KR      BR      KL   
+
+   KL      BL      KR   
+CL 5 PL PR 8 CR CL 9 BL 
+   BR      KR      PL   
+
+   BL      KL      PR   
+KL 6 PR PL 3 BR BL 7 KL 
+   CL      CL      CR   
+
+67:
+   BR      KL      CR   
+KR 1 PR PL 8 BR BL 6 PL 
+   CR      CR      KR   
+
+   CL      CL      KL   
+PL 7 BL BR 9 PL PR 4 BL 
+   KR      KR      CR   
+
+   KL      KL      CL   
+CL 3 BL BR 5 PR PL 2 BR 
+   PL      CR      KR   
+
+68:
+   CR      KL      BL   
+KL 7 BR BL 5 CR CL 2 PL 
+   PL      CL      KR   
+
+   PR      CR      KL   
+CL 4 KL KR 1 PL PR 6 CL 
+   BR      BL      BR   
+
+   BL      BR      BL   
+KL 8 CR CL 9 KR KL 3 PL 
+   PL      PR      CL   
+
+69:
+   KL      BL      BL   
+CR 7 PL PR 9 KL KR 8 PR 
+   BR      CR      CL   
+
+   BL      CL      CR   
+CR 1 KR KL 2 PR PL 3 KL 
+   PR      BL      BR   
+
+   PL      BR      BL   
+CL 5 KR KL 4 PL PR 6 CL 
+   BR      CR      KL   
+
+70:
+   KL      KL      KL   
+PL 6 BL BR 8 PR PL 3 CL 
+   CR      CR      BR   
+
+   CL      CL      BL   
+KR 7 PL PR 5 KR KL 4 PL 
+   BL      BR      KL   
+
+   BR      BL      KR   
+CL 2 KR KL 1 CL CR 9 PR 
+   PL      PL      BR   
+
+71:
+   KR      KL      BR   
+CL 4 PL PR 1 CL CR 9 KL 
+   BR      BL      PR   
+
+   BL      BR      PL   
+KL 3 PR PL 2 KL KR 8 BL 
+   CR      CL      CR   
+
+   CL      CR      CL   
+PR 5 KR KL 7 PR PL 6 BL 
+   BR      BR      KR   
+
+72:
+   KL      BR      BR   
+BR 3 PR PL 8 KL KR 4 CL 
+   CL      CL      PL   
+
+   CR      CR      PR   
+PL 7 KL KR 5 BR BL 1 CL 
+   BR      PL      BR   
+
+   BL      PR      BL   
+CR 2 KL KR 9 CL CR 6 KL 
+   PR      BL      PL   
+
+73:
+   PL      PL      KL   
+KR 7 BL BR 1 CL CR 3 BR 
+   CR      KL      PL   
+
+   CL      KR      PR   
+KR 4 PL PR 6 BL BR 2 KL 
+   BR      CR      CR   
+
+   BL      CL      CL   
+CL 8 KL KR 9 PL PR 5 KL 
+   PR      BL      BL   
+
+74:
+   BL      CL      CL   
+CL 8 KR KL 1 BL BR 2 PR 
+   PR      PR      KL   
+
+   PL      PL      KR   
+KL 5 CL CR 3 BR BL 4 CR 
+   BL      KL      PL   
+
+   BR      KR      PR   
+KL 7 CL CR 9 BR BL 6 KR 
+   PR      PR      CR   
+
+75:
+   CR      KR      KL   
+BR 6 PL PR 2 CL CR 8 BL 
+   KL      BR      PL   
+
+   KR      BL      PR   
+CL 4 PR PL 3 KR KL 7 CR 
+   BL      CR      BR   
+
+   BR      CL      BL   
+KL 5 PR PL 1 KR KL 9 CL 
+   CR      BL      PL   
+
+76:
+   PL      PL      CL   
+CL 1 BR BL 9 KL KR 3 PL 
+   KL      CL      BR   
+
+   KR      CR      BL   
+CL 4 BR BL 2 KL KR 6 CR 
+   PL      PL      PR   
+
+   PR      PR      PL   
+BR 7 CL CR 8 KR KL 5 CR 
+   KR      BR      BL   
+
+77:
+   CR      BR      BL   
+BL 3 KR KL 5 CL CR 8 KL 
+   PL      PL      PR   
+
+   PR      PR      PL   
+CL 7 BR BL 1 CR CL 6 KL 
+   KR      KL      BR   
+
+   KL      KR      BL   
+CR 2 PL PR 4 CR CL 9 KL 
+   BR      BL      PL   
+
+78:
+No Solution
+
+79:
+   KR      KL      KL   
+BL 7 PL PR 4 CL CR 1 PL 
+   CR      BL      BR   
+
+   CL      BR      BL   
+KL 8 PL PR 5 KL KR 9 CL 
+   BL      CR      PR   
+
+   BR      CL      PL   
+CR 2 PR PL 6 KL KR 3 BR 
+   KL      BL      CL   
+
+80:
+   CR      KL      PR   
+BR 3 PR PL 8 CL CR 4 PR 
+   KL      BR      BL   
+
+   KR      BL      BR   
+PL 1 KL KR 2 PR PL 6 CR 
+   CR      CR      KL   
+
+   CL      CL      KR   
+PL 9 KL KR 7 BL BR 5 CR 
+   BL      PR      PR   
+
+81:
+   BR      PR      PL   
+CR 6 KR KL 3 CL CR 5 BR 
+   PL      KL      KR   
+
+   PR      KR      KL   
+CR 1 BR BL 7 CL CR 9 PR 
+   KL      PR      BL   
+
+   KR      PL      BR   
+CR 4 BL BR 2 CL CR 8 PL 
+   PL      KR      KR   
+
+82:
+   CL      PR      KL   
+BL 7 KL KR 4 CL CR 1 PL 
+   PR      BR      BR   
+
+   PL      BL      BL   
+BR 5 KL KR 2 PL PR 6 CL 
+   CR      CR      KR   
+
+   CL      CL      KL   
+PL 3 KR KL 9 CL CR 8 PL 
+   BR      PR      BR   
+
+83:
+   CL      KL      CL   
+KR 3 BL BR 8 PL PR 1 KR 
+   PL      CR      BR   
+
+   PR      CL      BL   
+KR 9 BL BR 6 KR KL 4 CL 
+   CL      PL      PR   
+
+   CR      PR      PL   
+KL 2 BL BR 5 KR KL 7 BR 
+   PR      CR      CR   
+
+84:
+   KR      CL      PL   
+BR 5 PL PR 8 BR BL 4 CR 
+   PL      BL      KR   
+
+   PR      BR      KL   
+BR 2 KL KR 3 PR PL 1 CL 
+   CL      CR      BR   
+
+   CR      CL      BL   
+KR 6 PL PR 9 KR KL 7 CL 
+   BR      BL      PL   
+
+85:
+   PR      PL      PR   
+BL 3 KL KR 8 BL BR 7 KR 
+   KR      BL      CL   
+
+   KL      BR      CR   
+PL 6 CL CR 1 KR KL 4 PL 
+   BR      PL      KL   
+
+   BL      PR      KR   
+PL 5 CL CR 2 BR BL 9 PL 
+   KL      KR      CR   
+
+86:
+   KR      BL      BL   
+BL 2 PL PR 8 CL CR 1 KR 
+   CR      KL      PR   
+
+   CL      KR      PL   
+KR 5 PL PR 9 CR CL 7 KR 
+   BR      BL      BR   
+
+   BL      BR      BL   
+CL 4 KL KR 3 PR PL 6 KL 
+   PL      CR      CR   
+
+87:
+   PL      PR      KL   
+CR 1 KR KL 5 BR BL 2 PR 
+   BR      CL      CL   
+
+   BL      CR      CR   
+KR 3 BL BR 7 PL PR 4 KR 
+   CL      KL      BL   
+
+   CR      KR      BR   
+PR 9 KL KR 6 CR CL 8 KR 
+   BL      PL      PR   
+
+88:
+   CL      KL      PR   
+BR 6 KR KL 3 BR BL 5 CR 
+   PR      PL      KR   
+
+   PL      PR      KL   
+CL 4 KR KL 1 BL BR 8 CR 
+   BR      CR      PL   
+
+   BL      CL      PR   
+BR 2 PL PR 7 BR BL 9 KR 
+   KR      KR      CL   
+
+89:
+   KL      KL      PR   
+CL 4 BR BL 1 CL CR 9 BL 
+   PR      PR      KL   
+
+   PL      PL      KR   
+KL 5 CR CL 7 BR BL 2 CL 
+   BL      KR      PR   
+
+   BR      KL      PL   
+PL 6 BR BL 8 KL KR 3 BR 
+   KR      PR      CR   
+
+90:
+   BL      BR      CR   
+PL 2 KR KL 7 PL PR 5 KL 
+   CL      KL      BL   
+
+   CR      KR      BR   
+PL 9 BL BR 6 PL PR 4 CR 
+   KR      CR      KR   
+
+   KL      CL      KL   
+BL 8 CL CR 1 BR BL 3 PL 
+   PL      PR      CR   
+
+91:
+   CL      KR      PL   
+KL 1 BL BR 8 CR CL 4 KR 
+   PL      PR      BR   
+
+   PR      PL      BL   
+KL 6 BL BR 5 CL CR 2 KL 
+   CL      KL      PL   
+
+   CR      KR      PR   
+KR 9 PR PL 7 BL BR 3 KR 
+   BR      CR      CR   
+
+92:
+   PL      KR      CL   
+BL 2 CR CL 7 PL PR 8 KR 
+   KL      BL      BR   
+
+   KR      BR      BL   
+CR 5 PR PL 3 KL KR 6 CR 
+   BR      CL      KR   
+
+   BL      CR      KL   
+PL 9 CL CR 4 PL PR 1 CL 
+   KL      BL      BL   
+
+93:
+   PR      PL      BL   
+KR 3 CR CL 9 KR KL 2 PL 
+   BR      BL      CR   
+
+   BL      BR      CL   
+PL 5 CL CR 6 PL PR 4 KR 
+   KR      KL      PL   
+
+   KL      KR      PR   
+CR 1 PR PL 7 BR BL 8 KL 
+   BL      CL      CL   
+
+94:
+   PL      KR      KL   
+CL 5 BL BR 7 CR CL 8 PR 
+   KR      PR      BR   
+
+   KL      PL      BL   
+PL 9 BR BL 4 CR CL 6 KL 
+   CR      KL      PR   
+
+   CL      KR      PL   
+PR 1 BR BL 2 CR CL 3 KL 
+   KL      PL      BR   
+
+95:
+   BR      KR      CL   
+PL 6 CL CR 2 PR PL 8 KR 
+   KR      BL      BL   
+
+   KL      BR      BR   
+PR 9 KR KL 4 PR PL 7 CR 
+   BR      CL      KL   
+
+   BL      CR      KR   
+CL 1 KR KL 5 BR BL 3 CL 
+   PR      PL      PR   
+
+96:
+   PL      PR      BL   
+CL 8 BL BR 7 KL KR 9 CR 
+   KR      CL      PL   
+
+   KL      CR      PR   
+CL 5 PR PL 6 BL BR 2 CL 
+   BR      KL      KR   
+
+   BL      KR      KL   
+KL 4 PL PR 3 CR CL 1 BR 
+   CR      BL      PL   
+
+97:
+   CL      BR      CR   
+BR 5 PR PL 9 KR KL 6 PR 
+   KL      CR      BR   
+
+   KR      CL      BL   
+BR 8 KR KL 4 PL PR 1 CR 
+   PL      BR      KR   
+
+   PR      BL      KL   
+KR 3 BL BR 2 CL CR 7 PL 
+   CR      PR      BL   
+
+98:
+   CR      BR      BL   
+BR 3 PL PR 1 CR CL 2 KR 
+   KL      KR      PR   
+
+   KR      KL      PL   
+CR 7 PL PR 6 CL CR 5 BR 
+   BL      BL      KL   
+
+   BR      BR      KR   
+KL 8 CL CR 4 PL PR 9 CR 
+   PR      KR      BR   
+
+99:
+   CL      KL      PL   
+PR 9 BR BL 1 CR CL 3 BL 
+   KL      PR      KR   
+
+   KR      PL      KL   
+CR 5 BR BL 4 CL CR 7 BR 
+   PL      KL      PR   
+
+   PR      KR      PL   
+CL 6 BR BL 8 PL PR 2 KL 
+   KR      CL      CL   
+
+100:
+   CR      BR      BR   
+KL 1 PL PR 7 KL KR 3 PL 
+   PL      CL      CR   
+
+   PR      CR      CL   
+KL 5 CR CL 6 PR PL 8 BL 
+   BR      BL      KR   
+
+   BL      BR      KL   
+PL 2 KR KL 4 CR CL 9 PL 
+   CL      PR      BL   
+
+101:
+   CL      KR      KL   
+PR 6 BR BL 2 CL CR 7 BL 
+   PL      PR      PR   
+
+   PR      PL      PL   
+KR 3 CR CL 4 KR KL 8 BL 
+   BL      BL      CR   
+
+   BR      BR      CL   
+PL 5 CL CR 1 KR KL 9 PR 
+   KR      PL      BL   
+
+102:
+No Solution
+
+103:
+   KL      BR      BL   
+BL 6 CR CL 5 KR KL 9 CL 
+   PR      PR      PL   
+
+   PL      PL      PR   
+KR 7 BL BR 1 KL KR 3 BR 
+   CL      CL      CL   
+
+   CR      CR      CR   
+PL 2 KL KR 4 PL PR 8 KL 
+   BL      BR      BR   
+

@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>2012 ACM ICPC Greater New York Region: Standings</title>
+</head>
+
+<!--#include file="header.html" -->
+
+<h2>Standings</h2>
+
+The <a href="problems.shtml">problems</a> are also available.
+<p>
+
+<!--#include file="full.html" -->
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size=-1><i>
+Last modified 4 November 2012.
+Please email
+<SCRIPT LANGUAGE="JavaScript" SRC="/signature.js"></SCRIPT>
+with comments, questions, or corrections.
+</i></font>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>

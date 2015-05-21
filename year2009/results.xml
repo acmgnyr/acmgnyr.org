@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<contestStandings>
+  <standingsHeader currentDate="Sun Oct 18 12:08:44 GMT-05:00 2009" generatorId="$Id: DefaultScoringAlgorithm.java 1857 2009-04-10 05:12:32Z boudreat $" groupCount="1" medianProblemsSolved="4" problemCount="9" problemsAttempted="9" siteCount="1" systemName="CSUS Programming Contest System" systemURL="http://pc2.ecs.csus.edu/" systemVersion="9.1.3 20090916 build 1899" title="Programming Contest" totalAttempts="331" totalSolved="220">
+    <groupList/>
+    <colorList/>
+    <problem attempts="54" bestSolutionTime="4" id="1" lastSolutionTime="211" numberSolved="50" title="A - Nth Largest Value"/>
+    <problem attempts="55" bestSolutionTime="17" id="2" lastSolutionTime="272" numberSolved="32" title="B - Equal Sum Partitions"/>
+    <problem attempts="27" bestSolutionTime="16" id="3" lastSolutionTime="276" numberSolved="16" title="C - Balls"/>
+    <problem attempts="70" bestSolutionTime="17" id="4" lastSolutionTime="281" numberSolved="38" title="D - Running Median"/>
+    <problem attempts="46" bestSolutionTime="6" id="5" lastSolutionTime="263" numberSolved="35" title="E - Next Permutation"/>
+    <problem attempts="17" bestSolutionTime="12" id="6" lastSolutionTime="295" numberSolved="16" title="F - Adjacent Bit Counts"/>
+    <problem attempts="24" bestSolutionTime="32" id="7" lastSolutionTime="204" numberSolved="10" title="G - Convex Hull"/>
+    <problem attempts="21" bestSolutionTime="78" id="8" lastSolutionTime="291" numberSolved="12" title="H - Interior Points"/>
+    <problem attempts="17" bestSolutionTime="80" id="9" lastSolutionTime="292" numberSolved="11" title="I - Theta Puzzle"/>
+  </standingsHeader>
+  <teamStanding firstSolved="6" index="0" lastSolved="101" points="419" problemsAttempted="9" rank="1" solved="9" teamAlias="Cornell 2 (S3) (not aliasesd)" teamExternalId="" teamId="11" teamKey="1TEAM11" teamName="Cornell 2 (S3)" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="6" problemId="A = Problem A -7383030686194866306" solutionTime="6"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="47" problemId="B - Problem B-6009124056070325574" solutionTime="47"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="62" problemId="C - Problem C--3516420179585913441" solutionTime="62"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="28" problemId="D - Problem D-4225911952065082246" solutionTime="28"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="13" problemId="E - Problem E--3641892632055161420" solutionTime="13"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="34" problemId="F - Problem F-8666504219164533854" solutionTime="34"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="50" problemId="G - Problem G--1900457781337734779" solutionTime="50"/>
+    <problemSummaryInfo attempts="1" index="8" isPending="false" isSolved="true" points="78" problemId="H - Problem H-1680788329233542954" solutionTime="78"/>
+    <problemSummaryInfo attempts="1" index="9" isPending="false" isSolved="true" points="101" problemId="Problem I--1265183003029838005" solutionTime="101"/>
+  </teamStanding>
+  <teamStanding firstSolved="5" index="1" lastSolved="136" points="485" problemsAttempted="9" rank="2" solved="9" teamAlias="Columbia 1 (S3) (not aliasesd)" teamExternalId="" teamId="5" teamKey="1TEAM5" teamName="Columbia 1 (S3)" teamSiteId="1" totalAttempts="10">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="5" problemId="A = Problem A -7383030686194866306" solutionTime="5"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="78" problemId="B - Problem B-6009124056070325574" solutionTime="58"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="16" problemId="C - Problem C--3516420179585913441" solutionTime="16"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="31" problemId="D - Problem D-4225911952065082246" solutionTime="31"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="21" problemId="E - Problem E--3641892632055161420" solutionTime="21"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="29" problemId="F - Problem F-8666504219164533854" solutionTime="29"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="66" problemId="G - Problem G--1900457781337734779" solutionTime="66"/>
+    <problemSummaryInfo attempts="1" index="8" isPending="false" isSolved="true" points="136" problemId="H - Problem H-1680788329233542954" solutionTime="136"/>
+    <problemSummaryInfo attempts="1" index="9" isPending="false" isSolved="true" points="103" problemId="Problem I--1265183003029838005" solutionTime="103"/>
+  </teamStanding>
+  <teamStanding firstSolved="4" index="2" lastSolved="174" points="576" problemsAttempted="9" rank="3" solved="9" teamAlias="Binghamton 1 (S2) (not aliasesd)" teamExternalId="" teamId="1" teamKey="1TEAM1" teamName="Binghamton 1 (S2)" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="4" problemId="A = Problem A -7383030686194866306" solutionTime="4"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="27" problemId="B - Problem B-6009124056070325574" solutionTime="27"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="58" problemId="C - Problem C--3516420179585913441" solutionTime="58"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="17" problemId="D - Problem D-4225911952065082246" solutionTime="17"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="9" problemId="E - Problem E--3641892632055161420" solutionTime="9"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="166" problemId="F - Problem F-8666504219164533854" solutionTime="166"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="32" problemId="G - Problem G--1900457781337734779" solutionTime="32"/>
+    <problemSummaryInfo attempts="1" index="8" isPending="false" isSolved="true" points="174" problemId="H - Problem H-1680788329233542954" solutionTime="174"/>
+    <problemSummaryInfo attempts="1" index="9" isPending="false" isSolved="true" points="89" problemId="Problem I--1265183003029838005" solutionTime="89"/>
+  </teamStanding>
+  <teamStanding firstSolved="8" index="3" lastSolved="161" points="580" problemsAttempted="9" rank="4" solved="9" teamAlias="Princeton 1 (S2) (not aliasesd)" teamExternalId="" teamId="33" teamKey="1TEAM33" teamName="Princeton 1 (S2)" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="8" problemId="A = Problem A -7383030686194866306" solutionTime="8"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="74" problemId="B - Problem B-6009124056070325574" solutionTime="74"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="43" problemId="C - Problem C--3516420179585913441" solutionTime="43"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="28" problemId="D - Problem D-4225911952065082246" solutionTime="28"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="9" problemId="E - Problem E--3641892632055161420" solutionTime="9"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="24" problemId="F - Problem F-8666504219164533854" solutionTime="24"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="121" problemId="G - Problem G--1900457781337734779" solutionTime="121"/>
+    <problemSummaryInfo attempts="1" index="8" isPending="false" isSolved="true" points="161" problemId="H - Problem H-1680788329233542954" solutionTime="161"/>
+    <problemSummaryInfo attempts="1" index="9" isPending="false" isSolved="true" points="112" problemId="Problem I--1265183003029838005" solutionTime="112"/>
+  </teamStanding>
+  <teamStanding firstSolved="13" index="4" lastSolved="268" points="861" problemsAttempted="9" rank="5" solved="9" teamAlias="Cornell 3 (S2) (not aliasesd)" teamExternalId="" teamId="12" teamKey="1TEAM12" teamName="Cornell 3 (S2)" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="13" problemId="A = Problem A -7383030686194866306" solutionTime="13"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="33" problemId="B - Problem B-6009124056070325574" solutionTime="33"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="136" problemId="C - Problem C--3516420179585913441" solutionTime="136"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="86" problemId="D - Problem D-4225911952065082246" solutionTime="86"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="13" problemId="E - Problem E--3641892632055161420" solutionTime="13"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="49" problemId="F - Problem F-8666504219164533854" solutionTime="49"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="166" problemId="G - Problem G--1900457781337734779" solutionTime="166"/>
+    <problemSummaryInfo attempts="1" index="8" isPending="false" isSolved="true" points="268" problemId="H - Problem H-1680788329233542954" solutionTime="268"/>
+    <problemSummaryInfo attempts="1" index="9" isPending="false" isSolved="true" points="97" problemId="Problem I--1265183003029838005" solutionTime="97"/>
+  </teamStanding>
+  <teamStanding firstSolved="9" index="5" lastSolved="292" points="901" problemsAttempted="9" rank="6" solved="9" teamAlias="Columbia 2 (S3) (not aliasesd)" teamExternalId="" teamId="6" teamKey="1TEAM6" teamName="Columbia 2 (S3)" teamSiteId="1" totalAttempts="12">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="9" problemId="A = Problem A -7383030686194866306" solutionTime="9"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="26" problemId="B - Problem B-6009124056070325574" solutionTime="26"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="29" problemId="C - Problem C--3516420179585913441" solutionTime="29"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="70" problemId="D - Problem D-4225911952065082246" solutionTime="70"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="34" problemId="E - Problem E--3641892632055161420" solutionTime="34"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="64" problemId="F - Problem F-8666504219164533854" solutionTime="64"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="127" problemId="G - Problem G--1900457781337734779" solutionTime="127"/>
+    <problemSummaryInfo attempts="1" index="8" isPending="false" isSolved="true" points="190" problemId="H - Problem H-1680788329233542954" solutionTime="190"/>
+    <problemSummaryInfo attempts="4" index="9" isPending="false" isSolved="true" points="352" problemId="Problem I--1265183003029838005" solutionTime="292"/>
+  </teamStanding>
+  <teamStanding firstSolved="5" index="6" lastSolved="235" points="958" problemsAttempted="9" rank="7" solved="9" teamAlias="Mville 1 (S1) (not aliasesd)" teamExternalId="" teamId="21" teamKey="1TEAM21" teamName="Mville 1 (S1)" teamSiteId="1" totalAttempts="13">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="5" problemId="A = Problem A -7383030686194866306" solutionTime="5"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="73" problemId="B - Problem B-6009124056070325574" solutionTime="73"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="100" problemId="C - Problem C--3516420179585913441" solutionTime="100"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="92" problemId="D - Problem D-4225911952065082246" solutionTime="92"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="28" problemId="E - Problem E--3641892632055161420" solutionTime="28"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="123" problemId="F - Problem F-8666504219164533854" solutionTime="123"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="62" problemId="G - Problem G--1900457781337734779" solutionTime="62"/>
+    <problemSummaryInfo attempts="4" index="8" isPending="false" isSolved="true" points="295" problemId="H - Problem H-1680788329233542954" solutionTime="235"/>
+    <problemSummaryInfo attempts="2" index="9" isPending="false" isSolved="true" points="180" problemId="Problem I--1265183003029838005" solutionTime="160"/>
+  </teamStanding>
+  <teamStanding firstSolved="4" index="7" lastSolved="222" points="996" problemsAttempted="9" rank="8" solved="9" teamAlias="Cooper 2 (S2) (not aliasesd)" teamExternalId="" teamId="8" teamKey="1TEAM8" teamName="Cooper 2 (S2)" teamSiteId="1" totalAttempts="12">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="4" problemId="A = Problem A -7383030686194866306" solutionTime="4"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="82" problemId="B - Problem B-6009124056070325574" solutionTime="82"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="135" problemId="C - Problem C--3516420179585913441" solutionTime="135"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="90" problemId="D - Problem D-4225911952065082246" solutionTime="90"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="6" problemId="E - Problem E--3641892632055161420" solutionTime="6"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="12" problemId="F - Problem F-8666504219164533854" solutionTime="12"/>
+    <problemSummaryInfo attempts="4" index="7" isPending="false" isSolved="true" points="264" problemId="G - Problem G--1900457781337734779" solutionTime="204"/>
+    <problemSummaryInfo attempts="1" index="8" isPending="false" isSolved="true" points="181" problemId="H - Problem H-1680788329233542954" solutionTime="181"/>
+    <problemSummaryInfo attempts="1" index="9" isPending="false" isSolved="true" points="222" problemId="Problem I--1265183003029838005" solutionTime="222"/>
+  </teamStanding>
+  <teamStanding firstSolved="5" index="8" lastSolved="291" points="1129" problemsAttempted="9" rank="9" solved="9" teamAlias="Stony Brook 1 (S3) (not aliasesd)" teamExternalId="" teamId="44" teamKey="1TEAM44" teamName="Stony Brook 1 (S3)" teamSiteId="1" totalAttempts="13">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="5" problemId="A = Problem A -7383030686194866306" solutionTime="5"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="127" problemId="B - Problem B-6009124056070325574" solutionTime="127"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="276" problemId="C - Problem C--3516420179585913441" solutionTime="276"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="28" problemId="D - Problem D-4225911952065082246" solutionTime="28"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="10" problemId="E - Problem E--3641892632055161420" solutionTime="10"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="37" problemId="F - Problem F-8666504219164533854" solutionTime="37"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="195" problemId="G - Problem G--1900457781337734779" solutionTime="195"/>
+    <problemSummaryInfo attempts="5" index="8" isPending="false" isSolved="true" points="371" problemId="H - Problem H-1680788329233542954" solutionTime="291"/>
+    <problemSummaryInfo attempts="1" index="9" isPending="false" isSolved="true" points="80" problemId="Problem I--1265183003029838005" solutionTime="80"/>
+  </teamStanding>
+  <teamStanding firstSolved="6" index="9" lastSolved="269" points="1120" problemsAttempted="8" rank="10" solved="8" teamAlias="Stony Brook 2 (S2) (not aliasesd)" teamExternalId="" teamId="45" teamKey="1TEAM45" teamName="Stony Brook 2 (S2)" teamSiteId="1" totalAttempts="12">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="6" problemId="A = Problem A -7383030686194866306" solutionTime="6"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="true" points="247" problemId="B - Problem B-6009124056070325574" solutionTime="207"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="35" problemId="C - Problem C--3516420179585913441" solutionTime="35"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="true" points="105" problemId="D - Problem D-4225911952065082246" solutionTime="85"/>
+    <problemSummaryInfo attempts="2" index="5" isPending="false" isSolved="true" points="124" problemId="E - Problem E--3641892632055161420" solutionTime="104"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="133" problemId="F - Problem F-8666504219164533854" solutionTime="133"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="8" isPending="false" isSolved="true" points="269" problemId="H - Problem H-1680788329233542954" solutionTime="269"/>
+    <problemSummaryInfo attempts="1" index="9" isPending="false" isSolved="true" points="201" problemId="Problem I--1265183003029838005" solutionTime="201"/>
+  </teamStanding>
+  <teamStanding firstSolved="9" index="10" lastSolved="269" points="815" problemsAttempted="7" rank="11" solved="7" teamAlias="Yale 2 (S2) (not aliasesd)" teamExternalId="" teamId="50" teamKey="1TEAM50" teamName="Yale 2 (S2)" teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="9" problemId="A = Problem A -7383030686194866306" solutionTime="9"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="75" problemId="B - Problem B-6009124056070325574" solutionTime="75"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="30" problemId="D - Problem D-4225911952065082246" solutionTime="30"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="64" problemId="E - Problem E--3641892632055161420" solutionTime="64"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="154" problemId="G - Problem G--1900457781337734779" solutionTime="154"/>
+    <problemSummaryInfo attempts="1" index="8" isPending="false" isSolved="true" points="269" problemId="H - Problem H-1680788329233542954" solutionTime="269"/>
+    <problemSummaryInfo attempts="1" index="9" isPending="false" isSolved="true" points="214" problemId="Problem I--1265183003029838005" solutionTime="214"/>
+  </teamStanding>
+  <teamStanding firstSolved="22" index="11" lastSolved="207" points="683" problemsAttempted="6" rank="12" solved="6" teamAlias="QC 2 (S2) (not aliasesd)" teamExternalId="" teamId="36" teamKey="1TEAM36" teamName="QC 2 (S2)" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="22" problemId="A = Problem A -7383030686194866306" solutionTime="22"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="42" problemId="B - Problem B-6009124056070325574" solutionTime="42"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="207" problemId="C - Problem C--3516420179585913441" solutionTime="207"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="127" problemId="D - Problem D-4225911952065082246" solutionTime="127"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="154" problemId="E - Problem E--3641892632055161420" solutionTime="154"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="131" problemId="F - Problem F-8666504219164533854" solutionTime="131"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="27" index="12" lastSolved="176" points="686" problemsAttempted="7" rank="13" solved="6" teamAlias="NYU 3 (not aliasesd)" teamExternalId="" teamId="29" teamKey="1TEAM29" teamName="NYU 3" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="27" problemId="A = Problem A -7383030686194866306" solutionTime="27"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="115" problemId="B - Problem B-6009124056070325574" solutionTime="95"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="176" problemId="C - Problem C--3516420179585913441" solutionTime="176"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="153" problemId="D - Problem D-4225911952065082246" solutionTime="153"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="87" problemId="E - Problem E--3641892632055161420" solutionTime="87"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="128" problemId="F - Problem F-8666504219164533854" solutionTime="128"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="8" index="13" lastSolved="180" points="694" problemsAttempted="7" rank="14" solved="6" teamAlias="Yale 1 (S2) (not aliasesd)" teamExternalId="" teamId="49" teamKey="1TEAM49" teamName="Yale 1 (S2)" teamSiteId="1" totalAttempts="10">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="8" problemId="A = Problem A -7383030686194866306" solutionTime="8"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="77" problemId="B - Problem B-6009124056070325574" solutionTime="77"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="220" problemId="C - Problem C--3516420179585913441" solutionTime="180"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="130" problemId="D - Problem D-4225911952065082246" solutionTime="130"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="84" problemId="E - Problem E--3641892632055161420" solutionTime="84"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="175" problemId="F - Problem F-8666504219164533854" solutionTime="175"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="-1"/>
+  </teamStanding>
+  <teamStanding firstSolved="14" index="14" lastSolved="295" points="822" problemsAttempted="6" rank="15" solved="6" teamAlias="NYU 4 (not aliasesd)" teamExternalId="" teamId="53" teamKey="1TEAM53" teamName="NYU 4" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="14" problemId="A = Problem A -7383030686194866306" solutionTime="14"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="110" problemId="B - Problem B-6009124056070325574" solutionTime="110"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="151" problemId="C - Problem C--3516420179585913441" solutionTime="151"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="41" problemId="D - Problem D-4225911952065082246" solutionTime="41"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="211" problemId="E - Problem E--3641892632055161420" solutionTime="211"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="295" problemId="F - Problem F-8666504219164533854" solutionTime="295"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="10" index="15" lastSolved="125" points="354" problemsAttempted="6" rank="16" solved="5" teamAlias="Binghamton 2 (S2) (not aliasesd)" teamExternalId="" teamId="2" teamKey="1TEAM2" teamName="Binghamton 2 (S2)" teamSiteId="1" totalAttempts="15">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="10" problemId="A = Problem A -7383030686194866306" solutionTime="10"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="76" problemId="B - Problem B-6009124056070325574" solutionTime="56"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="30" problemId="D - Problem D-4225911952065082246" solutionTime="30"/>
+    <problemSummaryInfo attempts="3" index="5" isPending="false" isSolved="true" points="93" problemId="E - Problem E--3641892632055161420" solutionTime="53"/>
+    <problemSummaryInfo attempts="2" index="6" isPending="false" isSolved="true" points="145" problemId="F - Problem F-8666504219164533854" solutionTime="125"/>
+    <problemSummaryInfo attempts="6" index="7" isPending="true" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="12" index="16" lastSolved="179" points="574" problemsAttempted="5" rank="17" solved="5" teamAlias="TCNJ 1 (S2) (not aliasesd)" teamExternalId="" teamId="47" teamKey="1TEAM47" teamName="TCNJ 1 (S2)" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="12" problemId="A = Problem A -7383030686194866306" solutionTime="12"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="true" points="103" problemId="B - Problem B-6009124056070325574" solutionTime="63"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="133" problemId="C - Problem C--3516420179585913441" solutionTime="113"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="true" points="147" problemId="D - Problem D-4225911952065082246" solutionTime="127"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="179" problemId="E - Problem E--3641892632055161420" solutionTime="179"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="14" index="17" lastSolved="208" points="609" problemsAttempted="5" rank="18" solved="5" teamAlias="Cornell 1 (S2) (not aliasesd)" teamExternalId="" teamId="10" teamKey="1TEAM10" teamName="Cornell 1 (S2)" teamSiteId="1" totalAttempts="5">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="14" problemId="A = Problem A -7383030686194866306" solutionTime="14"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="169" problemId="B - Problem B-6009124056070325574" solutionTime="169"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="74" problemId="D - Problem D-4225911952065082246" solutionTime="74"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="144" problemId="E - Problem E--3641892632055161420" solutionTime="144"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="8" isPending="false" isSolved="true" points="208" problemId="H - Problem H-1680788329233542954" solutionTime="208"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="31" index="18" lastSolved="247" points="679" problemsAttempted="5" rank="19" solved="5" teamAlias="Yeshiva 2 (not aliasesd)" teamExternalId="" teamId="52" teamKey="1TEAM52" teamName="Yeshiva 2" teamSiteId="1" totalAttempts="5">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="31" problemId="A = Problem A -7383030686194866306" solutionTime="31"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="113" problemId="B - Problem B-6009124056070325574" solutionTime="113"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="190" problemId="C - Problem C--3516420179585913441" solutionTime="190"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="98" problemId="D - Problem D-4225911952065082246" solutionTime="98"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="247" problemId="E - Problem E--3641892632055161420" solutionTime="247"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="10" index="19" lastSolved="79" points="157" problemsAttempted="6" rank="20" solved="4" teamAlias="QC 3 (S2) (not aliasesd)" teamExternalId="" teamId="37" teamKey="1TEAM37" teamName="QC 3 (S2)" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="10" problemId="A = Problem A -7383030686194866306" solutionTime="10"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="21" problemId="B - Problem B-6009124056070325574" solutionTime="21"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="47" problemId="D - Problem D-4225911952065082246" solutionTime="47"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="79" problemId="E - Problem E--3641892632055161420" solutionTime="79"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="25" index="20" lastSolved="100" points="261" problemsAttempted="4" rank="21" solved="4" teamAlias="Poly 1 (not aliasesd)" teamExternalId="" teamId="30" teamKey="1TEAM30" teamName="Poly 1" teamSiteId="1" totalAttempts="4">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="25" problemId="A = Problem A -7383030686194866306" solutionTime="25"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="54" problemId="B - Problem B-6009124056070325574" solutionTime="54"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="100" problemId="D - Problem D-4225911952065082246" solutionTime="100"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="82" problemId="E - Problem E--3641892632055161420" solutionTime="82"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="9" index="21" lastSolved="148" points="305" problemsAttempted="6" rank="22" solved="4" teamAlias="Cooper 3 (S2) (not aliasesd)" teamExternalId="" teamId="9" teamKey="1TEAM9" teamName="Cooper 3 (S2)" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="9" problemId="A = Problem A -7383030686194866306" solutionTime="9"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="64" problemId="B - Problem B-6009124056070325574" solutionTime="64"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="true" points="188" problemId="D - Problem D-4225911952065082246" solutionTime="148"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="44" problemId="E - Problem E--3641892632055161420" solutionTime="44"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="15" index="22" lastSolved="121" points="309" problemsAttempted="5" rank="23" solved="4" teamAlias="QC 1 (S2) (not aliasesd)" teamExternalId="" teamId="35" teamKey="1TEAM35" teamName="QC 1 (S2)" teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="15" problemId="A = Problem A -7383030686194866306" solutionTime="15"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="71" problemId="B - Problem B-6009124056070325574" solutionTime="71"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="102" problemId="D - Problem D-4225911952065082246" solutionTime="102"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="121" problemId="E - Problem E--3641892632055161420" solutionTime="121"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="11" index="23" lastSolved="128" points="320" problemsAttempted="5" rank="24" solved="4" teamAlias="Poly 2 (S1) (not aliasesd)" teamExternalId="" teamId="31" teamKey="1TEAM31" teamName="Poly 2 (S1)" teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="11" problemId="A = Problem A -7383030686194866306" solutionTime="11"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="34" problemId="B - Problem B-6009124056070325574" solutionTime="34"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="true" points="127" problemId="D - Problem D-4225911952065082246" solutionTime="107"/>
+    <problemSummaryInfo attempts="2" index="5" isPending="false" isSolved="true" points="148" problemId="E - Problem E--3641892632055161420" solutionTime="128"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="32" index="24" lastSolved="223" points="349" problemsAttempted="5" rank="25" solved="4" teamAlias="Binghamton 4 (S2) (not aliasesd)" teamExternalId="" teamId="4" teamKey="1TEAM4" teamName="Binghamton 4 (S2)" teamSiteId="1" totalAttempts="5">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="41" problemId="A = Problem A -7383030686194866306" solutionTime="41"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="32" problemId="D - Problem D-4225911952065082246" solutionTime="32"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="53" problemId="E - Problem E--3641892632055161420" solutionTime="53"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="223" problemId="F - Problem F-8666504219164533854" solutionTime="223"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="9" index="25" lastSolved="194" points="410" problemsAttempted="4" rank="26" solved="4" teamAlias="Binghamton 3 (S1) (not aliasesd)" teamExternalId="" teamId="3" teamKey="1TEAM3" teamName="Binghamton 3 (S1)" teamSiteId="1" totalAttempts="5">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="9" problemId="A = Problem A -7383030686194866306" solutionTime="9"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="171" problemId="B - Problem B-6009124056070325574" solutionTime="151"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="36" problemId="D - Problem D-4225911952065082246" solutionTime="36"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="194" problemId="E - Problem E--3641892632055161420" solutionTime="194"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="11" index="26" lastSolved="273" points="464" problemsAttempted="5" rank="27" solved="4" teamAlias="Stony Brook 3 (S1) (not aliasesd)" teamExternalId="" teamId="46" teamKey="1TEAM46" teamName="Stony Brook 3 (S1)" teamSiteId="1" totalAttempts="12">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="11" problemId="A = Problem A -7383030686194866306" solutionTime="11"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="17" problemId="B - Problem B-6009124056070325574" solutionTime="17"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="-1"/>
+    <problemSummaryInfo attempts="7" index="4" isPending="false" isSolved="true" points="393" problemId="D - Problem D-4225911952065082246" solutionTime="273"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="43" problemId="E - Problem E--3641892632055161420" solutionTime="43"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="38" index="27" lastSolved="248" points="577" problemsAttempted="4" rank="28" solved="4" teamAlias="Yeshiva 1 (not aliasesd)" teamExternalId="" teamId="51" teamKey="1TEAM51" teamName="Yeshiva 1" teamSiteId="1" totalAttempts="5">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="38" problemId="A = Problem A -7383030686194866306" solutionTime="38"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="93" problemId="B - Problem B-6009124056070325574" solutionTime="93"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="248" problemId="D - Problem D-4225911952065082246" solutionTime="248"/>
+    <problemSummaryInfo attempts="2" index="5" isPending="false" isSolved="true" points="198" problemId="E - Problem E--3641892632055161420" solutionTime="178"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="48" index="28" lastSolved="231" points="590" problemsAttempted="4" rank="29" solved="4" teamAlias="TCNJ 2 (S2) (not aliasesd)" teamExternalId="" teamId="48" teamKey="1TEAM48" teamName="TCNJ 2 (S2)" teamSiteId="1" totalAttempts="4">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="48" problemId="A = Problem A -7383030686194866306" solutionTime="48"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="126" problemId="B - Problem B-6009124056070325574" solutionTime="126"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="185" problemId="D - Problem D-4225911952065082246" solutionTime="185"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="231" problemId="E - Problem E--3641892632055161420" solutionTime="231"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="42" index="29" lastSolved="281" points="705" problemsAttempted="4" rank="30" solved="4" teamAlias="NYU 5 (S2) (not aliasesd)" teamExternalId="" teamId="54" teamKey="1TEAM54" teamName="NYU 5 (S2)" teamSiteId="1" totalAttempts="4">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="42" problemId="A = Problem A -7383030686194866306" solutionTime="42"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="119" problemId="B - Problem B-6009124056070325574" solutionTime="119"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="281" problemId="D - Problem D-4225911952065082246" solutionTime="281"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="263" problemId="E - Problem E--3641892632055161420" solutionTime="263"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="12" index="30" lastSolved="272" points="758" problemsAttempted="4" rank="31" solved="4" teamAlias="Kean 3 (not aliasesd)" teamExternalId="" teamId="20" teamKey="1TEAM20" teamName="Kean 3" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="12" problemId="A = Problem A -7383030686194866306" solutionTime="12"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="272" problemId="B - Problem B-6009124056070325574" solutionTime="272"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="139" problemId="D - Problem D-4225911952065082246" solutionTime="139"/>
+    <problemSummaryInfo attempts="5" index="5" isPending="false" isSolved="true" points="335" problemId="E - Problem E--3641892632055161420" solutionTime="255"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="15" index="31" lastSolved="121" points="239" problemsAttempted="4" rank="32" solved="3" teamAlias="Cooper 1 (S2) (not aliasesd)" teamExternalId="" teamId="7" teamKey="1TEAM7" teamName="Cooper 1 (S2)" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="15" problemId="A = Problem A -7383030686194866306" solutionTime="15"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="103" problemId="D - Problem D-4225911952065082246" solutionTime="103"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="121" problemId="E - Problem E--3641892632055161420" solutionTime="121"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="13" index="32" lastSolved="141" points="283" problemsAttempted="4" rank="33" solved="3" teamAlias="NYU 1 (not aliasesd)" teamExternalId="" teamId="27" teamKey="1TEAM27" teamName="NYU 1" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="13" problemId="A = Problem A -7383030686194866306" solutionTime="13"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="true" points="129" problemId="D - Problem D-4225911952065082246" solutionTime="109"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="141" problemId="E - Problem E--3641892632055161420" solutionTime="141"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="43" index="33" lastSolved="171" points="303" problemsAttempted="4" rank="34" solved="3" teamAlias="NYU 2 (not aliasesd)" teamExternalId="" teamId="28" teamKey="1TEAM28" teamName="NYU 2" teamSiteId="1" totalAttempts="5">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="43" problemId="A = Problem A -7383030686194866306" solutionTime="43"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="89" problemId="D - Problem D-4225911952065082246" solutionTime="89"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="171" problemId="E - Problem E--3641892632055161420" solutionTime="171"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="13" index="34" lastSolved="91" points="104" problemsAttempted="3" rank="35" solved="2" teamAlias="Hofstra 1 (not aliasesd)" teamExternalId="" teamId="16" teamKey="1TEAM16" teamName="Hofstra 1" teamSiteId="1" totalAttempts="3">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="13" problemId="A = Problem A -7383030686194866306" solutionTime="13"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D - Problem D-4225911952065082246" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="91" problemId="E - Problem E--3641892632055161420" solutionTime="91"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="22" index="35" lastSolved="86" points="128" problemsAttempted="2" rank="36" solved="2" teamAlias="Dowling 1 (S2) (not aliasesd)" teamExternalId="" teamId="13" teamKey="1TEAM13" teamName="Dowling 1 (S2)" teamSiteId="1" totalAttempts="3">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="22" problemId="A = Problem A -7383030686194866306" solutionTime="22"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="true" points="106" problemId="D - Problem D-4225911952065082246" solutionTime="86"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="44" index="36" lastSolved="136" points="180" problemsAttempted="3" rank="37" solved="2" teamAlias="QC 4 (S2) (not aliasesd)" teamExternalId="" teamId="38" teamKey="1TEAM38" teamName="QC 4 (S2)" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="44" problemId="A = Problem A -7383030686194866306" solutionTime="44"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="136" problemId="B - Problem B-6009124056070325574" solutionTime="136"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="4" isPending="false" isSolved="false" points="0" problemId="D - Problem D-4225911952065082246" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="23" index="37" lastSolved="159" points="222" problemsAttempted="3" rank="38" solved="2" teamAlias="Iona 1 (S2) (not aliasesd)" teamExternalId="" teamId="17" teamKey="1TEAM17" teamName="Iona 1 (S2)" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="23" problemId="A = Problem A -7383030686194866306" solutionTime="23"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="true" points="199" problemId="D - Problem D-4225911952065082246" solutionTime="159"/>
+    <problemSummaryInfo attempts="2" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="36" index="38" lastSolved="219" points="255" problemsAttempted="2" rank="39" solved="2" teamAlias="NCC 2 (S1) (not aliasesd)" teamExternalId="" teamId="25" teamKey="1TEAM25" teamName="NCC 2 (S1)" teamSiteId="1" totalAttempts="2">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="36" problemId="A = Problem A -7383030686194866306" solutionTime="36"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="219" problemId="B - Problem B-6009124056070325574" solutionTime="219"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D - Problem D-4225911952065082246" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="71" index="39" lastSolved="268" points="339" problemsAttempted="2" rank="40" solved="2" teamAlias="SJC 2 (S2) (not aliasesd)" teamExternalId="" teamId="40" teamKey="1TEAM40" teamName="SJC 2 (S2)" teamSiteId="1" totalAttempts="2">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="71" problemId="A = Problem A -7383030686194866306" solutionTime="71"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="268" problemId="D - Problem D-4225911952065082246" solutionTime="268"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="40" index="40" lastSolved="226" points="366" problemsAttempted="3" rank="41" solved="2" teamAlias="Stevens 2 (S2) (not aliasesd)" teamExternalId="" teamId="43" teamKey="1TEAM43" teamName="Stevens 2 (S2)" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="40" problemId="A = Problem A -7383030686194866306" solutionTime="40"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="6" index="4" isPending="false" isSolved="true" points="326" problemId="D - Problem D-4225911952065082246" solutionTime="226"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="23" index="41" lastSolved="23" points="23" problemsAttempted="2" rank="42" solved="1" teamAlias="Kean 2 (not aliasesd)" teamExternalId="" teamId="19" teamKey="1TEAM19" teamName="Kean 2" teamSiteId="1" totalAttempts="2">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="23" problemId="A = Problem A -7383030686194866306" solutionTime="23"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D - Problem D-4225911952065082246" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="27" index="42" lastSolved="27" points="27" problemsAttempted="2" rank="43" solved="1" teamAlias="NCC 3 (S1) (not aliasesd)" teamExternalId="" teamId="26" teamKey="1TEAM26" teamName="NCC 3 (S1)" teamSiteId="1" totalAttempts="2">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="27" problemId="A = Problem A -7383030686194866306" solutionTime="27"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D - Problem D-4225911952065082246" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="29" index="43" lastSolved="29" points="29" problemsAttempted="2" rank="44" solved="1" teamAlias="NCC 1 (S1) (not aliasesd)" teamExternalId="" teamId="24" teamKey="1TEAM24" teamName="NCC 1 (S1)" teamSiteId="1" totalAttempts="4">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="29" problemId="A = Problem A -7383030686194866306" solutionTime="29"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D - Problem D-4225911952065082246" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="87" index="44" lastSolved="87" points="87" problemsAttempted="2" rank="45" solved="1" teamAlias="Dowling 3 (S2) (not aliasesd)" teamExternalId="" teamId="15" teamKey="1TEAM15" teamName="Dowling 3 (S2)" teamSiteId="1" totalAttempts="2">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="87" problemId="A = Problem A -7383030686194866306" solutionTime="87"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D - Problem D-4225911952065082246" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="56" index="45" lastSolved="56" points="96" problemsAttempted="1" rank="46" solved="1" teamAlias="SJC 1 (S2) (not aliasesd)" teamExternalId="" teamId="39" teamKey="1TEAM39" teamName="SJC 1 (S2)" teamSiteId="1" totalAttempts="3">
+    <problemSummaryInfo attempts="3" index="1" isPending="false" isSolved="true" points="96" problemId="A = Problem A -7383030686194866306" solutionTime="56"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D - Problem D-4225911952065082246" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="118" index="46" lastSolved="118" points="118" problemsAttempted="1" rank="47" solved="1" teamAlias="Mercy 1 (S2) (not aliasesd)" teamExternalId="" teamId="22" teamKey="1TEAM22" teamName="Mercy 1 (S2)" teamSiteId="1" totalAttempts="1">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="118" problemId="A = Problem A -7383030686194866306" solutionTime="118"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D - Problem D-4225911952065082246" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="143" index="47" lastSolved="143" points="143" problemsAttempted="2" rank="48" solved="1" teamAlias="Kean 1 (S3) (not aliasesd)" teamExternalId="" teamId="18" teamKey="1TEAM18" teamName="Kean 1 (S3)" teamSiteId="1" totalAttempts="4">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="143" problemId="A = Problem A -7383030686194866306" solutionTime="143"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D - Problem D-4225911952065082246" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="114" index="48" lastSolved="114" points="154" problemsAttempted="2" rank="49" solved="1" teamAlias="Dowling 2 (S2) (not aliasesd)" teamExternalId="" teamId="14" teamKey="1TEAM14" teamName="Dowling 2 (S2)" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="3" index="1" isPending="false" isSolved="true" points="154" problemId="A = Problem A -7383030686194866306" solutionTime="114"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="4" isPending="false" isSolved="false" points="0" problemId="D - Problem D-4225911952065082246" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="211" index="49" lastSolved="211" points="211" problemsAttempted="2" rank="50" solved="1" teamAlias="SJC 3 (S2) (not aliasesd)" teamExternalId="" teamId="41" teamKey="1TEAM41" teamName="SJC 3 (S2)" teamSiteId="1" totalAttempts="2">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="211" problemId="A = Problem A -7383030686194866306" solutionTime="211"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D - Problem D-4225911952065082246" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="50" lastSolved="0" points="0" problemsAttempted="0" rank="51" solved="0" teamAlias="Mercy 2 (S1) (not aliasesd)" teamExternalId="" teamId="23" teamKey="1TEAM23" teamName="Mercy 2 (S1)" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A = Problem A -7383030686194866306" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D - Problem D-4225911952065082246" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="51" lastSolved="0" points="0" problemsAttempted="0" rank="51" solved="0" teamAlias="Poly 3 (not aliasesd)" teamExternalId="" teamId="32" teamKey="1TEAM32" teamName="Poly 3" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A = Problem A -7383030686194866306" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D - Problem D-4225911952065082246" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="52" lastSolved="0" points="0" problemsAttempted="0" rank="51" solved="0" teamAlias="Stevens 1 (not aliasesd)" teamExternalId="" teamId="42" teamKey="1TEAM42" teamName="Stevens 1" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A = Problem A -7383030686194866306" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B - Problem B-6009124056070325574" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C - Problem C--3516420179585913441" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D - Problem D-4225911952065082246" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E - Problem E--3641892632055161420" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F - Problem F-8666504219164533854" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G - Problem G--1900457781337734779" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H - Problem H-1680788329233542954" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="Problem I--1265183003029838005" solutionTime="0"/>
+  </teamStanding>
+</contestStandings>

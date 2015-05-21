@@ -1,0 +1,90 @@
+<html>
+<head>
+<title>2011 ACM ICPC Greater New York Region: Problems</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<!--#include file="header.html" -->
+
+<h2>Problems</h2>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a>
+The problems, solutions and data are released into the public domain under a
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
+<p>
+
+The problems are given as PDF documents. You can download
+<a href="problems.zip">all problems zipped together</a>.
+<p>
+
+The <a href="standings.shtml">standings</a> are also available.
+<p>
+
+<center><table border="1">
+<tr>
+  <td>Problem</td> <td>Judges' Solution</td> <td>Judges' Input File</td>
+  <td>Correct Output</td>
+</tr>
+<tr>
+  <td>
+  <a href="a.pdf">A - Repeating Characters</a> <br>
+  <a href="b.pdf">B - The Rascal Triangle</a> <br>
+  <a href="c.pdf">C - Programming The EDSAC</a> <br>
+  <a href="d.pdf">D - Decoding EDSAC Data</a> <br>
+  <a href="e.pdf">E - Route Redundancy</a> <br>
+  <a href="f.pdf">F - QR</a> <br>
+  <a href="g.pdf">G - Rancher's Gift</a> <br>
+  <a href="h.pdf">H - Maximum in the Cycle of 1</a> <br>
+  <a href="i.pdf">I - The Golden Ceiling</a>
+  </td><td>
+  <a href="a.cpp">a.cpp</a> or <a href="a.sno">Snobol</a> or
+    <a href="a.a68">Algol 68</a> <br>
+  <a href="b.c">b.c</a> <br>
+  <a href="c.cpp">c.cpp</a> <br>
+  <a href="d.cpp">d.cpp</a> <br>
+  <a href="e.cpp">e.cpp</a> <br>
+  <a href="f.cpp">f.cpp</a> <br>
+  <a href="g.c">g.c</a> <br>
+  <a href="h.c">h.c</a> <br>
+  <a href="i.c">i.c</a>
+  </td><td>
+  <a href="a.in">a.in</a> <br>
+  <a href="b.in">b.in</a> <br>
+  <a href="c.in">c.in</a> <br>
+  <a href="d.in">d.in</a> <br>
+  <a href="e.in">e.in</a> <br>
+  <a href="f.in">f.in</a> <br>
+  <a href="g.in">g.in</a> <br>
+  <a href="h.in">h.in</a> <br>
+  <a href="i.in">i.in</a>
+  </td><td>
+  <a href="a.out">a.out</a> <br>
+  <a href="b.out">b.out</a> <br>
+  <a href="c.out">c.out</a> <br>
+  <a href="d.out">d.out</a> <br>
+  <a href="e.out">e.out</a> <br>
+  <a href="f.out">f.out</a> <br>
+  <a href="g.out">g.out</a> <br>
+  <a href="h.out">h.out</a> <br>
+  <a href="i.out">i.out</a>
+  </td>
+</tr>
+</table></center>
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size=-1><i>
+Last modified 31 October 2011.
+Please email
+<SCRIPT LANGUAGE="JavaScript" SRC="/signature.js"></SCRIPT>
+with comments, questions, or corrections.
+</i></font>
+
+<!--#include file="piwik.html" -->
+
+</body>
+</html>
