@@ -79,9 +79,7 @@ Please email
 with comments, questions, or corrections.
 </i></font>
 
-<!--#include file="piwik.html" -->
-
-<!--#include file="piwik.html" -->
+<!--#include file="/analytics.html" -->
 
 </body>
 </html>

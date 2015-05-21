@@ -22,7 +22,7 @@ Last modified 9 October 2000. Please email
 with comments, questions, or corrections.
 </i></font>
 
-<!--#include file="piwik.html" -->
+<!--#include file="/analytics.html" -->
 
 </body>
 </html>

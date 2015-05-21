@@ -1,35 +1,24 @@
 <html>
 <head>
-<title>2011 ACM ICPC Greater New York Region</title>
+<title>2015 ACM ICPC Greater New York Region</title>
+<meta name="google-site-verification" content="dUFWn1xXlkSxFOu2R7z2_kn5rNexZJeSR0QIp5Xg6UY" />
 </head>
 
 <!--#include file="header.html" -->
 
-<b><font color="#FF0000" size="+1">2011 General Contest Information</font></b>
+<b><font color="#FF0000" size="+1">2015 General Contest Information</font></b>
  
 <ul>
-<li><b><a href="/year2011/rules.shtml">Contest rules</a></b>
-<li><b><a href="/year2011/problems.shtml">Problems</a></b>
-<li><b><a href="/year2011/standings.shtml">Standings</a></b>
-<li><b>Hosted by:</b> <a href="http://www.adelphi.edu">Adelphi University</a>, Garden City, NY
-  <ul>
-  <li> Campus map: <a href="http://www.adelphi.edu/visitors/campus.php">http://www.adelphi.edu/visitors/campus.php</a>
-  <li> Please come to Blodgett Hall. P1 is the main parking area.
-  </ul>
-<li><b>Date:</b> Sunday, October 30, 2011
-<li><b>Time:</b> 9 am to 6 pm. Approximate schedule:
-  <ul>
-  <li><b>9 am to 11 am:</b> Registration, practice, breakfast, IBM recruiting
-  <li><b>11 am to 12 noon:</b> Contestants' meeting
-  <li><b>12 noon to 5 pm:</b> Contest
-  <li><b>5:30 pm to 6 pm:</b> Awards presentation
-  </ul>
-<li><b>Cost:</b> $70 per team (including one coach per school),
-    plus $30 per guest
+<li><b><a href="/year2015/rules.shtml">Contest rules</a></b>
+<li><b>Final standings</b>
+<li><b>Problems</b>
+<li><b>Hosted by:</b> TBD
+<li><b>Date:</b> TBD
+<li><b>Cost:</b> $75 each team (including one coach per school), plus $30 per guest
   <ul>
   <li> Teams <b>must</b> register using the
-  <a href="http://www.acmicpc.org">ACM ICPC web site</a>.
-  <li> Payment details:
+  <a href="http://icpc.baylor.edu/regionals/finder/greater-new-york-2015">ACM ICPC web site</a>.
+<!--  <li> Payment details:
     <ul>
     <li> Make checks payable to "ACM Greater NY Region" and mail to:<br>
     &nbsp; &nbsp; Adam Florence<br>
@@ -42,13 +31,14 @@
      </ul>
   <li> Acknowledgement of received payment will be sent by e-mail, and
   hard-copy receipts will be provided at the contest.
+  -->
   </ul>
 <li><b>Environment:</b> The contest will be run from a
   bootable USB. You are encouraged to
   <a href="http://eve.kean.edu/~leew/contest/downloads.html">download
-  the contest CD</a> and use it in your training. You want the FC14
-  image, md5 checksum = <tt>929cbe4000a127e699379fa383a253cc</tt>.
-<li><b>Languages:</b> ADA, C/C++ and Java.
+  the contest DVD</a> and use it in your training. You want the FC20
+  image, md5 checksum = <tt>d735e071eec28e3e069cfe90ec53281d</tt>.
+<li><b>Languages:</b> C/C++ and Java.
 </ul>
  
 <p>
@@ -59,10 +49,10 @@
   <tr>
     <center>
     <a href="http://www.developer.ibm.com/university/students/contests/acm">
-      <img src="../IBM-logo-white.png" height=100 alt="IBM" border=0></a>
+      <img src="IBM-logo-white.png" height=100 alt="IBM" border=0></a>
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    <a href="http://www.adelphi.edu">
-      <img src="Adelphi_logo.png" height=100 alt="Adelphi" border=0></a>
+    <a href="http://www.sjcny.edu/long-island">
+      <img src="/year2008/SJC_logo.jpg" height=100 alt="St. Joseph's College, New York" border=0></a>
     </center>
   </tr>
 </table>
@@ -71,18 +61,30 @@
 
 <b><font color="#FF0000" size="+1">Previous Years</font></b>
 <ul>
+  <li>2014 at St. Joseph's University:
+    <a href="year2014/standings.shtml">standings</a> or
+    <a href="year2014/problems.shtml">problems</a> or
+    <a href="year2014/rules.shtml">rules</a>
+  <li>2013 at Yale University:
+    <a href="year2013/standings.shtml">standings</a> or
+    <a href="year2013/problems.shtml">problems</a> or
+    <a href="year2013/rules.shtml">rules</a>
+  <li>2012 at Stony Brook University:
+    <a href="year2012/standings.shtml">standings</a> or
+    <a href="year2012/problems.shtml">problems</a> or
+    <a href="year2012/rules.shtml">rules</a>
+  <li>2011 at Adelphi University:
+    <a href="year2011/standings.shtml">standings</a> or
+    <a href="year2011/problems.shtml">problems</a>
   <li>2010 at Rutgers University:
     <a href="year2010/standings.shtml">standings</a> or
-    <a href="year2010/problems.shtml">problems</a> or
-    <a href="year2010/rules.shtml">rules</a>
+    <a href="year2010/problems.shtml">problems</a>
   <li>2009 at Hofstra University:
     <a href="year2009/standings.shtml">standings</a> or
-    <a href="year2009/problems.shtml">problems</a> or
-    <a href="year2009/rules.shtml">rules</a>
+    <a href="year2009/problems.shtml">problems</a>
   <li>2008 at St. Joseph's College:
     <a href="year2008/standings.shtml">standings</a> or
-    <a href="year2008/problems.shtml">problems</a> or
-    <a href="year2008/rules.shtml">rules</a>
+    <a href="year2008/problems.shtml">problems</a>
   <li>2007 at Kean University:
     <a href="year2007/standings.shtml">standings</a> or
     <a href="year2007/problems.shtml">problems</a>
@@ -139,25 +141,12 @@
 <p>
 
 <b><font color="#FF0000" size="+1">For More Information</font></b>
-contact the <b>Contest Director</b> Adam Florence: <br>
-&nbsp; 
-  <tt><script language="JavaScript" src="/sig_adam.js"></script></tt> or 
-  <tt><script language="JavaScript" src="/signature.js"></script></tt>
-  <br>
-&nbsp; 5058 Sirron Ct <br>
-&nbsp; Dunwoody, GA 30338-5654 <br>
-&nbsp; 678-313-3376 cell <br>
-&nbsp; 404-607-5997 work <br>
-&nbsp; 404-607-6622 work fax
-<p>
+contact the <b>Contest Director</b> <a href="mailto:smcintyre@acmgnyr.org">Sean McIntyre</a><br>
 
 <hr>
 
 <font size=-1><i>
-Last modified 31 October 2011.
-Please email
-<SCRIPT LANGUAGE="JavaScript" SRC="/signature.js"></SCRIPT>
-with comments, questions, or corrections.
+Last modified <script . Please email <a href="mailto:director@acmgnyr.org">director@acmgnyr.org</a> with comments, questions, or corrections.
 </i></font>
 
 <!--#include file="/analytics.html" -->

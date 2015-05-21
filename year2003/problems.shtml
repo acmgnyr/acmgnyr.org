@@ -77,7 +77,7 @@ are also available.
 with comments, questions, or corrections.</i></font>
 <p>
 
-<!--#include file="piwik.html" -->
+<!--#include file="/analytics.html" -->
 
 </body>
 </html>

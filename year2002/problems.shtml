@@ -88,7 +88,7 @@ Notes on several of the problems:
 <script language="JavaScript" src="../signature.js"></script>
 with comments, questions, or corrections.</i></font>
 
-<!--#include file="piwik.html" -->
+<!--#include file="/analytics.html" -->
 
 </body>
 </html>

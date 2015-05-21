@@ -22,7 +22,7 @@ For more information, contact the <b>Contest Director</b> at
 with comments, questions, or corrections.</i></font>
 <p>
 
-<!--#include file="piwik.html" -->
+<!--#include file="/analytics.html" -->
 
 </body>
 </html>
