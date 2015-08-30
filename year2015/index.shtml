@@ -9,50 +9,26 @@
 <b><font color="#FF0000" size="+1">2015 General Contest Information</font></b>
  
 <ul>
-<li><b><a href="/year2015/rules.shtml">Contest rules</a></b>
-<li><b>Final standings</b>
-<li><b>Problems</b>
-<li><b>Hosted by:</b> TBD
-<li><b>Date:</b> TBD
-<li><b>Cost:</b> $75 each team (including one coach per school), plus $30 per guest
-  <ul>
-  <li> Teams <b>must</b> register using the
-  <a href="http://icpc.baylor.edu/regionals/finder/greater-new-york-2015">ACM ICPC web site</a>.
-<!--  <li> Payment details:
-    <ul>
-    <li> Make checks payable to "ACM Greater NY Region" and mail to:<br>
-    &nbsp; &nbsp; Adam Florence<br>
-    &nbsp; &nbsp; 5058 Sirron Ct<br>
-    &nbsp; &nbsp; Dunwoody, GA 30338-5654<br>
-     <li> Credit card payments may be made through Google Checkout.
-     Email Adam Florence
-     (<tt><script language="JavaScript" src="/sig_adam.js"></script></tt>)
-     for instructions.
-     </ul>
-  <li> Acknowledgement of received payment will be sent by e-mail, and
-  hard-copy receipts will be provided at the contest.
-  -->
-  </ul>
-<li><b>Environment:</b> The contest will be run from a
-  bootable USB. You are encouraged to
-  <a href="http://eve.kean.edu/~leew/contest/downloads.html">download
-  the contest DVD</a> and use it in your training. You want the FC20
-  image, md5 checksum = <tt>d735e071eec28e3e069cfe90ec53281d</tt>.
-<li><b>Languages:</b> C/C++ and Java.
+  <li><b><a href="/year2015/rules.shtml">Contest rules</a></b></li>
+  <li><b>Hosted by:</b> <a href="http://www.cs.qc.edu/">Queens College Department of Computer Science</a> located in Flushing, Queens</li>
+  <li><b>Date:</b> Sunday, November 8, 2015</li>
+  <li><b>Cost:</b> $75 <img src="new.gif" /> each team (including one coach per school), plus $30 per guest</li>
+  <li><b>Schedule:</b> details TBA</li>
+  <li><b>Registration:</b> details TBA</li>
+  <li><b>Computing environment:</b> details TBA</li>
+  <li><b>Languages:</b> details TBA</li>
 </ul>
  
 <p>
 
 <b><font color="#FF0000" size="+1">Who Makes All This Possible?</font></b>
 
-<table>
-  <tr>
-    <center>
-    <a href="http://www.developer.ibm.com/university/students/contests/acm">
-      <img src="IBM-logo-white.png" height=100 alt="IBM" border=0></a>
-    </center>
-  </tr>
-</table>
+<div style="text-align: center">
+  <a href="http://www.developer.ibm.com/university/students/contests/acm">
+    <img src="IBM-logo-white.png" height=100 alt="IBM" border=0></a>
+  <a href="https://www.cs.qc.edu/">
+    <img src="qc.png" height=100 alt="Queens College" border=0></a>
+</div>
 
 <p>
 

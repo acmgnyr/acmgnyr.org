@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>2014 ACM ICPC Greater New York Region: Rules</title>
+<title>2015 ACM ICPC Greater New York Region: Rules</title>
 </head>
 
 <!--#include file="header.html" -->
@@ -27,81 +27,23 @@
 </a>
 <p>
 
-Here are the major differences between this and last year's contest:
-
 <ol>
  
-<li>
-<font color="#ff0000">
-The Contest will be held on Sunday, November 16, 2014, at
-<a href="http://sjcny.edu/long-island">St. Joseph's College</a>,
-Patchogue, NY.
-</font>
+  <li style="color: #FF0000;">The Contest will be held on Sunday, November 8, 2015, at <a href="http://www.cs.qc.edu/">Queens College</a> located in Flushing, Queens.</li>
 
-<li>
-We will have cash prizes for teams that do very well but do not win
-the contest. See the <a href="#prizes">full rules below</a>.
+  <li>We will have cash prizes for teams that do very well but do not win the contest. See the <a href="#prizes">full rules below</a>.</li>
 
-<li>
-<font color="#ff0000">
-The programming languages and compilers used will be:
-C/C++, gcc/g++ 4.8.3; Java, Open JDK 1.7.0.
-</font>
+  <li style="color: #00000;">The programming languages and compilers used will be: TBA.</li>
 
-<li>
-<font color="#ff0000">
-Editors available will include: ed 1.10, emacs 24.3, gedit 3.10,
-nano 2.3, nedit 5.5, vim 7.4, xemacs 21.5.
-Eclipse 4.3.2 will be available. Debuggers available will include
-ddd 3.3, gdb 7.7.
-</font>
+  <li>Editors available will include: TBA.</li>
 
-<li>
-Team coaches must register the team contestants using the
-<a href="http://www.acmicpc.org">ACM ICPC web site</a>.
-by October 18 (4 weeks before the Contest).
-Contact the Contest Director
-immediately if there are any problems registering. Coaches may
-register as many teams as they wish; however, not all teams may be
-invited to participate.
+  <li>Registration information: TBA.</li>
 
-<li> See the <a href="#registration">full rules below about
-registering guests</a>.
-Note that the contest no longer recongizes reserves. Do not register
-them.
+  <li>See the <a href="#registration">full rules below about registering guests</a>.</li>
 
-<li> By October 19 (approx. 4 weeks prior to the contest), the
-Contest Director will e-mail the coaches, telling them how
-many of their registered teams will be invited to participate.
- 
-<li>
-Payment of $70 per team plus $30 per guest must be received by November 3
-(approx. 2 weeks before the contest). Checks should be made out to "ACM Greater
-NY Region" and mailed to:<br>
-    Adam Florence<br>
-    5058 Sirron Ct<br>
-    Dunwoody, GA 30338-5654<br>
-Teams may also pay by Google Checkout.
-Please email Adam Florence for instructions.
+  <li>Teams may bring any printed material they wish, including books, language reference manuals, code printouts, contest problems and their solutions.</li>
 
-<li>
-Teams may bring any printed material they wish, including books,
-language reference manuals, code printouts, contest problems and
-their solutions.
-
-<li>
-No electronic devices or media of any kind are permitted, including
-floppy disks, CDs, DVDs, calculators, pagers, pagers, PDAs,
-memory sticks, mp3 players, and CD players.
-
-<li>
-Teams may withdraw from the contest at any time. Teams withdraw by
-notifying the Contest Director. However, refunds will
-be given only to teams who withdraw on or before
-<font color="#ff0000">
-October 26, 2013
-</font>
-(3 weeks prior to the contest).
+  <li>No electronic devices or media of any kind are permitted, including floppy disks, CDs, DVDs, calculators, pagers, pagers, PDAs, memory sticks, mp3 players, and CD players.</li>
 
 </ol>
  
@@ -131,19 +73,13 @@ the rules does not entitle any team to a refund.
 <b>Eligibility</b></a><p>
 
 Please see the official rules here: <a href="http://icpc.baylor.edu/regionals/rules">http://icpc.baylor.edu/regionals/rules</a> <br>
-The official rules can be difficult to parse. They can be summarized as:
-<font color="#ff0000">
-Students who began their
-undergraduate study in the Spring of 2010 or later, or who were born
-in 1991 or later, are most likely eligible.
-</font>
-<p>
 
-If you have any questions, or would like to ask for an exception,
+<p>
+  If you have any questions, or would like to ask for an exception,
 email the Contest Director.
 Note that all exceptions must be requested by
 <font color="#ff0000">
-October 19, 2014
+October 11, 2015
 </font>
 (4 weeks before the contest).
 <p>
@@ -172,7 +108,7 @@ included.
 The site has a capacity of 50 teams.
  
 <li>
-The languages used are: C/C++, Java.
+The languages used are: TBA.
  
 <li>
 Each team will be provided with two computers and access to all
@@ -185,83 +121,6 @@ the contestants. Printing will be done through the use of networked printing
 facilities shared by all teams.
 </ol>
 
-<a name="registration"><b>Registration</b></a>
-
-<ol>
-<li>
-Team coaches must register the team contestants using the
-<a href="http://www.acmicpc.org">ACM
-ICPC web site</a> at least four (4) weeks prior to the Contest.
-Contact the Contest Director
-immediately if there are any problems registering. Coaches may
-register as many teams as they wish; however, not all teams may be
-invited to participate. <br>
- 
-Each school is allowed to register one coach. Each team is allowed to
-register three contestants. This means that if a school sends <i>n</i>
-teams, it registers a total of 3<i>n</i>+1 people. <br>
- 
-Schools may register additional people at a cost of $30 per
-person. This charge includes a t-shirt and food.
- 
-<li>
-Four (4) weeks less one day prior to the Contest, the Contest Director
-will invite registered teams to participate in the
-Contest. This will be done by sending e-mail to the coaches.
- 
-<li>
-Invited teams will be determined as follows: Of the teams registered
-by the deadline, teams will be invited in the order in which they
-registered, subject to the constraint that one team is invited from
-all schools before two teams are invited from any school, two teams
-are invited from all schools before three teams are invited from any
-school, etc. As many teams will be invited as possible, subject to the
-capacity of the site.
- 
-<li>
-Coaches must send the registration fee of $70 per invited team plus
-$30 per guest to the Contest Director.
-
-  <ul>
-  <li> Checks should be made payable to "ACM Greater NY Region" and sent to:<br>
-    Adam Florence<br>
-    5058 Sirron Ct<br>
-    Dunwoody, GA 30338-5654
-  <li> Credit card payment can be made through Google Checkout. Email Adam
-  Florence for instructions.
-  </ul>
- 
-<li>
-Any team whose fee is not received at least three (3) weeks prior to the
-contest may be disqualified and lose their invitation.
-
-<li>
-Teams may, at any time, have their invitation revoked. Such teams will,
-of course, receive a full refund. This will only be done to make room
-for a school to send a team that previously did not have any invitations.
-
-<li>
-<font color="#ff0000">
-Team members not specified by three (3) weeks before
-the contest will receive the default t-shirt size of Large.
-</font>
- 
-<li>
-All teams must complete the required registration forms on the day of the
-contest. Teams that fail to complete the forms will be disqualified.
- 
-<li>
-If any space remains after all teams which registered by the deadline
-have been invited, teams which registered late may be invited. Such
-teams must pay a penalty.
- 
-<li>
-Teams may withdraw from the contest at any time. Teams withdraw by
-notifying the Contest Director. However, refunds will
-be given only to teams who withdraw at least three (3) weeks before the
-contest.
-</ol>
- 
 <a name="prizes"><b>Prizes</b></a>
 <p>
 
@@ -398,7 +257,7 @@ incorrect submissions.
 <p>
 
 <font size=-1><i>
-Last modified 16 October 2014.
+Last modified 30 August 2015.
 Please email
 <SCRIPT LANGUAGE="JavaScript" SRC="../signature.js"></SCRIPT>
 with comments, questions, or corrections.
