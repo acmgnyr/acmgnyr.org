@@ -13,10 +13,22 @@
   <li><b>Hosted by:</b> <a href="http://www.cs.qc.edu/">Queens College Department of Computer Science</a> located in Flushing, Queens</li>
   <li><b>Date:</b> Sunday, November 8, 2015</li>
   <li><b>Cost:</b> $75 <img src="new.gif" /> each team (including one coach per school), plus $30 per guest</li>
-  <li><b>Schedule:</b> details TBA</li>
+  <li><b>Schedule:</b>
+    <ul>
+      <li>8:30am - 11:30am: Registration, opening ceremonies, and practice contest</li>
+      <li>11:30am - 4:30pm: Contest</li>
+      <li>5:00pm - 6:00pm: Closing ceremonies and prizes</li>
+    </ul>
+  </li>
+  <li><b>Computing environment:</b> Fedora Core 22, <a href="/downloads.html">download contest environment</a></li>
+  <li><b>Languages:</b>
+    <ul>
+      <li>C/C++/Ada (gcc/g++/gnat) 5.1.1. C++ submissions will be compiled using the -std=c++11 flag. <img src="new.gif" /></li>
+      <li>Java OpenJDK 1.8.0 <img src="new.gif" /></li>
+      <li>python 2.7.10 <img src="new.gif" /></li>
+    </ul>
+  </li>
   <li><b>Registration:</b> details TBA</li>
-  <li><b>Computing environment:</b> details TBA</li>
-  <li><b>Languages:</b> details TBA</li>
 </ul>
  
 <p>

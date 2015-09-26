@@ -33,9 +33,7 @@
 
   <li>We will have cash prizes for teams that do very well but do not win the contest. See the <a href="#prizes">full rules below</a>.</li>
 
-  <li style="color: #00000;">The programming languages and compilers used will be: TBA.</li>
-
-  <li>Editors available will include: TBA.</li>
+  <li>The programming languages and compilers used will be: <span style="color: #FF0000">C/C++/Ada (gcc/g++/gnat) 5.1.1; Java OpenJDK 1.8.0; python 2.7.10. <img src="new.gif" /></span> Debuggers will be: <span style="color: #FF0000">ddd 3.3 and gdb 7.9</span> C++ submissions will be compiled using the <span style="color: #FF0000">-std=c++11</span> flag. <img src="new.gif" /></li>
 
   <li>Registration information: TBA.</li>
 
