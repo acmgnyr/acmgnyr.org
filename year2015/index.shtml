@@ -28,7 +28,13 @@
       <li>python 2.7.10 <img src="new.gif" /></li>
     </ul>
   </li>
-  <li><b>Registration:</b> details TBA</li>
+  <li><b>Registration:</b>
+    <ul>
+      <li>First-time contestants: Create an account on the ACM ICPC website <a href="https://icpc.baylor.edu/register">here</a></li>
+      <li>Returning contestants: Make sure your ACM ICPC profile information is up-to-date <a href="https://icpc.baylor.edu/private/profile">here</a> (including shirt size)</li>
+      <li>Coaches: Once your contestants have accounts on the ACM ICPC website, create your teams <a href="https://icpc.baylor.edu/private/teamRegistration/site/11227">here</a></li>
+    </ul>
+  </li>
 </ul>
  
 <p>
