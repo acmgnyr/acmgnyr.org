@@ -12,11 +12,14 @@
   <li><b><a href="/year2015/rules.shtml">Contest rules</a></b></li>
   <li><b>Hosted by:</b> <a href="http://www.cs.qc.edu/">Queens College Department of Computer Science</a> located in Flushing, Queens</li>
   <li><b>Date:</b> Sunday, November 8, 2015</li>
-  <li><b>Schedule</b>
+  <li><b>Schedule <i>(Updated November 1)</i></b>
     <ul>
-      <li>8:30am - 11:30am: Registration, opening ceremonies, and practice contest</li>
-      <li>11:30am - 4:30pm: Contest</li>
-      <li>5:00pm - 6:00pm: Closing ceremonies and prizes</li>
+      <li>8:30am: Registration opens and breakfast (pastries and coffee)</li>
+      <li>9:00am - 11:00am: Practice contest</li>
+      <li>11:00am - 12:00noon: Opening ceremonies</li>
+      <li>12:00noon - 5:00pm: Contest</li>
+      <li>1:00pm: Lunch (kosher, vegetarian, and gluten-free options available)
+      <li>5:15pm - 6:00pm: Closing ceremonies and prizes</li>
     </ul>
   </li>
   <li><b>Computing environment:</b> Fedora Core 22, <a href="/downloads.html">download contest environment</a></li>
