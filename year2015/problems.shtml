@@ -31,12 +31,12 @@
   <a href="problems/h.pdf">H - Brocard</a> <br>
   <a href="problems/i.pdf">I - RATS</a>
   </td><td>
-  <a href="solutions/a.cpp">a.cpp</a> <br>
+  <a href="solutions/a.c">a.c</a> <br>
   <a href="solutions/b.c">b.c</a> <br>
   <a href="solutions/c.c">c.c</a> <br>
-  <a href="solutions/d.cpp">d.cpp</a> <br>
+  <a href="solutions/d.c">d.c</a> <br>
   <a href="solutions/e.c">e.c</a> <br>
-  <a href="solutions/f.c">f.c</a> <a href="solutions/f-alt.cpp">f-alt.cpp</a> <br>
+  <a href="solutions/f.cpp">f.cpp</a> <a href="solutions/f-alt.cpp">f-alt.cpp</a> <br>
   <a href="solutions/g.c">g.c</a> <br>
   <a href="solutions/h.c">h.c</a> <a href="solutions/h.py">h.py</a> <br>
   <a href="solutions/i.c">i.c</a>
