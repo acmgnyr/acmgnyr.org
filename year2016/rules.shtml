@@ -1,0 +1,266 @@
+<html>
+<head>
+<title>2016 ACM ICPC Greater New York Region: Rules</title>
+</head>
+
+<!--#include file="header.html" -->
+
+<font size="+2"><b>Index:</b></font> <br>
+<a href="#highlights">Highlights</a> <br>
+<a href="#general">General Regional Contest Rules</a> <br>
+    <a href="#eligibility">Eligibility</a> <br>
+<a href="#specific">Region Specific Contest Rules</a> <br>
+    <a href="#datetime">Date, Time, and Environment</a> <br>
+    <a href="#registration">Registration</a> <br>
+    <a href="#prizes">Prizes</a> <br>
+    <a href="#personnel">Personnel</a> <br>
+    <a href="#conduct">Conduct of the Regional Contest</a> <br>
+    <a href="#pc2">Electronic Submission with PC^2</a> <br>
+    <a href="#judging">Judging the Regional Contest</a> <br>
+<p>
+<br>
+
+<hr width="50%">
+
+<a name="highlights">
+<font size="+2"><b>Highlights</b></font>
+</a>
+<p>
+
+<ol>
+ 
+  <li style="color: #FF0000;">The Contest will be held on Sunday, November 13, at <a href="https://manhattan.edu/academics/schools-and-departments/school-of-science/.computer-science-dept/index.php">Manhattan College</a> located in The Bronx.</li>
+
+  <li>Prizes: TBA.</li>
+
+  <li>The programming languages and compilers used will be: <span style="color: #FF0000">C/C++/Ada (gcc/g++/gnat) 6.1.1.; Java OpenJDK 1.8.0; python 2.7.12 and 3.5.1 <img src="new.gif" /></span> Debuggers will be: <span style="color: #FF0000">ddd 3.3 and gdb 7.9</span> C++ submissions will be compiled using the <span style="color: #FF0000">-std=c++14</span> flag. <img src="new.gif" /></li>
+
+  <li>Registration information: TBA.</li>
+
+  <li>See the <a href="#registration">full rules below about registering guests</a>.</li>
+
+  <li>Teams may bring any printed material they wish, including books, language reference manuals, code printouts, contest problems and their solutions.</li>
+
+  <li>No electronic devices or media of any kind are permitted, including floppy disks, CDs, DVDs, calculators, pagers, pagers, PDAs, memory sticks, mp3 players, and CD players.</li>
+
+</ol>
+ 
+<hr width="50%">
+ 
+<a name="general">
+<font size="+2"><b>General Regional Contest Rules</b></font>
+</a><p>
+
+Please read the
+<a href="http://icpc.baylor.edu/icpc/regionals/About.htm">rules
+that apply to every region</a>. Please pay special attention to
+the new rules, which are in red.
+<p>
+ 
+In addition to the general rules, there are additional rules specific
+to the Greater New York Regional contest. In cases where the specific
+rules disagree with the general rules, the specific rules take
+precedence.
+<p>
+
+These rules may be changed at any time and without notice. Changes in
+the rules does not entitle any team to a refund.
+<p>
+
+<a name="eligibility">
+<b>Eligibility</b></a><p>
+
+Please see the official rules here: <a href="http://icpc.baylor.edu/regionals/rules">http://icpc.baylor.edu/regionals/rules</a> <br>
+
+<p>
+  If you have any questions, or would like to ask for an exception,
+email the Contest Director.
+Note that all exceptions must be requested by
+<font color="#ff0000">
+October 16, 2016
+</font>
+(4 weeks before the contest).
+<p>
+
+<hr width="50%">
+
+<a name="specific">
+<font size="+2"><b>Region Specific Contest Rules</b></font>
+</a><p>
+
+<a name="datetime"><b>Date, Time, and Environment</b></a>
+
+<ol>
+<li>
+Contestants will have five hours to solve the six or more posed
+programming problems.
+ 
+<li>
+Contestants are drawn from the greater New York metropolitan area,
+including areas of New York, New Jersey, and Connecticut. The portion
+of New Jersey in this Region is all schools north of I-195. There is
+no strict definition for the portion of New York or Connecticut
+included.
+ 
+<li>
+The site has a capacity of 50 teams.
+ 
+<li>
+The languages used are: C, C++, Ada, Java, python2, python3. See above for version numbers.
+ 
+<li>
+Each team will be provided with <span style="color: #FF0000">one computer <img src="new.gif" /></span> and access to all
+compilers and editors used in the contest. All teams will have
+comparable computing equipment.
+ 
+<li>
+The contest site will provide a printing facility that will be shared among
+the contestants. Printing will be done through the use of networked printing
+facilities shared by all teams.
+</ol>
+
+<a name="prizes"><b>Prizes</b></a>
+<p>
+
+TBA
+
+<a name="personnel"><b>Contest Personnel</b></a>
+
+<ol>
+<li>
+The <i>Contest Director</i> is responsible for appointing a
+<i>Site Director</i> and <i>Head Judge</i> for the contest, and is
+ultimately responsible for all aspects of the contest.
+ 
+<li>
+The <i>Site Director</i> is responsible for all local contest
+arrangements, including the solicitation of on-site volunteers,
+procurement of rooms and equipment (including backup systems), and so
+forth. The <i>Site Director</i> will conduct a meeting with the
+contestants prior to the start of the contest to reiterate the contest
+procedures and explain any site-specific policies, and will distribute
+the official contest results to all teams that participate in the contest.
+ 
+<li>
+The <i>Head Judge</i> is responsible for coordinating all aspects
+of the judging effort. The <i>Head Judge</i> will explain the judging
+procedures and work with the other judges to distribute the contest
+judging and record-keeping responsibilities.
+</ol>
+
+<a name="conduct"><b>Conduct of the Regional Contest</b></a>
+
+<ol>
+<li>
+At least six problems will be posed.
+ 
+<li>
+Each team must have a faculty advisor and a coach, who may or may not
+be the same person. The coach need not be a member of the faculty. The
+faculty advisor needs to be able to verify the eligibility of the
+contestants on the team. The coach must accompany the team to the contest.
+ 
+<li>
+Coaches and guests will have no contact with their teams during
+the contest. The penalty for contact is immediate disqualification of
+all teams from that school.
+ 
+<li>
+Coaches will receive a copy of the problems once the contest has
+begun. If a coach suspects any ambiguity in the problem statements,
+he or she must report this to the Contest Director for
+an immediate ruling.
+ 
+<li>
+If the Contest Director or Head Judge decides that a clarification is
+necessary, the Site Director will disseminate this information to all teams.
+ 
+<li>
+The Contest Director, Site Director(s), the Head Judge, and the
+pool of team coaches present serve as the final authority for
+resolving all local contest matters.
+ 
+<li>
+No penalties will be assessed for obtaining printed listings during the
+contest. Local procedures for obtaining a listing will be explained by
+the Site Coordinator during the meeting of the contestants.
+ 
+<li>
+Everyone who attends the contest gives permission to the Region and
+any organization it designates to use their likenesses in electronic and
+physical publications.
+ 
+</ol>
+
+<a name="pc2"><b>Electronic Submission with PC^2</b></a>
+
+<ol>
+
+<li>
+Submission of problems will be electronic, with
+<a href="http://www.ecs.csus.edu/pc2">PC^2 version 9</a>.
+Please read the
+<a href="http://www.ecs.csus.edu/pc2/pc2docs.html">Contestant's Guide</a>.
+ 
+</ol>
+ 
+<a name="judging"><b>Judging the Regional Contest</b></a>
+
+<ol>
+<li>
+Teams will not be given the test input files that the judges will use
+to determine program correctness.
+ 
+<li>
+Solutions to problems submitted for judging are called
+<i>runs</i>. Each run is judged as <i>correct</i> or
+incorrect, and the team is notified of the results.
+Incorrect runs will be marked with one of the following comments. They
+are listed in decreasing order of severity.
+
+<ol>
+<li> <i>file naming error</i>: The file naming convention was not
+  followed. Either the submission was incorrectly named, or the
+  program did not read from / write to the correctly named file.
+<li> <i>compile error</i>: The program did not compile.
+<li> <i>run-time error</i>: The program did not run to completion.
+<li> <i>wrong answer</i>: This means that the program compiled and
+  ran, but produced incorrect output.
+<li> <i>time limit exceeded</i>: The program did not finish executing
+  within the 2 minute time limit.
+<li> <i>presentation error</i>: The output was nominally correct, but
+  was not in the correct format.
+</ol>
+
+<li>
+The Contest Judges are solely responsible for determining the correctness
+of submitted runs. In consultation with the Contest Judges, the Chief Judge
+is responsible for determining the winners of the contest. They
+are empowered to adjust for or adjudicate unforeseen events and conditions.
+Their decisions are final.
+
+<li> The final contest results will be announced following the contest by the
+Contest Director, Site Director, or Head Judge.
+
+<li> Although they are unlikely, the Contest Director will resolve
+ties by examining the quality of submitted solutions and number of
+incorrect submissions.
+
+</ol>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+<p>
+
+<font size=-1><i>
+Last modified 15 September 2016.
+Please email
+<SCRIPT LANGUAGE="JavaScript" SRC="../signature.js"></SCRIPT>
+with comments, questions, or corrections.
+</i></font>
+
+<!--#include virtual="/analytics.html" -->
+
+</body>
+</html>

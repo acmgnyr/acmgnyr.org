@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>2015 ACM ICPC Greater New York Region: Standings</title>
+<meta name="google-site-verification" content="dUFWn1xXlkSxFOu2R7z2_kn5rNexZJeSR0QIp5Xg6UY" />
+</head>
+
+<!--#include file="header.html" -->
+
+<h2>Standings</h2>
+
+The <a href="problems.shtml">problems</a> are also available.
+
+<!--#include file="full.html" -->
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+
+<font size=-1><i>Last modified <script src="lastmod.js"></script>. Please email <a href="mailto:director@acmgnyr.org">director@acmgnyr.org</a> with comments, questions, or corrections.</i></font>
+
+<!--#include virtual="/analytics.html" -->
+
+</body>
+</html>
