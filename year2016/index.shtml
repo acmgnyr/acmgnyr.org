@@ -17,7 +17,7 @@
   <li><b>Number of computers per team:</b> 1 <img src="new.gif" /></li>
   <li><b>Languages</b>
     <ul>
-      <li>C/C++/Ada (gcc/g++/gnat) 6.1.1. C++ submissions will be compiled using the -std=c++14 flag. <img src="new.gif" /></li>
+      <li>C/C++/Ada (gcc/g++/gnat) 6.1.1. <img src="new.gif" /></li>
       <li>Java OpenJDK 1.8.0</li>
       <li>python 2.7.12 and 3.5.1 <img src="new.gif" /></li>
     </ul>
