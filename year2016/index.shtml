@@ -12,7 +12,16 @@
   <li><b><a href="/year2016/rules.shtml">Contest rules</a></b></li>
   <li><b>Hosted by:</b> <a href="https://manhattan.edu/academics/schools-and-departments/school-of-science/.computer-science-dept/index.php">Manhattan College Department of Computer Science</a> located in the Bronx</li>
   <li><b>Date:</b> Sunday, November 13, 2016</li>
-  <li><b>Schedule: TBA</b></li>
+  <li><b>Schedule:</b>
+    <ul>
+      <li>8:30am: Registration opens and breakfast (pastries and coffee)</li>
+      <li>9:00am - 11:00am: Practice contest</li>
+      <li>11:30am - 12:15pm: Opening ceremonies</li>
+      <li>12:45pm - 5:45pm: Contest</li>
+      <li>1:00pm: Lunch</li>
+      <li>6:00pm - 6:30pm: Closing ceremonies and prizes</li>
+    </ul>
+  </li>
   <li><b>Computing environment:</b> Fedora Core 24, <a href="/downloads.html">download contest environment</a></li>
   <li><b>Number of computers per team:</b> 1 <img src="new.gif" /></li>
   <li><b>Languages</b>
