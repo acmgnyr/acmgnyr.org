@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>2016 ACM ICPC Greater New York Region: Problems</title>
+<meta name="google-site-verification" content="dUFWn1xXlkSxFOu2R7z2_kn5rNexZJeSR0QIp5Xg6UY" />
+</head>
+
+<!--#include file="header.html" -->
+
+<h2>Problems</h2>
+
+<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></a> The problems, solutions and data are released into the public domain under a
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</p>
+
+<p>The problems are given as PDF documents. You can download <a href="problems.zip">all problems zipped together</a>.</p>
+
+<p>The <a href="standings.shtml">standings</a> are also available.</p>
+
+<center><table border="1">
+<tr>
+  <td>Problem</td> <td>Judges' Solution</td> <td>Judges' Input File</td> <td>Judges' Output</td>
+</tr>
+<tr>
+  <td>
+  <a href="problems/A-Bases.pdf">A - Which Base is it Anyway?</a> <br>
+  <a href="problems/B-FBI.pdf">B - FBI Universal Control Numbers</a> <br>
+  <a href="problems/C-M-ary.pdf">C - M-ary Partitions</a> <br>
+  <a href="problems/D-RationalSequence.pdf">D - A Rational Sequence (Take 3)</a> <br>
+  <a href="problems/E-Descent.pdf">E - Permutation Descent Counts</a> <br>
+  <a href="problems/F-TFS.pdf">F - Tight-Fit Sudoku</a> <br>
+  <a href="problems/G-Knight.pdf">G - Magical Mystery Knight's Tour</a> <br>
+  <a href="problems/H-DASort.pdf">H - DA-Sort</a> <br>
+  <a href="problems/I-AMazing.pdf">I - A Mazing!</a> <br>
+  <a href="problems/J-Gardens.pdf">J - Smoothed Gardens</a>
+  </td><td>
+  <a href="solutions/A-base.c">A-base.c</a> <br>
+  <a href="solutions/B-fbi.c">B-fbi.c</a> <br>
+  <a href="solutions/C-mary.c">C-mary.c</a> <br>
+  <a href="solutions/D-rat_seqa.c">D-rat_seqa.c</a> <br>
+  <a href="solutions/E-descent.c">E-descent.c</a> <br>
+  <a href="solutions/F-TFSudoku.java">F-TFSudoku.java</a> <br>
+  <a href="solutions/G-magic_knight.c">G-magic_knight.c</a> <br>
+  <a href="solutions/H-dasort.c">H-dasort.c</a> <br>
+  <a href="solutions/I-Maze.cpp">I-Maze.cpp</a> <br>
+  <a href="solutions/J-gardens.c">J-gardens.c</a>
+  </td><td>
+  <a href="data/a.in">a.in</a> <br>
+  <a href="data/b.in">b.in</a> <br>
+  <a href="data/c.in">c.in</a> <br>
+  <a href="data/d.in">d.in</a> <br>
+  <a href="data/e.in">e.in</a> <br>
+  <a href="data/f.in">f.in</a> <br>
+  <a href="data/g.in">g.in</a> <br>
+  <a href="data/h.in">h.in</a> <br>
+  <a href="data/i.in">i.in</a> <br>
+  <a href="data/j.in">j.in</a> 
+  </td><td>
+  <a href="data/a.out">a.out</a> <br>
+  <a href="data/b.out">b.out</a> <br>
+  <a href="data/c.out">c.out</a> <br>
+  <a href="data/d.out">d.out</a> <br>
+  <a href="data/e.out">e.out</a> <br>
+  <a href="data/f.out">f.out</a> <br>
+  <a href="data/g.out">g.out</a> <br>
+  <a href="data/h.out">h.out</a> <br>
+  <a href="data/i.out">i.out</a> <br>
+  <a href="data/j.out">j.out</a> 
+  </td>
+</tr>
+</table></center>
+<p>
+
+<hr>
+
+<a href="http://www.acmgnyr.org">Back to the contest home page.</a>
+
+<font size=-1><i>Last modified <script src="lastmod.js"></script>. Please email <a href="mailto:director@acmgnyr.org">director@acmgnyr.org</a> with comments, questions, or corrections.</i></font>
+
+<!--#include virtual="/analytics.html" -->
+
+</body>
+</html>
