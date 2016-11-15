@@ -8,7 +8,15 @@
 
 <h2>Standings</h2>
 
-The <a href="problems.shtml">problems</a> are also available.
+<p>This year we awarded three special prizes. They are unique to this year, don't expect the same prizes to be available next year!</p>
+
+<ul>
+    <li><b>Lightning Coders:</b> Yale 3, for solving the first problem of the contest at 9 minutes</li>
+    <li><b>The Last Say:</b> Columbia 1, for solving the last problem of the contest at 299 minutes</li>
+    <li><b>Persistent Debuggers:</b> Columbia 2, for solving problem I on their 6th attempt, the most attempts of any team</li>
+</ul>
+
+<p>The <a href="problems.shtml">problems</a> are also available.</p>
 
 <!--#include file="full.html" -->
 
