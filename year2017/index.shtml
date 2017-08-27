@@ -1,0 +1,139 @@
+<html>
+<head>
+<title>2016 ACM ICPC Greater New York Region</title>
+<meta name="google-site-verification" content="dUFWn1xXlkSxFOu2R7z2_kn5rNexZJeSR0QIp5Xg6UY" />
+</head>
+
+<!--#include file="header.html" -->
+
+<b><font color="#FF0000" size="+1">2016 General Contest Information</font></b>
+ 
+<ul>
+  <li><b><a href="/year2017/rules.shtml">Contest rules</a></b></li>
+  <li><a href="/year2017/ACMGNYR-CallForHosts2017.pdf">Call for hosts now available</a> <img src="new.gif"></li>
+  <li><b>Date:</b> TBA</li>
+  <li><b>Computing environment:</b> Fedora Core 24, <a href="/downloads.html">download contest environment</a></li>
+  <li><b>Number of computers per team:</b> 1</li>
+  <li><b>Languages</b>
+    <ul>
+      <li>C/C++/Ada (gcc/g++/gnat) 6.1.1</li>
+      <li>Java OpenJDK 1.8.0</li>
+      <li>python 2.7.12 and 3.5.1</li>
+    </ul>
+  </li>
+  <li><b>Registration (Deadline TBA)</b>
+    <ul>
+      <li>First-time contestants: Create an account on the ACM ICPC website <a href="https://icpc.baylor.edu/register">here</a></li>
+      <li>Returning contestants: Make sure your ACM ICPC profile information is up-to-date <a href="https://icpc.baylor.edu/private/profile">here</a> (including shirt size)</li>
+      <li>Coaches: Once your contestants have accounts on the ACM ICPC website, create your teams <a href="https://icpc.baylor.edu/private/teamRegistration/site/11227">here</a></li>
+    </ul>
+  </li>
+  <li><b>Cost:</b> TBA</li>
+</ul>
+ 
+<p>
+
+<p>
+
+<b><font color="#FF0000" size="+1">Previous Years</font></b>
+<ul>
+  <li>2016 at Manhattan College:
+    <a href="/year2016/standings.shtml">standings</a> or
+    <a href="/year2016/problems.shtml">problems</a> or
+    <a href="/year2016/rules.shtml">rules</a>
+  <li>2015 at Queens College:
+    <a href="/year2015/standings.shtml">standings</a> or
+    <a href="/year2015/problems.shtml">problems</a> or
+    <a href="/year2015/rules.shtml">rules</a>
+  <li>2014 at St. Joseph's University:
+    <a href="/year2014/standings.shtml">standings</a> or
+    <a href="/year2014/problems.shtml">problems</a> or
+    <a href="/year2014/rules.shtml">rules</a>
+  <li>2013 at Yale University:
+    <a href="/year2013/standings.shtml">standings</a> or
+    <a href="/year2013/problems.shtml">problems</a> or
+    <a href="/year2013/rules.shtml">rules</a>
+  <li>2012 at Stony Brook University:
+    <a href="/year2012/standings.shtml">standings</a> or
+    <a href="/year2012/problems.shtml">problems</a> or
+    <a href="/year2012/rules.shtml">rules</a>
+  <li>2011 at Adelphi University:
+    <a href="/year2011/standings.shtml">standings</a> or
+    <a href="/year2011/problems.shtml">problems</a>
+  <li>2010 at Rutgers University:
+    <a href="/year2010/standings.shtml">standings</a> or
+    <a href="/year2010/problems.shtml">problems</a>
+  <li>2009 at Hofstra University:
+    <a href="/year2009/standings.shtml">standings</a> or
+    <a href="/year2009/problems.shtml">problems</a>
+  <li>2008 at St. Joseph's College:
+    <a href="/year2008/standings.shtml">standings</a> or
+    <a href="/year2008/problems.shtml">problems</a>
+  <li>2007 at Kean University:
+    <a href="/year2007/standings.shtml">standings</a> or
+    <a href="/year2007/problems.shtml">problems</a>
+  <li>2006 at Nassau Community College:
+    <a href="/year2006/standings.shtml">standings</a> or
+    <a href="/year2006/problems.shtml">problems</a>
+  <li>2005 at Kean University:
+    <a href="/year2005/standings.shtml">standings</a> or
+    <a href="/year2005/problems.shtml">problems</a>
+  <li>2004 at Iona College and Stevens Tech:
+    <a href="/year2004/standings.shtml">standings</a> or
+    <a href="/year2004/problems.shtml">problems</a>
+  <li>2003 at New York Institute of Technology:
+    <a href="/year2003/standings.shtml">standings</a> or
+    <a href="/year2003/problems.shtml">problems</a>
+  <li>2002 at Columbia University:
+    <a href="/year2002/standings.shtml">standings</a> or
+    <a href="/year2002/problems.shtml">problems</a>
+  <li>2001 at Nassau Community College:
+    <a href="/year2001/standings.shtml">standings</a> or
+    <a href="/year2001/problems.shtml">problems</a>
+  <li>2000 at Kean University:
+    <a href="/year2000/standings.shtml">standings</a> or
+    <a href="/year2000/problems.shtml">problems</a>
+  <li>1999 at USMA:
+    <a href="/year1999/standings.shtml">standings</a> or
+    <a href="/year1999/problems.shtml">problems</a>
+  <li>1998 at Bloomfield College:
+    <a href="/year1998/standings.shtml">standings</a> or
+    <a href="/year1998/problems.shtml">problems</a>
+  <li>1997 at USMA:
+    <a href="/year1997/problems.html">problems</a>
+</ul>
+
+<b><font color="#FF0000" size="+1">Other Useful Resources</font></b>
+
+<ul>
+<li><a href="http://acmicpc.org">ACM International Collegiate
+  Programming Contest</a>
+<li><a href="http://acm.uva.es/problemset">ACM International Collegiate
+  Programming Contest Problem Set Archive</a> at Universidad de Valladolid
+<li><u>Programming Challenges: The Programming Contest Training Manual</u>,
+  by Steve Skiena and Miguel Revilla, via
+  <a href="http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?isbn=0387001638">Barnes and Noble</a> or
+  <a href="http://www.amazon.com/exec/obidos/ASIN/0387001638/ref=nosim/thealgorithmrepo">Amazon</a>
+<li> Consortium for Computing Sciences in Colleges (CCSC) Programming
+  Contest, hosted by our very own
+  <a href="http://www.sjcny.edu/page.php/prmID/1723">St. Joseph's College</a>
+<li><a href="http://mathschallenge.net/index.php?section=project">Project
+    Euler</a>
+<li>ACM ICPC page on <a href="http://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest">Wikipedia</a>
+</ul>
+
+<p>
+
+<b><font color="#FF0000" size="+1">For More Information</font></b>
+contact the <b>Contest Director</b> <a href="mailto:smcintyre@acmgnyr.org">Sean McIntyre</a><br>
+
+<hr>
+
+<font size=-1><i>
+Last modified <script src="lastmod.js"></script>. Please email <a href="mailto:director@acmgnyr.org">director@acmgnyr.org</a> with comments, questions, or corrections.
+</i></font>
+
+<!--#include virtual="/analytics.html" -->
+
+</body>
+</html>
