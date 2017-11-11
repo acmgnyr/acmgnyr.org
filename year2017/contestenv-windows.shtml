@@ -1,0 +1,64 @@
+<!--#include file="header.html" -->
+
+<h3>How to prepare a USB thumb drive for the contest ISO Image on Windows</h3>
+
+<ol>
+  <li>Select a thumb drive that is at least 4GB in size.</li>
+  <li>Insert the drive into the Windows PC</li>
+  <li>Create an Administrator command prompt window.  Usually from the Start Menu, choose Accessories, and Right-click on "Command Prompt" and choose "Run as Administrator"</li>
+  <li>At the command prompt, type: <kbd>diskpart</kbd></li>
+  <li>Type <kbd>list disk" once diskpart starts</li>
+  <li>Find the USB disk in the list.  <strong>Make sure you select the correct one!!!</strong></li>
+  <li>Type <kbd>select disk <i>X</i></kbd> (where <kbd><i>X</i></kbd> is the number of the USB disk). <strong>Very important</strong> to get this right or you can destroy your Windows hard disk.</li>
+  <li>After selecting the disk, type: <kbd>list part</kbd>  This will show all partititions on the drive.</li>
+  <li>For each partition (if any), do:</li>
+    <ol>
+      <li>Type <kbd>select part <i>P</i></kbd> (where <kbd><i>P</i></kbd> is the partition number as shown in the list)</li>
+      <li>Type <kbd>delete part override</kbd></li>
+    </ol>
+  <li>The thumb drive should have no partitions on it now.  We need to create one for the contest system.  type: <kbd>create part primary</kbd></li>
+  <li>Now the partition must be formatted properly:</li>
+    <ol>
+      <li>Type <kbd>select part 1</kbd> </li>
+      <li>Type <kbd>format fs=fat32 label="Contest" quick</kbd></li>
+    </ol>
+  <li>When the format completes, quit the 'diskpart' utility by typing: <kbd>exit</kbd></li>
+</ol>
+
+That is all.  Now you can use the Fedora Media Writer to copy the ISO image onto the USB drive.
+
+<h3>Creating a bootable USB using Fedora Media Writer on Windows</h3>
+
+<ol>
+  <li>Download and install Fedora Media Writer V4.1.0 from this link: <kbd><a href="https://getfedora.org/fmw/FedoraMediaWriter-win32-4.1.0.exe">https://getfedora.org/fmw/FedoraMediaWriter-win32-4.1.0.exe</a></kbd></i></li>
+  <li>Download the ISO contest image from the link: <kbd><a href="https://s3.amazonaws.com/acmgnyr/2017-Contest-Image.iso">2017-Contest-Image.iso</a></kbd></li>
+  <li>Insert your USB drive (at least 4gb)</li>
+  <li>Start Fedora Media Write as "Administrator".  Find "Fedora Media Writer" in your Start menu, expand the folder then right click on "Fedora Media Writer" and select "Run as Administrator"</li>
+  <li>Choose "Custom Image" (the bottom choice)</li>
+  <li>Browse to the location where you downloaded the ISO contest image, and select the ISO file.</li>
+  <li>When the "Write Custom Image" window pops up, make sure that the correct USB disk is selected and select the red "Write to disk" button.</li>
+  <li>This will take some time - maybe 5 to 10 minutes.</li>
+  <li>Check for errors on the window.  If none, the choose the "Close" button.</li>
+</ol>
+
+<h3>The "TEAM-SAVE" Drive</a></h3>
+
+<p>In order to have the system save your work periodically so you don't lose anything if the system must be rebooted, you will also need another thumb drive (any size you like).  You have to format it as FAT32 and give it the label "TEAM-SAVE".  This thumb drive should be inserted before you boot the system using the boot disk created above.  It must REMAIN IN THE SYSTEM DURING THE ENTIRE CONTEST if you want your files saved. The system will copy your files every 5 minutes to this thumb drive.</p>
+
+<h3>Boot into the environment</h3>
+
+<p>Once you have your bootable media working, you should be able to boot your system (PC or laptop) from it.  The system should automatically login as user "contestant", but this does not always happen.  If it doesn't, just hit ENTER twice when you see the login screen.</p>
+
+<p>At this point, you should try bringing up the Firefox browser.  It should take you to the home page '<kbd>http://contest-server:8017/</kbd>, where you will find the usual contest webpage, including instructions for configuring a printer, if you need one.  There is also a menu item (on the left) for making submissions during the contest.  Ignore this for now.</p>
+
+<h3>Things to try before you compete</h3>
+
+<ul>
+  <li>You are able to print</li>
+  <li>You are able to connect to the Internet and the contest server</li>
+</ul>
+
+<!--#include virtual="/analytics.html" -->
+
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!--#include file="header.html" -->
+
+<h3>Creating a bootable USB using the <kbd>dd</kbd> command on Linux</h3>
+
+<ol>
+  <li>Download the compressed contest disk image from the contest server using the link above or with the command: <blockquote><kbd> wget https://s3.amazonaws.com/acmgnyr/gny-2017.img.gz</kbd></blockquote></li>
+  <li>You must have permission on the Linux system to write to disk volumes.</li>
+  <li>Insert your USB thumb drive.  It must be at least 4GB in size.</li>
+  <li>Determine the name of the system assigned to the device.  Often, this can be done
+using the system messaging command 'dmesg'.  For example:
+<blockquote><pre>
+# dmesg | tail
+[318414.220371] scsi host1: usb-storage 1-4:1.0
+[318415.975281] scsi 1:0:0:0: Direct-Access     SMI      USB DISK         1100 PQ: 0 ANSI: 4
+[318415.975842] sd 1:0:0:0: Attached scsi generic sg0 type 0
+[318415.976368] sd 1:0:0:0: [sdb] 8052736 512-byte logical blocks: (4.12 GB/3.84 GiB)
+[318415.977165] sd 1:0:0:0: [sdb] Write Protect is off
+[318415.977171] sd 1:0:0:0: [sdb] Mode Sense: 43 00 00 00
+[318415.977983] sd 1:0:0:0: [sdb] No Caching mode page found
+[318415.978068] sd 1:0:0:0: [sdb] Assuming drive cache: write through
+[318415.984414]  sdb: sdb1 sdb2 sdb3
+[318415.987209] sd 1:0:0:0: [sdb] Attached SCSI removable disk
+#
+</pre></blockquote>
+In this case, "sdb" is the device name chosen for the USB drive.  The device PATH is
+/dev/sdb</li>
+  <li>Now, write the image to the thumb drive:
+  <blockquote><kbd>gunzip < gny-2017.img.gz | dd of=/dev/sdb bs=1M status=progress</kbd></blockquote>
+  (This could take between 8 and 30 minutes to do depending on your thumb drive and system.  It should print progress messages as it is copying.)</li>
+  <li>When it finishes, remove the thumb drive.  You should be able to boot off the drive on a laptop or desktop.</li>
+</ol>
+
+<h3>Boot into the envrionment</h3>
+
+<p>Once you have your bootable media working, you should be able to boot your system (PC or laptop) from it.  The system should automatically login as user "contestant", but this does not always happen.  If it doesn't, just hit ENTER twice when you see the login screen.</p>
+
+<p>At this point, you should try bringing up the Firefox browser.  It should take you to the home page '<kbd>http://contest-server:8017/</kbd>, where you will find the usual contest webpage, including instructions for configuring a printer, if you need one.  There is also a menu item (on the left) for making submissions during the contest.  Ignore this for now.</p>
+
+<h3>Things to try before you compete</h3>
+
+<ul>
+  <li>You are able to print</li>
+  <li>You are able to connect to the Internet and the contest server</li>
+</ul>
+
+<!--#include virtual="/analytics.html" -->
+
+</body>
+</html>

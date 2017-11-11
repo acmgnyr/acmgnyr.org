@@ -1,0 +1,35 @@
+<!--#include file="header.html" -->
+
+<h3>Creating a bootable USB using the <kbd>diskutil</kbd> command on MacOS</h3>
+
+<ol>
+  <li>Download the <a href="https://s3.amazonaws.com/acmgnyr/gny-2017.img.gz">USB image (compressed with gzip)</a></li>
+  <li>Unzip the image.</li>
+  <li>With USB drive <em>not</em> inserted, run <kbd>diskutil list</kbd>.</li>
+  <li>Insert USB drive, and again run <kbd>diskutil list</kbd> to see the new drive / your USB drive. The drive will be referred to by <kbd>/dev/disk<i>N</i></kbd> (where <kbd><i>N</i></kbd> is a number).</li>
+  <li>Run <kbd>diskutil unmountDisk /dev/disk<i>N</i></kbd>.</li>
+  <li>Run <kbd>sudo dd if=path/to/gny-2017.img of=/dev/rdisk<i>N</i> bs=1m</kbd>. This operation takes about 10 minutes. You can press control-T in the console to send the INFO signal and see the progress about this operation.</li>
+  <li>When finished, run <kbd>diskutil eject /dev/disk<i>N</i></kbd></li>
+</ol>
+
+<h3>The "TEAM-SAVE" Drive</a></h3>
+
+<p>In order to have the system save your work periodically so you don't lose anything if the system must be rebooted, you will also need another thumb drive (any size you like).  You have to format it as FAT32 and give it the label "TEAM-SAVE".  This thumb drive should be inserted before you boot the system using the boot disk created above.  It must REMAIN IN THE SYSTEM DURING THE ENTIRE CONTEST if you want your files saved. The system will copy your files every 5 minutes to this thumb drive.</p>
+
+<h3>Boot into the envrionment</h3>
+
+<p>Reboot your Mac computer, and when the start-up chime sounds, press Option. Select EFI Boot, and launch the contest image. The system should automatically login as user "contestant", but this does not always happen.  If it doesn't, just hit ENTER twice when you see the login screen.</p>
+
+<p>At this point, you should try bringing up the Firefox browser.  It should take you to the home page '<kbd>http://contest-server:8017/</kbd>, where you will find the usual contest webpage, including instructions for configuring a printer, if you need one.  There is also a menu item (on the left) for making submissions during the contest.  Ignore this for now.</p>
+
+<h3>Things to try before you compete</h3>
+
+<ul>
+  <li>You are able to print</li>
+  <li>You are able to connect to the Internet and the contest server</li>
+</ul>
+
+<!--#include virtual="/analytics.html" -->
+
+</body>
+</html>

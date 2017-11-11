@@ -12,23 +12,43 @@
   <li><b><a href="/year2017/rules.shtml">Contest rules</a></b></li>
   <li><b>Contest sites: Manhattan College, Yale, Stony Brook, Binghamton College, and online!</b> <img src="new.gif"></li>
   <ul>
-    <li><b>World Finals elgibitility:</b> At a minimum, teams who wish to be eligible for the World Finals must compete at a location with more than one school OR a contest official.</li>
+    <li><b>World Finals elgibitility:</b> Teams who wish to be eligible for the World Finals must compete at a location with more than one school OR a contest official.</li>
     <li><b>Video connection:</b> We will live-streaming the opening and closing ceremonies and staying connected with all participating sites via Slack chat and Slack Video Conferencing.</li>
     <li><b>Contest image:</b> We will require participants use the Greater New York Region contest image that provides the typical controlled environment.</li>
     <li><b>T-shirts:</b> We will send you t-shirts!</li>
-    <li>More details to be announced.</li>
   </ul>
-  <li><a href="/year2017/ACMGNYR-CallForProblems2017.pdf">Call for Problems now available</a></li>
   <li><b>Date:</b> Sunday, November 19</li>
   <li><b>Schedule:</b>
   <ul>
     <li>11:15 am: Contest opening ceremonies livestream</li>
     <li>12:00 noon: Contest begins</li>
-    <li>5:00 pm: Contest ends</li>
-    <li>5:30 pm: Contest closing ceremonies livestream</li>
+    <ul>
+      <li>The problems and pc^2 account information will be released at noon for you to download and print.</li>
+    </ul>
+    <li>5:30 pm: Contest ends</li>
+    <ul>
+      <li>Extra 30 minutes to allow for time to print</li>
+    </ul>
+    <li>5:45 pm: Contest closing ceremonies livestream</li>
   </ul>
   </li>
-  <li><b>Computing environment:</b> To be released</li>
+  <li><b>Practice Session:</b></li>
+
+    There will be an extended practice session from noon on Tuesday,
+    November 14 through noon on Saturday, November 18.
+    Each team will be given an account name and password for
+    the PC^2 web interface
+    (which is accessed through the problem submission menu item
+    mentioned above).
+    Use this time to get acquainted with 
+    the PC^2 web interface for
+    submittin solutions to the practice problems as well as
+    clarification questionss to the judges.
+    You will also want to make sure
+    you can use the contest programming environment effectively.
+
+
+  <li><b><a href="/year2017/contestenv.shtml">Computing environment</a></b> <img src="new.gif" /></li>
   <li><b>Number of computers per team:</b> 1</li>
   <li><b>Languages</b>
     <ul>

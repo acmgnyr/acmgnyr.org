@@ -1,0 +1,25 @@
+<!--#include file="header.html" -->
+
+<h2>2017 Contest Environment Information</h2>
+
+<o>You need to boot into the GNYR contest environment in order to compete. It provides a programming environment, contest software, and connection to our contest server to compete.</p>
+
+<p>Things you need before you begin:
+
+<ul>
+    <li>One (or two) USB keys at least 4 GB in size.</li>
+    <li>A <b>wired</b> connection to the Internet. (Not wireless.)</li>
+</ul>
+
+<p>Then, choose your OS:</p>
+
+<ul>
+    <li><a href="year2017/contestenv-linux.shtml">Linux</a></li>
+    <li><a href="year2017/contestenv-windows.shtml">Windows</a></li>
+    <li><a href="year2017/contestenv-mac.shtml">Mac OS / OS X</a></li>
+</ul>
+
+<!--#include virtual="/analytics.html" -->
+
+</body>
+</html>
