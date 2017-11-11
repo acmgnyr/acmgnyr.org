@@ -1,5 +1,7 @@
 <!--#include file="header.html" -->
 
+<h2><a href="/year2017/contestenv.shtml">2017 Contest Environment Information</a></h2>
+
 <h3>Creating a bootable USB using the <kbd>dd</kbd> command on Linux</h3>
 
 <ol>

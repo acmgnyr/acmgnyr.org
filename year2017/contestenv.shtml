@@ -1,6 +1,6 @@
 <!--#include file="header.html" -->
 
-<h2>2017 Contest Environment Information</h2>
+<h2><a href="/year2017/contestenv.shtml">2017 Contest Environment Information</a></h2>
 
 <o>You need to boot into the GNYR contest environment in order to compete. It provides a programming environment, contest software, and connection to our contest server to compete.</p>
 
@@ -14,10 +14,12 @@
 <p>Then, choose your OS:</p>
 
 <ul>
-    <li><a href="year2017/contestenv-linux.shtml">Linux</a></li>
-    <li><a href="year2017/contestenv-windows.shtml">Windows</a></li>
-    <li><a href="year2017/contestenv-mac.shtml">Mac OS / OS X</a></li>
+    <li><a href="/year2017/contestenv-linux.shtml">Linux</a></li>
+    <li><a href="/year2017/contestenv-windows.shtml">Windows</a></li>
+    <li><a href="/year2017/contestenv-mac.shtml">Mac OS / OS X</a></li>
 </ul>
+
+</div>
 
 <!--#include virtual="/analytics.html" -->
 
