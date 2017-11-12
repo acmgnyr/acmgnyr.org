@@ -2,16 +2,16 @@
 
 <h2><a href="/year2017/contestenv.shtml">2017 Contest Environment Information</a></h2>
 
-<o>You need to boot into the GNYR contest environment in order to compete. It provides a programming environment, contest software, and connection to our contest server to compete.</p>
+<o>You will need to boot your computer into the GNYR contest environment (by a USB drive or DVD) in order to compete in this year's GNYR Contest. The environment provides programming tools, contest software, and connection to our contest server to compete.</p>
 
-<p>Things you need before you begin:
+<p>Provided here are instructions how to create that USB drive and what to do once you boot into it. Things you need before you begin:</p>
 
 <ul>
     <li>One (or two) USB keys at least 4 GB in size.</li>
     <li>A <b>wired</b> connection to the Internet. (Not wireless.)</li>
 </ul>
 
-<p>Then, choose your OS:</p>
+<p>Then, choose the OS you are using to create a contest environment USB drive:</p>
 
 <ul>
     <li><a href="/year2017/contestenv-linux.shtml">Linux</a></li>
