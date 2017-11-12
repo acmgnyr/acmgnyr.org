@@ -1,0 +1,20 @@
+
+
+
+<!--#include file="header.html" -->
+
+<h2><a href="/year2017/contestenv.shtml">2017 Contest Environment Information</a></h2>
+
+<h3>Burn a bootable DVD</h3>
+
+<p>If all else fails, download the <kbd><a href="https://s3.amazonaws.com/acmgnyr/2017-Contest-Image.iso">2017-Contest-Image.iso</a></kbd> (<a href="/downloads/md5sum.txt">Checksums</a>), and burn it to a DVD.</p>
+
+<h3>The "TEAM-SAVE" Drive</a></h3>
+
+<p>In order to have the system save your work periodically so you don't lose anything if the system must be rebooted, you will also need another thumb drive (any size you like).  You have to format it as FAT32 and give it the label "TEAM-SAVE".  This thumb drive should be inserted before you boot the system using the boot disk created above.  It must REMAIN IN THE SYSTEM DURING THE ENTIRE CONTEST if you want your files saved. The system will copy your files every 5 minutes to this thumb drive.</p>
+
+
+<!--#include virtual="/analytics.html" -->
+
+</body>
+</html>

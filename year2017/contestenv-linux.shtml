@@ -5,7 +5,7 @@
 <h3>Creating a bootable USB using the <kbd>dd</kbd> command on Linux</h3>
 
 <ol>
-  <li>Download the compressed contest disk image from the contest server using the link above or with the command: <blockquote><kbd> wget https://s3.amazonaws.com/acmgnyr/gny-2017.img.gz</kbd></blockquote></li>
+  <li>Download the compressed contest disk image from the contest server using the link above or with the command: <blockquote><kbd> wget https://s3.amazonaws.com/acmgnyr/gny-2017.img.gz</kbd></blockquote> (<a href="/downloads/md5sum.txt">Checksums</a>)</li>
   <li>You must have permission on the Linux system to write to disk volumes.</li>
   <li>Insert your USB thumb drive.  It must be at least 4GB in size.</li>
   <li>Determine the name of the system assigned to the device.  Often, this can be done

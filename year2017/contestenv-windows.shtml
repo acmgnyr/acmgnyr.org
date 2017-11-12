@@ -33,7 +33,7 @@ That is all.  Now you can use the Fedora Media Writer to copy the ISO image onto
 
 <ol>
   <li>Download and install Fedora Media Writer V4.1.0 from this link: <kbd><a href="https://getfedora.org/fmw/FedoraMediaWriter-win32-4.1.0.exe">https://getfedora.org/fmw/FedoraMediaWriter-win32-4.1.0.exe</a></kbd></i></li>
-  <li>Download the ISO contest image from the link: <kbd><a href="https://s3.amazonaws.com/acmgnyr/2017-Contest-Image.iso">2017-Contest-Image.iso</a></kbd></li>
+  <li>Download the ISO contest image from the link: <kbd><a href="https://s3.amazonaws.com/acmgnyr/2017-Contest-Image.iso">2017-Contest-Image.iso</a></kbd> (<a href="/downloads/md5sum.txt">Checksums</a>)</li>
   <li>Insert your USB drive (at least 4gb)</li>
   <li>Start Fedora Media Write as "Administrator".  Find "Fedora Media Writer" in your Start menu, expand the folder then right click on "Fedora Media Writer" and select "Run as Administrator"</li>
   <li>Choose "Custom Image" (the bottom choice)</li>
